@@ -5,13 +5,12 @@ import matplotlib.dates as mdates
 from datetime import datetime
 import numpy as np
 
-# config
-USERS = ["ray", "hayden", "arthur"]
-CATEGORIES = ["leetcode", "neetcode", "project Euler"]
-DISPLAY_NAMES = {"ray": "Ray", "hayden": "Hayden", "arthur": "Arthur"}
-CATEGORY_TITLES = {"leetcode": "LeetCode", "neetcode": "NeetCode", "project Euler": "Euler"}
+USERS = ["Ray", "Hayden", "Arthur"]
+CATEGORIES = ["Leetcode", "Neetcode", "Project Euler"]
+DISPLAY_NAMES = {"Ray": "Ray", "Hayden": "Hayden", "Arthur": "Arthur"}
+CATEGORY_TITLES = {"Leetcode": "LeetCode", "Neetcode": "NeetCode", "Project Euler": "Euler"}
 
-COLORS = {'ray': '#FF5555', 'hayden': '#50fa7b', 'arthur': '#8be9fd'}
+COLORS = {'Ray': '#FF5555', 'Hayden': '#50fa7b', 'Arthur': '#8be9fd'}
 
 VALID_EXTENSIONS = (
     ".py", ".js", ".ts", ".java", ".cpp", ".c", ".cs", ".go", 
@@ -38,6 +37,7 @@ for user in USERS:
                         total_stats[user] += 1
 
 today_str = datetime.now().strftime('%Y-%m-%d')
+
 if os.path.exists(HISTORY_FILE):
     with open(HISTORY_FILE, 'r') as f:
         try:
@@ -49,6 +49,7 @@ else:
 
 if "dates" not in history: history["dates"] = []
 if "scores" not in history: history["scores"] = {u: [] for u in USERS}
+
 if history["dates"] and history["dates"][-1] == today_str:
     for user in USERS:
         if len(history["scores"][user]) > 0:
