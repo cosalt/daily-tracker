@@ -1,6 +1,6 @@
 # Daily Coding Tracker
 
-Tracking progress for Ray, Hayden, and Arthur.
+Tracking progress for Hayden, Arthur and Ray.
 
 ## Current Standings (Total)
 Who is putting in the most work overall?
