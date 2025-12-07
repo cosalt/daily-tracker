@@ -24,18 +24,25 @@ jobs:
           python-version: '3.9'
 
       - name: Install dependencies
-        run: pip install matplotlib
+        run: pip install matplotlib numpy requests
 
       - name: Generate Graphs
-        run: python scripts/generate_graph.py
+        run: |
+          if [ ! -f scripts/history.json ]; then
+            echo '{"dates": [], "scores": {}}' > scripts/history.json
+          fi
+          python scripts/generate_graph.py
 
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add images/*.png
-          if [[ -n $(git status -s) ]]; then
-            git commit -m "Auto-update progress graphs [skip ci]"
+          
+          git add images/*
+          git add scripts/history.json
+          
+          if ! git diff --staged --quiet; then
+            git commit -m "Update progress graph and history [skip ci]"
             git push
           else
             echo "No changes to commit"
