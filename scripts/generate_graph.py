@@ -43,19 +43,23 @@ if os.path.exists(HISTORY_FILE):
         try:
             history = json.load(f)
         except json.JSONDecodeError:
-            history = {"dates": [], "scores": {u: [] for u in USERS}}
+            history = {"dates": [], "scores": {}}
 else:
-    history = {"dates": [], "scores": {u: [] for u in USERS}}
+    history = {"dates": [], "scores": {}}
 
 if "dates" not in history: history["dates"] = []
-if "scores" not in history: history["scores"] = {u: [] for u in USERS}
+if "scores" not in history: history["scores"] = {}
+
+for user in USERS:
+    if user not in history["scores"]:
+        if user.lower() in history["scores"]:
+            history["scores"][user] = history["scores"][user.lower()]
+        else:
+            history["scores"][user] = [0] * len(history["dates"])
 
 if history["dates"] and history["dates"][-1] == today_str:
     for user in USERS:
-        if len(history["scores"][user]) > 0:
-             history["scores"][user][-1] = total_stats[user]
-        else:
-             history["scores"][user].append(total_stats[user])
+        history["scores"][user][-1] = total_stats[user]
 else:
     history["dates"].append(today_str)
     for user in USERS:
@@ -79,7 +83,7 @@ fig, ax = setup_dark_mode((10, 5))
 x_dates = [datetime.strptime(d, '%Y-%m-%d') for d in history["dates"]]
 
 for user in USERS:
-    if history["scores"][user]:
+    if user in history["scores"] and len(history["scores"][user]) == len(x_dates):
         ax.plot(x_dates, history["scores"][user], 
                 label=DISPLAY_NAMES[user], color=COLORS[user], 
                 linewidth=3, marker='o')
