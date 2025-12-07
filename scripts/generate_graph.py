@@ -82,11 +82,14 @@ def setup_dark_mode(figsize=(6,4)):
 fig, ax = setup_dark_mode((10, 5))
 x_dates = [datetime.strptime(d, '%Y-%m-%d') for d in history["dates"]]
 
+JITTER = {'Ray': 0.1, 'Hayden': 0.0, 'Arthur': -0.1}
+
 for user in USERS:
     if user in history["scores"] and len(history["scores"][user]) == len(x_dates):
-        ax.plot(x_dates, history["scores"][user], 
+        display_scores = [score + JITTER.get(user, 0) for score in history["scores"][user]]
+        ax.plot(x_dates, display_scores, 
                 label=DISPLAY_NAMES[user], color=COLORS[user], 
-                linewidth=3, marker='o')
+                linewidth=3, marker='o', markersize=6)
 
 ax.set_title('Total Growth Over Time', color='white', fontsize=14, fontweight='bold', pad=15)
 ax.xaxis.set_major_formatter(mdates.DateFormatter('%m-%d'))
