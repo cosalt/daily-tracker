@@ -6,15 +6,13 @@ from datetime import datetime
 import numpy as np
 
 # config
-USERS = ["Ray", "Hayden", "Arthur"]
+USERS = ["ray", "hayden", "arthur"]
 CATEGORIES = ["leetcode", "neetcode", "project Euler"]
 DISPLAY_NAMES = {"ray": "Ray", "hayden": "Hayden", "arthur": "Arthur"}
 CATEGORY_TITLES = {"leetcode": "LeetCode", "neetcode": "NeetCode", "project Euler": "Euler"}
 
-# color Ray (red), Hayden (green), Arthur (blue)
 COLORS = {'ray': '#FF5555', 'hayden': '#50fa7b', 'arthur': '#8be9fd'}
 
-# file extensions to validate
 VALID_EXTENSIONS = (
     ".py", ".js", ".ts", ".java", ".cpp", ".c", ".cs", ".go", 
     ".rb", ".php", ".swift", ".kt", ".rs", ".sql", ".html", ".css"
@@ -26,7 +24,6 @@ IMAGES_DIR = 'images'
 if not os.path.exists(IMAGES_DIR):
     os.makedirs(IMAGES_DIR)
 
-# data
 current_stats = {user: {cat: 0 for cat in CATEGORIES} for user in USERS}
 total_stats = {user: 0 for user in USERS}
 
@@ -40,18 +37,24 @@ for user in USERS:
                         current_stats[user][cat] += 1
                         total_stats[user] += 1
 
-# his story
 today_str = datetime.now().strftime('%Y-%m-%d')
 if os.path.exists(HISTORY_FILE):
     with open(HISTORY_FILE, 'r') as f:
-        history = json.load(f)
+        try:
+            history = json.load(f)
+        except json.JSONDecodeError:
+            history = {"dates": [], "scores": {u: [] for u in USERS}}
 else:
     history = {"dates": [], "scores": {u: [] for u in USERS}}
 
-# logic
+if "dates" not in history: history["dates"] = []
+if "scores" not in history: history["scores"] = {u: [] for u in USERS}
 if history["dates"] and history["dates"][-1] == today_str:
     for user in USERS:
-        history["scores"][user][-1] = total_stats[user]
+        if len(history["scores"][user]) > 0:
+             history["scores"][user][-1] = total_stats[user]
+        else:
+             history["scores"][user].append(total_stats[user])
 else:
     history["dates"].append(today_str)
     for user in USERS:
@@ -60,33 +63,25 @@ else:
 with open(HISTORY_FILE, 'w') as f:
     json.dump(history, f, indent=2)
 
-# plot helper
-
-def setup_dark_mode():
+def setup_dark_mode(figsize=(6,4)):
     plt.style.use('dark_background')
-    fig, ax = plt.subplots(figsize=(6, 4))
-    # github grey
+    fig, ax = plt.subplots(figsize=figsize)
     fig.patch.set_facecolor('#0d1117')
     ax.set_facecolor('#0d1117')
     ax.grid(True, color='#30363d', linestyle='--', alpha=0.5)
-    ax.spines['bottom'].set_color('#30363d')
-    ax.spines['top'].set_color('#30363d')
-    ax.spines['left'].set_color('#30363d')
-    ax.spines['right'].set_color('#30363d')
-    ax.tick_params(axis='x', colors='#c9d1d9')
-    ax.tick_params(axis='y', colors='#c9d1d9')
+    for spine in ax.spines.values():
+        spine.set_color('#30363d')
+    ax.tick_params(colors='#c9d1d9')
     return fig, ax
 
-# chart main
-fig, ax = setup_dark_mode()
-fig.set_size_inches(10, 5)
-
+fig, ax = setup_dark_mode((10, 5))
 x_dates = [datetime.strptime(d, '%Y-%m-%d') for d in history["dates"]]
 
 for user in USERS:
-    ax.plot(x_dates, history["scores"][user], 
-            label=DISPLAY_NAMES[user], color=COLORS[user], 
-            linewidth=3, marker='o')
+    if history["scores"][user]:
+        ax.plot(x_dates, history["scores"][user], 
+                label=DISPLAY_NAMES[user], color=COLORS[user], 
+                linewidth=3, marker='o')
 
 ax.set_title('Total Growth Over Time', color='white', fontsize=14, fontweight='bold', pad=15)
 ax.xaxis.set_major_formatter(mdates.DateFormatter('%m-%d'))
@@ -95,20 +90,15 @@ plt.tight_layout()
 plt.savefig(f'{IMAGES_DIR}/progress_line_chart.png', dpi=120, facecolor=fig.get_facecolor())
 plt.close()
 
-# bar chart
 for cat in CATEGORIES:
-    fig, ax = setup_dark_mode()
-    fig.set_size_inches(4, 3) #smaller
-    
+    fig, ax = setup_dark_mode((4, 3))
     counts = [current_stats[u][cat] for u in USERS]
     bar_colors = [COLORS[u] for u in USERS]
     labels = [DISPLAY_NAMES[u] for u in USERS]
     
     bars = ax.bar(labels, counts, color=bar_colors)
-    
     ax.set_title(CATEGORY_TITLES[cat], color='white', fontsize=12, fontweight='bold')
     
-    # bar top num
     for bar in bars:
         height = bar.get_height()
         ax.annotate(f'{height}',
@@ -117,7 +107,6 @@ for cat in CATEGORIES:
                     ha='center', va='bottom', color='white', fontweight='bold')
 
     plt.tight_layout()
-    # save
     filename = f'graph_{cat.replace(" ", "_").lower()}.png'
     plt.savefig(f'{IMAGES_DIR}/{filename}', dpi=120, facecolor=fig.get_facecolor())
     plt.close()
