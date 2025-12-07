@@ -15,7 +15,7 @@
 
 <h2 align="center"> Category Breakdown</h2>
 
-| **LeetCode** | **NeetCode** | **Euler** |
+| **LeetCode** | **NeetCode** | ** Project Euler** |
 | :---: | :---: | :---: |
 | <img src="./images/graph_leetcode.png" width="300"> | <img src="./images/graph_neetcode.png" width="300"> | <img src="./images/graph_project_euler.png" width="300"> |
 
