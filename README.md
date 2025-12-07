@@ -1,50 +1,29 @@
-# Daily Coding Tracker
+<h1 align="center"> daily tracker</h1>
 
-Tracking progress for Hayden, Arthur and Ray.
-
-## Current Standings (Total)
-Who is putting in the most work overall?
-
-![Total](./images/graph_total.png)
+<p align="center">
+  <strong>Ray</strong> (Red) vs <strong>Hayden</strong> (Green) vs <strong>Arthur</strong> (Blue)
+</p>
 
 ---
 
-## Category Breakdowns
+<h2 align="center"> Total Growth Over Time</h2>
+<p align="center">
+  <img src="./images/progress_line_chart.png" width="100%">
+</p>
 
-| LeetCode | NeetCode |
-| :---: | :---: |
-| ![LeetCode](./images/graph_leetcode.png) | ![NeetCode](./images/graph_neetcode.png) |
+---
 
-### Project Euler
-![Euler](./images/graph_euler.png)
+<h2 align="center"> Category Breakdown</h2>
 
-## How to Submit fat 
-1. Navigate to your folder (eg `Hayden/leetcode`).
-2. Add your solution file (must end in `.py`, `.cpp`, `.js`, etc)
-3. Push to main
-4. Wait 60 seconds for graphs to update
-5. yay!!!
+| **LeetCode** | **NeetCode** | **Euler** |
+| :---: | :---: | :---: |
+| <img src="./images/graph_leetcode.png" width="300"> | <img src="./images/graph_neetcode.png" width="300"> | <img src="./images/graph_project_euler.png" width="300"> |
 
+<br>
 
-
-# daily-tracker
-
-grind graphs for Ray, Hayden, Arthur
-
-## Progress Graphs
-
-### LeetCode (all 3)
-
-![LeetCode Activity](stats/graphs/leetcode_by_user.png)
-
-### NeetCode (all 3)
-
-![NeetCode Activity](stats/graphs/neetcode_by_user.png)
-
-### Project Euler (all 3)
-
-![Project Euler Activity](stats/graphs/project_euler_by_user.png)
-
-### Overall (all activity combined)
-
-![Total Activity](stats/graphs/total_activity.png)
+## 📁 How to Submit waht
+1. Go to your folder (eg `ray/leetcode`).
+2. Add your solution file (`.py`, `.js`, `.cpp`, etc)
+3. **Push to main.**
+4. The bots will update the graphs in ~30 seconds
+5. yay
