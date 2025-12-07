@@ -13,7 +13,7 @@
   <img src="./images/progress_line_chart.png" width="100%">
 </p>
 <p align="center">
-  <em>note: a 0.1 "jitter" is added to scores so lines don't overlap if we are tied.</em>
+  <em>note: a 0.1 jitter is added to scores so lines don't overlap if we are tied</em>
 </p>
 
 ---
