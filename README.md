@@ -6,6 +6,12 @@
 
 ---
 
+### 📅 Daily Challenge - Day 1 (Started Dec 8, 2025)
+
+| 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
+| :---: | :---: | :---: | :---: | :---: |
+| Loading... | Loading... | Loading... | Loading... | [NeetCode Practice](https://neetcode.io/practice) |
+
 ---
 
 <h2 align="center">total growth over time</h2>
