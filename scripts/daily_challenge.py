@@ -22,13 +22,16 @@ def get_euler_problems(day_num):
     problem2 = (day_num - 1) * 2 + 2
     
     try:
-        headers = {'User-Agent': 'Mozilla/5.0'}
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
         
-        r1 = requests.get(f"{EULER_URL}{problem1}", headers=headers)
+        r1 = requests.get(f"{EULER_URL}{problem1}", headers=headers, timeout=10)
         match1 = re.search(r'<h2>(.*?)</h2>', r1.text)
         title1 = match1.group(1) if match1 else f"Problem {problem1}"
         
-        r2 = requests.get(f"{EULER_URL}{problem2}", headers=headers)
+        r2 = requests.get(f"{EULER_URL}{problem2}", headers=headers, timeout=10)
+        match2 = re.search(r'<h2>(.*?)</h2>', r2.text)
+        title2 = match2.group(1) if match2 else f"Problem {problem2}"
+        r2 = requests.get(f"{EULER_URL}{problem2}", headers=headers, timeout=10)
         match2 = re.search(r'<h2>(.*?)</h2>', r2.text)
         title2 = match2.group(1) if match2 else f"Problem {problem2}"
         
@@ -56,9 +59,17 @@ def save_used_leetcode(used):
 
 def get_leetcode_set():
     try:
-        headers = {'User-Agent': 'Mozilla/5.0'}
-        r = requests.get(LEETCODE_API, headers=headers)
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+            'Accept': 'application/json'
+        }
+        
+        print("Fetching LeetCode data...")
+        r = requests.get(LEETCODE_API, headers=headers, timeout=15)
+        r.raise_for_status()
         data = r.json()
+    
+        print(f"Got {len(data.get('stat_status_pairs', []))} problems")
         
         free_questions = [q for q in data['stat_status_pairs'] if q['paid_only'] is False]
         
@@ -71,13 +82,18 @@ def get_leetcode_set():
         hards = [q for q in free_questions if q['difficulty']['level'] == 3 
                  and q['stat']['question_id'] not in used['hard']]
         
+        print(f"Available: {len(easies)} easy, {len(mediums)} medium, {len(hards)} hard")
+        
         if not easies:
+            print("Resetting easy pool")
             used['easy'] = []
             easies = [q for q in free_questions if q['difficulty']['level'] == 1]
         if not mediums:
+            print("Resetting medium pool")
             used['medium'] = []
             mediums = [q for q in free_questions if q['difficulty']['level'] == 2]
         if not hards:
+            print("Resetting hard pool")
             used['hard'] = []
             hards = [q for q in free_questions if q['difficulty']['level'] == 3]
         
@@ -95,6 +111,8 @@ def get_leetcode_set():
         m, m_id = format_q(medium_choice)
         h, h_id = format_q(hard_choice)
         
+        print(f"Selected: {e}, {m}, {h}")
+        
         used['easy'].append(e_id)
         used['medium'].append(m_id)
         used['hard'].append(h_id)
@@ -105,10 +123,11 @@ def get_leetcode_set():
         
     except Exception as e:
         print(f"LeetCode Error: {e}")
-        return "Error", "Error", "Error"
+        import traceback
+        traceback.print_exc()
+        return "[Error loading]", "[Error loading]", "[Error loading]"
 
 def update_readme(day_num, easy, medium, hard, euler):
-    """Update README with new daily challenges"""
     with open(README_FILE, "r", encoding="utf-8") as f:
         content = f.read()
     
@@ -119,7 +138,7 @@ def update_readme(day_num, easy, medium, hard, euler):
     
     new_section = (
         f"{start_marker}\n"
-        f"### 📅 Daily Challenge - Day {day_num} (Started Dec 8, 2025)\n\n"
+        f"### Daily Challenge - Day {day_num} (Started Dec 8, 2025)\n\n"
         f"| 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |\n"
         f"| :---: | :---: | :---: | :---: | :---: |\n"
         f"| {easy} | {medium} | {hard} | {euler} | {neetcode_link} |\n"
@@ -131,15 +150,22 @@ def update_readme(day_num, easy, medium, hard, euler):
     
     with open(README_FILE, "w", encoding="utf-8") as f:
         f.write(new_content)
+    
+    print("README updated successfully boi")
 
 if __name__ == "__main__":
+    print("starting daily challenge update")
     day_num = get_day_number()
     print(f"Day {day_num}")
     
     e, m, h = get_leetcode_set()
     euler = get_euler_problems(day_num)
     
-    print(f"Generated: Easy={e}, Medium={m}, Hard={h}")
-    print(f"Euler: {euler}")
+    print(f"Final results:")
+    print(f"  Easy: {e}")
+    print(f"  Medium: {m}")
+    print(f"  Hard: {h}")
+    print(f"  Euler: {euler}")
     
     update_readme(day_num, e, m, h, euler)
+    print("done")
