@@ -6,9 +6,9 @@
 
 ---
 
-<!-- DAILY_CHALLENGE_START -->
 ### Daily Challenge - Day 1 (Started Dec 8, 2025)
 
+<!-- DAILY_CHALLENGE_START -->
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
 | Loading... | Loading... | Loading... | Loading... | [NeetCode Practice](https://neetcode.io/practice) |
