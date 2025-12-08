@@ -6,7 +6,7 @@
 
 ---
 
-### 📅 Daily Challenge - Day 1 (Started Dec 8, 2025)
+### Daily Challenge - Day 1 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
