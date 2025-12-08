@@ -1,14 +1,14 @@
 <h1 align="center">daily tracker</h1>
 
 <p align="center">
-  <strong>Ray</strong> (Red) vs <strong>Hayden</strong> (Green) vs <strong>Arthur</strong> (Blue)
+  <strong><a href="./Ray">Ray</a></strong> (Red) vs <strong><a href="./Hayden">Hayden</a></strong> (Green) vs <strong><a href="./Arthur">Arthur</a></strong> (Blue)
 </p>
 
 ---
 
+<!-- DAILY_CHALLENGE_START -->
 ### Daily Challenge - Day 1 (Started Dec 8, 2025)
 
-<!-- DAILY_CHALLENGE_START -->
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
 | Loading... | Loading... | Loading... | Loading... | [NeetCode Practice](https://neetcode.io/practice) |
