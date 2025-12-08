@@ -1,3 +1,7 @@
+# Problem: Count Number of Rectangles Containing Each Point
+# Links: https://leetcode.com/problems/count-number-of-rectangles-containing-each-point
+# Note: ~
+
 from collections import defaultdict
 from bisect import bisect_left
 
