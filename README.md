@@ -9,11 +9,11 @@
 ### Daily Challenge - Day 1 (Started Dec 8, 2025)
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 1 (Started Dec 8, 2025)
+### Daily Challenge - Day 2 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) | [Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/) | [Maximum Strong Pair XOR II](https://leetcode.com/problems/maximum-strong-pair-xor-ii/) | [Multiples of 3 or 5](https://projecteuler.net/problem=1)<br>[Even Fibonacci Numbers](https://projecteuler.net/problem=2) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | [Largest Prime Factor](https://projecteuler.net/problem=3)<br>[Largest Palindrome Product](https://projecteuler.net/problem=4) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
