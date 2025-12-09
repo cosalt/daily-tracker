@@ -13,7 +13,7 @@
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | [Largest Prime Factor](https://projecteuler.net/problem=3)<br>[Largest Palindrome Product](https://projecteuler.net/problem=4) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/) | [Minimum Cost to Split an Array](https://leetcode.com/problems/minimum-cost-to-split-an-array/) | [Largest Prime Factor](https://projecteuler.net/problem=3)<br>[Largest Palindrome Product](https://projecteuler.net/problem=4) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
