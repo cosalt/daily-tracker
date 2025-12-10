@@ -9,11 +9,11 @@
 ### Daily Challenge - Day 1 (Started Dec 8, 2025)
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 2 (Started Dec 8, 2025)
+### Daily Challenge - Day 3 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/) | [Minimum Cost to Split an Array](https://leetcode.com/problems/minimum-cost-to-split-an-array/) | [Largest Prime Factor](https://projecteuler.net/problem=3)<br>[Largest Palindrome Product](https://projecteuler.net/problem=4) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree/) | [Smallest Multiple](https://projecteuler.net/problem=5)<br>[Sum Square Difference](https://projecteuler.net/problem=6) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
