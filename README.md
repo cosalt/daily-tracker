@@ -9,11 +9,11 @@
 ### Daily Challenge - Day 1 (Started Dec 8, 2025)
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 3 (Started Dec 8, 2025)
+### Daily Challenge - Day 4 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree/) | [Smallest Multiple](https://projecteuler.net/problem=5)<br>[Sum Square Difference](https://projecteuler.net/problem=6) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | [Minimum Number of Coins to be Added](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/) | [Check if DFS Strings Are Palindromes](https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/) | [10 001st Prime](https://projecteuler.net/problem=7)<br>[Largest Product in a Series](https://projecteuler.net/problem=8) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
