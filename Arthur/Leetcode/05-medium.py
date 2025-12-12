@@ -7,12 +7,10 @@ class Solution:
     def minimumLengthEncoding(self, words: List[str]) -> int:
         words_set = set(words)
         for word in words:
-            chrs = len(word)
-            for i in range(1, chrs):
-                words_set.discard(word[i:chrs])
+            if not word in words_set:
+                continue
+
+            for i in range(1, len(word)):
+                words_set.discard(word[i:])
         
-        res = 0
-        for word in words_set:
-            res += len(word) + 1
-        
-        return res
+        return sum(len(word) + 1 for word in words_set)
