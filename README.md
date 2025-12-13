@@ -9,11 +9,11 @@
 ### Daily Challenge - Day 1 (Started Dec 8, 2025)
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 5 (Started Dec 8, 2025)
+### Daily Challenge - Day 6 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Sort Integers by Binary Reflection](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | [Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/) | [Special Pythagorean Triplet](https://projecteuler.net/problem=9)<br>[Summation of Primes](https://projecteuler.net/problem=10) | [NeetCode Practice](https://neetcode.io/practice) |
+| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) | [Minimum Skips to Arrive at Meeting On Time](https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time/) | [Largest Product in a Grid](https://projecteuler.net/problem=11)<br>[Highly Divisible Triangular Number](https://projecteuler.net/problem=12) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
