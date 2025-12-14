@@ -145,9 +145,9 @@ def generate_history_section(history):
     
     history_sorted = sorted(history, key=lambda x: x['day'], reverse=True)
     
-    history_display = history_sorted[:30]
+    history_display = history_sorted
     
-    markdown = "<details>\n<summary><b>📜 Click to view previous challenges (last 30 days)</b></summary>\n\n"
+    markdown = "<details>\n<summary><b> Click to view previous challenges </b></summary>\n\n"
     markdown += "| Day | Date | Easy | Medium | Hard | Euler |\n"
     markdown += "|:---:|:---:|:---:|:---:|:---:|:---:|\n"
     
@@ -198,7 +198,7 @@ def update_readme(day_num, easy, medium, hard, euler):
     
     new_section = (
         f"{start_marker}\n"
-        f"### 📅 Daily Challenge - Day {day_num} (Started Dec 8, 2025)\n\n"
+        f"### Daily Challenge - Day {day_num} (Started Dec 8, 2025)\n\n"
         f"| 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |\n"
         f"| :---: | :---: | :---: | :---: | :---: |\n"
         f"| {easy} | {medium} | {hard} | {euler} | {neetcode_link} |\n"
