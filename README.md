@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 7 (Started Dec 8, 2025)
+### 📅 Daily Challenge - Day 7 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | [Maximum Value Sum by Placing Three Rooks I](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-i/) | [Large Sum](https://projecteuler.net/problem=13)<br>[Longest Collatz Sequence](https://projecteuler.net/problem=14) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Count Distinct Subarrays Divisible by K in Sorted Array](https://leetcode.com/problems/count-distinct-subarrays-divisible-by-k-in-sorted-array/) | [Large Sum](https://projecteuler.net/problem=13)<br>[Longest Collatz Sequence](https://projecteuler.net/problem=14) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -44,6 +44,14 @@
 ---
 
 <!-- CHALLENGE_HISTORY_START -->
+<details>
+<summary><b>📜 Click to view previous challenges (last 30 days)</b></summary>
+
+| Day | Date | Easy | Medium | Hard | Euler |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 7** | 2025-12-14 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Count Distinct Subarrays Divisible by K in Sorted Array](https://leetcode.com/problems/count-distinct-subarrays-divisible-by-k-in-sorted-array/) | [Large Sum](https://projecteuler.net/problem=13)<br>[Longest Collatz Sequence](https://projecteuler.net/problem=14) |
+
+</details>
 <!-- CHALLENGE_HISTORY_END -->
 
 ---
