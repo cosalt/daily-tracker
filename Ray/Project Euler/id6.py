@@ -17,16 +17,7 @@ def solve(n):
 
     difference = square_of_sum - sum_of_squares
     return difference, sum_of_squares, square_of_sum
-
-# Test with n=10
-diff_10, sum_sq_10, sq_sum_10 = solve(10)
-print(f"for n=10:")
-print(f"  sum of squares: {sum_sq_10}")
-print(f"  square of sum: {sq_sum_10}")
-print(f"  difference: {diff_10}")
-print()
-
-# Solve for n=100
+# n=100
 diff_100, sum_sq_100, sq_sum_100 = solve(100)
 print(f"for n=100:")
 print(f"  sum of squares: {sum_sq_100}")
