@@ -9,11 +9,11 @@
 ### Daily Challenge - Day 1 (Started Dec 8, 2025)
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 6 (Started Dec 8, 2025)
+### Daily Challenge - Day 7 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) | [Minimum Skips to Arrive at Meeting On Time](https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time/) | [Largest Product in a Grid](https://projecteuler.net/problem=11)<br>[Highly Divisible Triangular Number](https://projecteuler.net/problem=12) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | [Maximum Value Sum by Placing Three Rooks I](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-i/) | [Large Sum](https://projecteuler.net/problem=13)<br>[Longest Collatz Sequence](https://projecteuler.net/problem=14) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
