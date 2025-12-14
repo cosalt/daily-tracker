@@ -6,8 +6,6 @@
 
 ---
 
-### Daily Challenge - Day 1 (Started Dec 8, 2025)
-
 <!-- DAILY_CHALLENGE_START -->
 ### Daily Challenge - Day 7 (Started Dec 8, 2025)
 
@@ -42,3 +40,10 @@
 3. **Push to main.**
 4. the bot will update the graphs in ~30 seconds
 5. yay!
+
+---
+
+<!-- CHALLENGE_HISTORY_START -->
+<!-- CHALLENGE_HISTORY_END -->
+
+---

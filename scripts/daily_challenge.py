@@ -10,6 +10,7 @@ LEETCODE_API = "https://leetcode.com/api/problems/all/"
 EULER_URL = "https://projecteuler.net/problem="
 START_DATE = datetime(2025, 12, 8)
 USED_LEETCODE_FILE = "scripts/used_leetcode.json"
+CHALLENGE_HISTORY_FILE = "scripts/challenge_history.json"
 
 def get_day_number():
     now = datetime.now()
@@ -28,9 +29,6 @@ def get_euler_problems(day_num):
         match1 = re.search(r'<h2>(.*?)</h2>', r1.text)
         title1 = match1.group(1) if match1 else f"Problem {problem1}"
         
-        r2 = requests.get(f"{EULER_URL}{problem2}", headers=headers, timeout=10)
-        match2 = re.search(r'<h2>(.*?)</h2>', r2.text)
-        title2 = match2.group(1) if match2 else f"Problem {problem2}"
         r2 = requests.get(f"{EULER_URL}{problem2}", headers=headers, timeout=10)
         match2 = re.search(r'<h2>(.*?)</h2>', r2.text)
         title2 = match2.group(1) if match2 else f"Problem {problem2}"
@@ -56,6 +54,20 @@ def save_used_leetcode(used):
     os.makedirs(os.path.dirname(USED_LEETCODE_FILE), exist_ok=True)
     with open(USED_LEETCODE_FILE, 'w') as f:
         json.dump(used, f, indent=2)
+
+def load_challenge_history():
+    if os.path.exists(CHALLENGE_HISTORY_FILE):
+        with open(CHALLENGE_HISTORY_FILE, 'r') as f:
+            try:
+                return json.load(f)
+            except:
+                return []
+    return []
+
+def save_challenge_history(history):
+    os.makedirs(os.path.dirname(CHALLENGE_HISTORY_FILE), exist_ok=True)
+    with open(CHALLENGE_HISTORY_FILE, 'w') as f:
+        json.dump(history, f, indent=2)
 
 def get_leetcode_set():
     try:
@@ -127,7 +139,55 @@ def get_leetcode_set():
         traceback.print_exc()
         return "[Error loading]", "[Error loading]", "[Error loading]"
 
+def generate_history_section(history):
+    if not history:
+        return "No previous challenges yet."
+    
+    history_sorted = sorted(history, key=lambda x: x['day'], reverse=True)
+    
+    history_display = history_sorted[:30]
+    
+    markdown = "<details>\n<summary><b>📜 Click to view previous challenges (last 30 days)</b></summary>\n\n"
+    markdown += "| Day | Date | Easy | Medium | Hard | Euler |\n"
+    markdown += "|:---:|:---:|:---:|:---:|:---:|:---:|\n"
+    
+    for entry in history_display:
+        day = entry['day']
+        date = entry['date']
+        easy = entry['easy']
+        medium = entry['medium']
+        hard = entry['hard']
+        euler = entry['euler']
+        
+        markdown += f"| **Day {day}** | {date} | {easy} | {medium} | {hard} | {euler} |\n"
+    
+    markdown += "\n</details>"
+    return markdown
+
 def update_readme(day_num, easy, medium, hard, euler):
+    history = load_challenge_history()
+    
+    today_str = datetime.now().strftime('%Y-%m-%d')
+    existing = [h for h in history if h['date'] == today_str]
+    
+    if existing:
+        for h in history:
+            if h['date'] == today_str:
+                h['easy'] = easy
+                h['medium'] = medium
+                h['hard'] = hard
+                h['euler'] = euler
+    else:
+        history.append({
+            'day': day_num,
+            'date': today_str,
+            'easy': easy,
+            'medium': medium,
+            'hard': hard,
+            'euler': euler
+        })
+    
+    save_challenge_history(history)
     with open(README_FILE, "r", encoding="utf-8") as f:
         content = f.read()
     
@@ -138,7 +198,7 @@ def update_readme(day_num, easy, medium, hard, euler):
     
     new_section = (
         f"{start_marker}\n"
-        f"### Daily Challenge - Day {day_num} (Started Dec 8, 2025)\n\n"
+        f"### 📅 Daily Challenge - Day {day_num} (Started Dec 8, 2025)\n\n"
         f"| 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |\n"
         f"| :---: | :---: | :---: | :---: | :---: |\n"
         f"| {easy} | {medium} | {hard} | {euler} | {neetcode_link} |\n"
@@ -146,15 +206,27 @@ def update_readme(day_num, easy, medium, hard, euler):
     )
     
     pattern = f"{re.escape(start_marker)}.*?{re.escape(end_marker)}"
-    new_content = re.sub(pattern, new_section, content, flags=re.DOTALL)
+    content = re.sub(pattern, new_section, content, flags=re.DOTALL)
+    
+    history_start = "<!-- CHALLENGE_HISTORY_START -->"
+    history_end = "<!-- CHALLENGE_HISTORY_END -->"
+    
+    history_section = (
+        f"{history_start}\n"
+        f"{generate_history_section(history)}\n"
+        f"{history_end}"
+    )
+    
+    history_pattern = f"{re.escape(history_start)}.*?{re.escape(history_end)}"
+    content = re.sub(history_pattern, history_section, content, flags=re.DOTALL)
     
     with open(README_FILE, "w", encoding="utf-8") as f:
-        f.write(new_content)
+        f.write(content)
     
-    print("README updated successfully boi")
+    print("README updated successfully!")
 
 if __name__ == "__main__":
-    print("starting daily challenge update")
+    print("Starting daily challenge update")
     day_num = get_day_number()
     print(f"Day {day_num}")
     
@@ -168,4 +240,4 @@ if __name__ == "__main__":
     print(f"  Euler: {euler}")
     
     update_readme(day_num, e, m, h, euler)
-    print("done")
+    print("Done!")
