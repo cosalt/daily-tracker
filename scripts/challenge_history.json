@@ -6,5 +6,13 @@
     "medium": "[Insert Interval](https://leetcode.com/problems/insert-interval/)",
     "hard": "[Count Distinct Subarrays Divisible by K in Sorted Array](https://leetcode.com/problems/count-distinct-subarrays-divisible-by-k-in-sorted-array/)",
     "euler": "[Large Sum](https://projecteuler.net/problem=13)<br>[Longest Collatz Sequence](https://projecteuler.net/problem=14)"
+  },
+  {
+    "day": 8,
+    "date": "2025-12-15",
+    "easy": "[Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/)",
+    "medium": "[Digit Operations to Make Two Integers Equal](https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/)",
+    "hard": "[Merge Operations for Minimum Travel Time](https://leetcode.com/problems/merge-operations-for-minimum-travel-time/)",
+    "euler": "[Lattice Paths](https://projecteuler.net/problem=15)<br>[Power Digit Sum](https://projecteuler.net/problem=16)"
   }
 ]
