@@ -14,5 +14,13 @@
     "medium": "[Digit Operations to Make Two Integers Equal](https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/)",
     "hard": "[Merge Operations for Minimum Travel Time](https://leetcode.com/problems/merge-operations-for-minimum-travel-time/)",
     "euler": "[Lattice Paths](https://projecteuler.net/problem=15)<br>[Power Digit Sum](https://projecteuler.net/problem=16)"
+  },
+  {
+    "day": 9,
+    "date": "2025-12-16",
+    "easy": "[Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/)",
+    "medium": "[Employee Importance](https://leetcode.com/problems/employee-importance/)",
+    "hard": "[Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)",
+    "euler": "[Number Letter Counts](https://projecteuler.net/problem=17)<br>[Maximum Path Sum I](https://projecteuler.net/problem=18)"
   }
 ]
