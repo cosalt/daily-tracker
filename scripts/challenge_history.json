@@ -30,5 +30,13 @@
     "medium": "[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)",
     "hard": "[Partition Array for Maximum XOR and AND](https://leetcode.com/problems/partition-array-for-maximum-xor-and-and/)",
     "euler": "[Counting Sundays](https://projecteuler.net/problem=19)<br>[Factorial Digit Sum](https://projecteuler.net/problem=20)"
+  },
+  {
+    "day": 11,
+    "date": "2025-12-18",
+    "easy": "[Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/)",
+    "medium": "[Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/)",
+    "hard": "[Minimum Number of Valid Strings to Form Target II](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/)",
+    "euler": "[Amicable Numbers](https://projecteuler.net/problem=21)<br>[Names Scores](https://projecteuler.net/problem=22)"
   }
 ]
