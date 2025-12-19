@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 11 (Started Dec 8, 2025)
+### Daily Challenge - Day 12 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/) | [Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/) | [Minimum Number of Valid Strings to Form Target II](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/) | [Amicable Numbers](https://projecteuler.net/problem=21)<br>[Names Scores](https://projecteuler.net/problem=22) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Count Connected Components in LCM Graph](https://leetcode.com/problems/count-connected-components-in-lcm-graph/) | [Non-Abundant Sums](https://projecteuler.net/problem=23)<br>[Lexicographic Permutations](https://projecteuler.net/problem=24) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 12** | 2025-12-19 | [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Count Connected Components in LCM Graph](https://leetcode.com/problems/count-connected-components-in-lcm-graph/) | [Non-Abundant Sums](https://projecteuler.net/problem=23)<br>[Lexicographic Permutations](https://projecteuler.net/problem=24) |
 | **Day 11** | 2025-12-18 | [Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/) | [Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/) | [Minimum Number of Valid Strings to Form Target II](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/) | [Amicable Numbers](https://projecteuler.net/problem=21)<br>[Names Scores](https://projecteuler.net/problem=22) |
 | **Day 10** | 2025-12-17 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | [Partition Array for Maximum XOR and AND](https://leetcode.com/problems/partition-array-for-maximum-xor-and-and/) | [Counting Sundays](https://projecteuler.net/problem=19)<br>[Factorial Digit Sum](https://projecteuler.net/problem=20) |
 | **Day 9** | 2025-12-16 | [Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) | [Number Letter Counts](https://projecteuler.net/problem=17)<br>[Maximum Path Sum I](https://projecteuler.net/problem=18) |

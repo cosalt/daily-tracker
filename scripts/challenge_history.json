@@ -38,5 +38,13 @@
     "medium": "[Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/)",
     "hard": "[Minimum Number of Valid Strings to Form Target II](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/)",
     "euler": "[Amicable Numbers](https://projecteuler.net/problem=21)<br>[Names Scores](https://projecteuler.net/problem=22)"
+  },
+  {
+    "day": 12,
+    "date": "2025-12-19",
+    "easy": "[Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)",
+    "medium": "[House Robber III](https://leetcode.com/problems/house-robber-iii/)",
+    "hard": "[Count Connected Components in LCM Graph](https://leetcode.com/problems/count-connected-components-in-lcm-graph/)",
+    "euler": "[Non-Abundant Sums](https://projecteuler.net/problem=23)<br>[Lexicographic Permutations](https://projecteuler.net/problem=24)"
   }
 ]
