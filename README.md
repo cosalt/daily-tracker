@@ -58,5 +58,4 @@
 
 </details>
 <!-- CHALLENGE_HISTORY_END -->
-
 ---
