@@ -46,5 +46,13 @@
     "medium": "[House Robber III](https://leetcode.com/problems/house-robber-iii/)",
     "hard": "[Count Connected Components in LCM Graph](https://leetcode.com/problems/count-connected-components-in-lcm-graph/)",
     "euler": "[Non-Abundant Sums](https://projecteuler.net/problem=23)<br>[Lexicographic Permutations](https://projecteuler.net/problem=24)"
+  },
+  {
+    "day": 13,
+    "date": "2025-12-20",
+    "easy": "[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)",
+    "medium": "[Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)",
+    "hard": "[Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/)",
+    "euler": "[$1000$-digit Fibonacci Number](https://projecteuler.net/problem=25)<br>[Reciprocal Cycles](https://projecteuler.net/problem=26)"
   }
 ]
