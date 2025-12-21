@@ -54,5 +54,13 @@
     "medium": "[Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)",
     "hard": "[Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/)",
     "euler": "[$1000$-digit Fibonacci Number](https://projecteuler.net/problem=25)<br>[Reciprocal Cycles](https://projecteuler.net/problem=26)"
+  },
+  {
+    "day": 14,
+    "date": "2025-12-21",
+    "easy": "[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)",
+    "medium": "[Count and Say](https://leetcode.com/problems/count-and-say/)",
+    "hard": "[Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/)",
+    "euler": "[Quadratic Primes](https://projecteuler.net/problem=27)<br>[Number Spiral Diagonals](https://projecteuler.net/problem=28)"
   }
 ]
