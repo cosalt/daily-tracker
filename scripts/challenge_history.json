@@ -62,5 +62,13 @@
     "medium": "[Count and Say](https://leetcode.com/problems/count-and-say/)",
     "hard": "[Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/)",
     "euler": "[Quadratic Primes](https://projecteuler.net/problem=27)<br>[Number Spiral Diagonals](https://projecteuler.net/problem=28)"
+  },
+  {
+    "day": 15,
+    "date": "2025-12-22",
+    "easy": "[Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/)",
+    "medium": "[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)",
+    "hard": "[Count of Integers](https://leetcode.com/problems/count-of-integers/)",
+    "euler": "[Distinct Powers](https://projecteuler.net/problem=29)<br>[Digit Fifth Powers](https://projecteuler.net/problem=30)"
   }
 ]
