@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 15 (Started Dec 8, 2025)
+### Daily Challenge - Day 16 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Count of Integers](https://leetcode.com/problems/count-of-integers/) | [Distinct Powers](https://projecteuler.net/problem=29)<br>[Digit Fifth Powers](https://projecteuler.net/problem=30) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/) | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | [Coin Sums](https://projecteuler.net/problem=31)<br>[Pandigital Products](https://projecteuler.net/problem=32) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 16** | 2025-12-23 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/) | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | [Coin Sums](https://projecteuler.net/problem=31)<br>[Pandigital Products](https://projecteuler.net/problem=32) |
 | **Day 15** | 2025-12-22 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Count of Integers](https://leetcode.com/problems/count-of-integers/) | [Distinct Powers](https://projecteuler.net/problem=29)<br>[Digit Fifth Powers](https://projecteuler.net/problem=30) |
 | **Day 14** | 2025-12-21 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | [Quadratic Primes](https://projecteuler.net/problem=27)<br>[Number Spiral Diagonals](https://projecteuler.net/problem=28) |
 | **Day 13** | 2025-12-20 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | [$1000$-digit Fibonacci Number](https://projecteuler.net/problem=25)<br>[Reciprocal Cycles](https://projecteuler.net/problem=26) |
