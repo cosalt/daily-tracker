@@ -78,5 +78,13 @@
     "medium": "[Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/)",
     "hard": "[Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)",
     "euler": "[Coin Sums](https://projecteuler.net/problem=31)<br>[Pandigital Products](https://projecteuler.net/problem=32)"
+  },
+  {
+    "day": 17,
+    "date": "2025-12-24",
+    "easy": "[Rename Columns](https://leetcode.com/problems/rename-columns/)",
+    "medium": "[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)",
+    "hard": "[Find the Occurrence of First Almost Equal Substring](https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/)",
+    "euler": "[Digit Cancelling Fractions](https://projecteuler.net/problem=33)<br>[Digit Factorials](https://projecteuler.net/problem=34)"
   }
 ]

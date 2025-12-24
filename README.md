@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 16 (Started Dec 8, 2025)
+### Daily Challenge - Day 17 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/) | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | [Coin Sums](https://projecteuler.net/problem=31)<br>[Pandigital Products](https://projecteuler.net/problem=32) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Rename Columns](https://leetcode.com/problems/rename-columns/) | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Find the Occurrence of First Almost Equal Substring](https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/) | [Digit Cancelling Fractions](https://projecteuler.net/problem=33)<br>[Digit Factorials](https://projecteuler.net/problem=34) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 17** | 2025-12-24 | [Rename Columns](https://leetcode.com/problems/rename-columns/) | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Find the Occurrence of First Almost Equal Substring](https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/) | [Digit Cancelling Fractions](https://projecteuler.net/problem=33)<br>[Digit Factorials](https://projecteuler.net/problem=34) |
 | **Day 16** | 2025-12-23 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/) | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | [Coin Sums](https://projecteuler.net/problem=31)<br>[Pandigital Products](https://projecteuler.net/problem=32) |
 | **Day 15** | 2025-12-22 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Count of Integers](https://leetcode.com/problems/count-of-integers/) | [Distinct Powers](https://projecteuler.net/problem=29)<br>[Digit Fifth Powers](https://projecteuler.net/problem=30) |
 | **Day 14** | 2025-12-21 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | [Quadratic Primes](https://projecteuler.net/problem=27)<br>[Number Spiral Diagonals](https://projecteuler.net/problem=28) |
