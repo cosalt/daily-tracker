@@ -86,5 +86,13 @@
     "medium": "[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)",
     "hard": "[Find the Occurrence of First Almost Equal Substring](https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/)",
     "euler": "[Digit Cancelling Fractions](https://projecteuler.net/problem=33)<br>[Digit Factorials](https://projecteuler.net/problem=34)"
+  },
+  {
+    "day": 18,
+    "date": "2025-12-25",
+    "easy": "[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)",
+    "medium": "[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)",
+    "hard": "[Count the Number of Houses at a Certain Distance II](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/)",
+    "euler": "[Circular Primes](https://projecteuler.net/problem=35)<br>[Double-base Palindromes](https://projecteuler.net/problem=36)"
   }
 ]

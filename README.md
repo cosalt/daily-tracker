@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 17 (Started Dec 8, 2025)
+### Daily Challenge - Day 18 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Rename Columns](https://leetcode.com/problems/rename-columns/) | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Find the Occurrence of First Almost Equal Substring](https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/) | [Digit Cancelling Fractions](https://projecteuler.net/problem=33)<br>[Digit Factorials](https://projecteuler.net/problem=34) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Count the Number of Houses at a Certain Distance II](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/) | [Circular Primes](https://projecteuler.net/problem=35)<br>[Double-base Palindromes](https://projecteuler.net/problem=36) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 18** | 2025-12-25 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Count the Number of Houses at a Certain Distance II](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/) | [Circular Primes](https://projecteuler.net/problem=35)<br>[Double-base Palindromes](https://projecteuler.net/problem=36) |
 | **Day 17** | 2025-12-24 | [Rename Columns](https://leetcode.com/problems/rename-columns/) | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Find the Occurrence of First Almost Equal Substring](https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/) | [Digit Cancelling Fractions](https://projecteuler.net/problem=33)<br>[Digit Factorials](https://projecteuler.net/problem=34) |
 | **Day 16** | 2025-12-23 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/) | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | [Coin Sums](https://projecteuler.net/problem=31)<br>[Pandigital Products](https://projecteuler.net/problem=32) |
 | **Day 15** | 2025-12-22 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Count of Integers](https://leetcode.com/problems/count-of-integers/) | [Distinct Powers](https://projecteuler.net/problem=29)<br>[Digit Fifth Powers](https://projecteuler.net/problem=30) |
