@@ -94,5 +94,13 @@
     "medium": "[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)",
     "hard": "[Count the Number of Houses at a Certain Distance II](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/)",
     "euler": "[Circular Primes](https://projecteuler.net/problem=35)<br>[Double-base Palindromes](https://projecteuler.net/problem=36)"
+  },
+  {
+    "day": 19,
+    "date": "2025-12-26",
+    "easy": "[Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/)",
+    "medium": "[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)",
+    "hard": "[Shortest Matching Substring](https://leetcode.com/problems/shortest-matching-substring/)",
+    "euler": "[Truncatable Primes](https://projecteuler.net/problem=37)<br>[Pandigital Multiples](https://projecteuler.net/problem=38)"
   }
 ]
