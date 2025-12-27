@@ -102,5 +102,13 @@
     "medium": "[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)",
     "hard": "[Shortest Matching Substring](https://leetcode.com/problems/shortest-matching-substring/)",
     "euler": "[Truncatable Primes](https://projecteuler.net/problem=37)<br>[Pandigital Multiples](https://projecteuler.net/problem=38)"
+  },
+  {
+    "day": 20,
+    "date": "2025-12-27",
+    "easy": "[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)",
+    "medium": "[Minimum Number of Operations to Have Distinct Elements](https://leetcode.com/problems/minimum-number-of-operations-to-have-distinct-elements/)",
+    "hard": "[Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)",
+    "euler": "[Integer Right Triangles](https://projecteuler.net/problem=39)<br>[Champernowne's Constant](https://projecteuler.net/problem=40)"
   }
 ]
