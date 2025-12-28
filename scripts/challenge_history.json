@@ -110,5 +110,13 @@
     "medium": "[Minimum Number of Operations to Have Distinct Elements](https://leetcode.com/problems/minimum-number-of-operations-to-have-distinct-elements/)",
     "hard": "[Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)",
     "euler": "[Integer Right Triangles](https://projecteuler.net/problem=39)<br>[Champernowne's Constant](https://projecteuler.net/problem=40)"
+  },
+  {
+    "day": 21,
+    "date": "2025-12-28",
+    "easy": "[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)",
+    "medium": "[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)",
+    "hard": "[Count K-Reducible Numbers Less Than N](https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/)",
+    "euler": "[Pandigital Prime](https://projecteuler.net/problem=41)<br>[Coded Triangle Numbers](https://projecteuler.net/problem=42)"
   }
 ]
