@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 21 (Started Dec 8, 2025)
+### Daily Challenge - Day 22 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | [Count K-Reducible Numbers Less Than N](https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/) | [Pandigital Prime](https://projecteuler.net/problem=41)<br>[Coded Triangle Numbers](https://projecteuler.net/problem=42) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | [Problem 43](https://projecteuler.net/problem=43)<br>[Problem 44](https://projecteuler.net/problem=44) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 22** | 2025-12-29 | [Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | [Problem 43](https://projecteuler.net/problem=43)<br>[Problem 44](https://projecteuler.net/problem=44) |
 | **Day 21** | 2025-12-28 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | [Count K-Reducible Numbers Less Than N](https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/) | [Pandigital Prime](https://projecteuler.net/problem=41)<br>[Coded Triangle Numbers](https://projecteuler.net/problem=42) |
 | **Day 20** | 2025-12-27 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Minimum Number of Operations to Have Distinct Elements](https://leetcode.com/problems/minimum-number-of-operations-to-have-distinct-elements/) | [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/) | [Integer Right Triangles](https://projecteuler.net/problem=39)<br>[Champernowne's Constant](https://projecteuler.net/problem=40) |
 | **Day 19** | 2025-12-26 | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/) | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | [Shortest Matching Substring](https://leetcode.com/problems/shortest-matching-substring/) | [Truncatable Primes](https://projecteuler.net/problem=37)<br>[Pandigital Multiples](https://projecteuler.net/problem=38) |

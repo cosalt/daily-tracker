@@ -118,5 +118,13 @@
     "medium": "[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)",
     "hard": "[Count K-Reducible Numbers Less Than N](https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/)",
     "euler": "[Pandigital Prime](https://projecteuler.net/problem=41)<br>[Coded Triangle Numbers](https://projecteuler.net/problem=42)"
+  },
+  {
+    "day": 22,
+    "date": "2025-12-29",
+    "easy": "[Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/)",
+    "medium": "[Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)",
+    "hard": "[Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)",
+    "euler": "[Problem 43](https://projecteuler.net/problem=43)<br>[Problem 44](https://projecteuler.net/problem=44)"
   }
 ]
