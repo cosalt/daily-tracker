@@ -126,5 +126,13 @@
     "medium": "[Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)",
     "hard": "[Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)",
     "euler": "[Problem 43](https://projecteuler.net/problem=43)<br>[Problem 44](https://projecteuler.net/problem=44)"
+  },
+  {
+    "day": 23,
+    "date": "2025-12-30",
+    "easy": "[Arranging Coins](https://leetcode.com/problems/arranging-coins/)",
+    "medium": "[Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/)",
+    "hard": "[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)",
+    "euler": "[Triangular, Pentagonal, and Hexagonal](https://projecteuler.net/problem=45)<br>[Goldbach's Other Conjecture](https://projecteuler.net/problem=46)"
   }
 ]
