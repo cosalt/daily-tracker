@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 23 (Started Dec 8, 2025)
+### Daily Challenge - Day 24 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Triangular, Pentagonal, and Hexagonal](https://projecteuler.net/problem=45)<br>[Goldbach's Other Conjecture](https://projecteuler.net/problem=46) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [Apply Operations to Make Sum of Array Greater Than or Equal to k](https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | [Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/) | [Distinct Primes Factors](https://projecteuler.net/problem=47)<br>[Self Powers](https://projecteuler.net/problem=48) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 24** | 2025-12-31 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [Apply Operations to Make Sum of Array Greater Than or Equal to k](https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | [Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/) | [Distinct Primes Factors](https://projecteuler.net/problem=47)<br>[Self Powers](https://projecteuler.net/problem=48) |
 | **Day 23** | 2025-12-30 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Triangular, Pentagonal, and Hexagonal](https://projecteuler.net/problem=45)<br>[Goldbach's Other Conjecture](https://projecteuler.net/problem=46) |
 | **Day 22** | 2025-12-29 | [Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | [Problem 43](https://projecteuler.net/problem=43)<br>[Problem 44](https://projecteuler.net/problem=44) |
 | **Day 21** | 2025-12-28 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | [Count K-Reducible Numbers Less Than N](https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/) | [Pandigital Prime](https://projecteuler.net/problem=41)<br>[Coded Triangle Numbers](https://projecteuler.net/problem=42) |
