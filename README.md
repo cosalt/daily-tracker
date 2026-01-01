@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 24 (Started Dec 8, 2025)
+### Daily Challenge - Day 25 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [Apply Operations to Make Sum of Array Greater Than or Equal to k](https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | [Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/) | [Distinct Primes Factors](https://projecteuler.net/problem=47)<br>[Self Powers](https://projecteuler.net/problem=48) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [Length of the Longest Increasing Path](https://leetcode.com/problems/length-of-the-longest-increasing-path/) | [Problem 49](https://projecteuler.net/problem=49)<br>[Problem 50](https://projecteuler.net/problem=50) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 25** | 2026-01-01 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [Length of the Longest Increasing Path](https://leetcode.com/problems/length-of-the-longest-increasing-path/) | [Problem 49](https://projecteuler.net/problem=49)<br>[Problem 50](https://projecteuler.net/problem=50) |
 | **Day 24** | 2025-12-31 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [Apply Operations to Make Sum of Array Greater Than or Equal to k](https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | [Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/) | [Distinct Primes Factors](https://projecteuler.net/problem=47)<br>[Self Powers](https://projecteuler.net/problem=48) |
 | **Day 23** | 2025-12-30 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Triangular, Pentagonal, and Hexagonal](https://projecteuler.net/problem=45)<br>[Goldbach's Other Conjecture](https://projecteuler.net/problem=46) |
 | **Day 22** | 2025-12-29 | [Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | [Problem 43](https://projecteuler.net/problem=43)<br>[Problem 44](https://projecteuler.net/problem=44) |

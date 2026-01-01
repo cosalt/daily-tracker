@@ -142,5 +142,13 @@
     "medium": "[Apply Operations to Make Sum of Array Greater Than or Equal to k](https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/)",
     "hard": "[Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/)",
     "euler": "[Distinct Primes Factors](https://projecteuler.net/problem=47)<br>[Self Powers](https://projecteuler.net/problem=48)"
+  },
+  {
+    "day": 25,
+    "date": "2026-01-01",
+    "easy": "[Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)",
+    "medium": "[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)",
+    "hard": "[Length of the Longest Increasing Path](https://leetcode.com/problems/length-of-the-longest-increasing-path/)",
+    "euler": "[Problem 49](https://projecteuler.net/problem=49)<br>[Problem 50](https://projecteuler.net/problem=50)"
   }
 ]
