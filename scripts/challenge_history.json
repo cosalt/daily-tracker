@@ -150,5 +150,13 @@
     "medium": "[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)",
     "hard": "[Length of the Longest Increasing Path](https://leetcode.com/problems/length-of-the-longest-increasing-path/)",
     "euler": "[Problem 49](https://projecteuler.net/problem=49)<br>[Problem 50](https://projecteuler.net/problem=50)"
+  },
+  {
+    "day": 26,
+    "date": "2026-01-02",
+    "easy": "[Goat Latin](https://leetcode.com/problems/goat-latin/)",
+    "medium": "[Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/)",
+    "hard": "[Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/)",
+    "euler": "[Prime Digit Replacements](https://projecteuler.net/problem=51)<br>[Permuted Multiples](https://projecteuler.net/problem=52)"
   }
 ]
