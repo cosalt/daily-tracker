@@ -158,5 +158,13 @@
     "medium": "[Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/)",
     "hard": "[Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/)",
     "euler": "[Prime Digit Replacements](https://projecteuler.net/problem=51)<br>[Permuted Multiples](https://projecteuler.net/problem=52)"
+  },
+  {
+    "day": 27,
+    "date": "2026-01-03",
+    "easy": "[Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)",
+    "medium": "[Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/)",
+    "hard": "[Number of Beautiful Integers in the Range](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/)",
+    "euler": "[Combinatoric Selections](https://projecteuler.net/problem=53)<br>[Poker Hands](https://projecteuler.net/problem=54)"
   }
 ]

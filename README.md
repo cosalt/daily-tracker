@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 26 (Started Dec 8, 2025)
+### Daily Challenge - Day 27 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Goat Latin](https://leetcode.com/problems/goat-latin/) | [Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/) | [Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/) | [Prime Digit Replacements](https://projecteuler.net/problem=51)<br>[Permuted Multiples](https://projecteuler.net/problem=52) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | [Number of Beautiful Integers in the Range](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/) | [Combinatoric Selections](https://projecteuler.net/problem=53)<br>[Poker Hands](https://projecteuler.net/problem=54) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 27** | 2026-01-03 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | [Number of Beautiful Integers in the Range](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/) | [Combinatoric Selections](https://projecteuler.net/problem=53)<br>[Poker Hands](https://projecteuler.net/problem=54) |
 | **Day 26** | 2026-01-02 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/) | [Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/) | [Prime Digit Replacements](https://projecteuler.net/problem=51)<br>[Permuted Multiples](https://projecteuler.net/problem=52) |
 | **Day 25** | 2026-01-01 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [Length of the Longest Increasing Path](https://leetcode.com/problems/length-of-the-longest-increasing-path/) | [Problem 49](https://projecteuler.net/problem=49)<br>[Problem 50](https://projecteuler.net/problem=50) |
 | **Day 24** | 2025-12-31 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [Apply Operations to Make Sum of Array Greater Than or Equal to k](https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | [Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/) | [Distinct Primes Factors](https://projecteuler.net/problem=47)<br>[Self Powers](https://projecteuler.net/problem=48) |
