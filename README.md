@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 27 (Started Dec 8, 2025)
+### Daily Challenge - Day 28 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | [Number of Beautiful Integers in the Range](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/) | [Combinatoric Selections](https://projecteuler.net/problem=53)<br>[Poker Hands](https://projecteuler.net/problem=54) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/) | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | [Zuma Game](https://leetcode.com/problems/zuma-game/) | [Lychrel Numbers](https://projecteuler.net/problem=55)<br>[Powerful Digit Sum](https://projecteuler.net/problem=56) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 28** | 2026-01-04 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/) | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | [Zuma Game](https://leetcode.com/problems/zuma-game/) | [Lychrel Numbers](https://projecteuler.net/problem=55)<br>[Powerful Digit Sum](https://projecteuler.net/problem=56) |
 | **Day 27** | 2026-01-03 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | [Number of Beautiful Integers in the Range](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/) | [Combinatoric Selections](https://projecteuler.net/problem=53)<br>[Poker Hands](https://projecteuler.net/problem=54) |
 | **Day 26** | 2026-01-02 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/) | [Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/) | [Prime Digit Replacements](https://projecteuler.net/problem=51)<br>[Permuted Multiples](https://projecteuler.net/problem=52) |
 | **Day 25** | 2026-01-01 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [Length of the Longest Increasing Path](https://leetcode.com/problems/length-of-the-longest-increasing-path/) | [Problem 49](https://projecteuler.net/problem=49)<br>[Problem 50](https://projecteuler.net/problem=50) |

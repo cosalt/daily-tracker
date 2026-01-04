@@ -166,5 +166,13 @@
     "medium": "[Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/)",
     "hard": "[Number of Beautiful Integers in the Range](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/)",
     "euler": "[Combinatoric Selections](https://projecteuler.net/problem=53)<br>[Poker Hands](https://projecteuler.net/problem=54)"
+  },
+  {
+    "day": 28,
+    "date": "2026-01-04",
+    "easy": "[Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/)",
+    "medium": "[Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)",
+    "hard": "[Zuma Game](https://leetcode.com/problems/zuma-game/)",
+    "euler": "[Lychrel Numbers](https://projecteuler.net/problem=55)<br>[Powerful Digit Sum](https://projecteuler.net/problem=56)"
   }
 ]
