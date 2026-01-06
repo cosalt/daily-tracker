@@ -182,5 +182,13 @@
     "medium": "[Check if Grid can be Cut into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/)",
     "hard": "[Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)",
     "euler": "[Square Root Convergents](https://projecteuler.net/problem=57)<br>[Spiral Primes](https://projecteuler.net/problem=58)"
+  },
+  {
+    "day": 30,
+    "date": "2026-01-06",
+    "easy": "[Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/)",
+    "medium": "[Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/)",
+    "hard": "[Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/)",
+    "euler": "[XOR Decryption](https://projecteuler.net/problem=59)<br>[Prime Pair Sets](https://projecteuler.net/problem=60)"
   }
 ]
