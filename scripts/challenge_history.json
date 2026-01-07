@@ -190,5 +190,13 @@
     "medium": "[Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/)",
     "hard": "[Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/)",
     "euler": "[XOR Decryption](https://projecteuler.net/problem=59)<br>[Prime Pair Sets](https://projecteuler.net/problem=60)"
+  },
+  {
+    "day": 31,
+    "date": "2026-01-07",
+    "easy": "[Largest Even Number](https://leetcode.com/problems/largest-even-number/)",
+    "medium": "[Beautiful Towers II](https://leetcode.com/problems/beautiful-towers-ii/)",
+    "hard": "[Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/)",
+    "euler": "[Cyclical Figurate Numbers](https://projecteuler.net/problem=61)<br>[Cubic Permutations](https://projecteuler.net/problem=62)"
   }
 ]
