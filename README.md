@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 31 (Started Dec 8, 2025)
+### Daily Challenge - Day 32 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Largest Even Number](https://leetcode.com/problems/largest-even-number/) | [Beautiful Towers II](https://leetcode.com/problems/beautiful-towers-ii/) | [Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | [Cyclical Figurate Numbers](https://projecteuler.net/problem=61)<br>[Cubic Permutations](https://projecteuler.net/problem=62) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Minimum Number of Coins to be Added](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/) | [Maximize the Distance Between Points on a Square](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | [Powerful Digit Counts](https://projecteuler.net/problem=63)<br>[Odd Period Square Roots](https://projecteuler.net/problem=64) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 32** | 2026-01-08 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Minimum Number of Coins to be Added](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/) | [Maximize the Distance Between Points on a Square](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | [Powerful Digit Counts](https://projecteuler.net/problem=63)<br>[Odd Period Square Roots](https://projecteuler.net/problem=64) |
 | **Day 31** | 2026-01-07 | [Largest Even Number](https://leetcode.com/problems/largest-even-number/) | [Beautiful Towers II](https://leetcode.com/problems/beautiful-towers-ii/) | [Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | [Cyclical Figurate Numbers](https://projecteuler.net/problem=61)<br>[Cubic Permutations](https://projecteuler.net/problem=62) |
 | **Day 30** | 2026-01-06 | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | [Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/) | [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/) | [XOR Decryption](https://projecteuler.net/problem=59)<br>[Prime Pair Sets](https://projecteuler.net/problem=60) |
 | **Day 29** | 2026-01-05 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Check if Grid can be Cut into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/) | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) | [Square Root Convergents](https://projecteuler.net/problem=57)<br>[Spiral Primes](https://projecteuler.net/problem=58) |
