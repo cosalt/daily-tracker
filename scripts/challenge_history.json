@@ -206,5 +206,13 @@
     "medium": "[Minimum Number of Coins to be Added](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/)",
     "hard": "[Maximize the Distance Between Points on a Square](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/)",
     "euler": "[Powerful Digit Counts](https://projecteuler.net/problem=63)<br>[Odd Period Square Roots](https://projecteuler.net/problem=64)"
+  },
+  {
+    "day": 33,
+    "date": "2026-01-09",
+    "easy": "[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)",
+    "medium": "[Maximize Score of Numbers in Ranges](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges/)",
+    "hard": "[Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/)",
+    "euler": "[Convergents of $e$](https://projecteuler.net/problem=65)<br>[Diophantine Equation](https://projecteuler.net/problem=66)"
   }
 ]
