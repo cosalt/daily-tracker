@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 33 (Started Dec 8, 2025)
+### Daily Challenge - Day 34 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Maximize Score of Numbers in Ranges](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges/) | [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/) | [Convergents of $e$](https://projecteuler.net/problem=65)<br>[Diophantine Equation](https://projecteuler.net/problem=66) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | [Maximum Profit from Valid Topological Order in DAG](https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/) | [Maximum Path Sum II](https://projecteuler.net/problem=67)<br>[Magic 5-gon Ring](https://projecteuler.net/problem=68) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 34** | 2026-01-10 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | [Maximum Profit from Valid Topological Order in DAG](https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/) | [Maximum Path Sum II](https://projecteuler.net/problem=67)<br>[Magic 5-gon Ring](https://projecteuler.net/problem=68) |
 | **Day 33** | 2026-01-09 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Maximize Score of Numbers in Ranges](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges/) | [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/) | [Convergents of $e$](https://projecteuler.net/problem=65)<br>[Diophantine Equation](https://projecteuler.net/problem=66) |
 | **Day 32** | 2026-01-08 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Minimum Number of Coins to be Added](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/) | [Maximize the Distance Between Points on a Square](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | [Powerful Digit Counts](https://projecteuler.net/problem=63)<br>[Odd Period Square Roots](https://projecteuler.net/problem=64) |
 | **Day 31** | 2026-01-07 | [Largest Even Number](https://leetcode.com/problems/largest-even-number/) | [Beautiful Towers II](https://leetcode.com/problems/beautiful-towers-ii/) | [Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | [Cyclical Figurate Numbers](https://projecteuler.net/problem=61)<br>[Cubic Permutations](https://projecteuler.net/problem=62) |

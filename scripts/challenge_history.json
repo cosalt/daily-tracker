@@ -214,5 +214,13 @@
     "medium": "[Maximize Score of Numbers in Ranges](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges/)",
     "hard": "[Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/)",
     "euler": "[Convergents of $e$](https://projecteuler.net/problem=65)<br>[Diophantine Equation](https://projecteuler.net/problem=66)"
+  },
+  {
+    "day": 34,
+    "date": "2026-01-10",
+    "easy": "[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)",
+    "medium": "[Stone Game VII](https://leetcode.com/problems/stone-game-vii/)",
+    "hard": "[Maximum Profit from Valid Topological Order in DAG](https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/)",
+    "euler": "[Maximum Path Sum II](https://projecteuler.net/problem=67)<br>[Magic 5-gon Ring](https://projecteuler.net/problem=68)"
   }
 ]
