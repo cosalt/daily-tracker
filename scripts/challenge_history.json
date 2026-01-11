@@ -222,5 +222,13 @@
     "medium": "[Stone Game VII](https://leetcode.com/problems/stone-game-vii/)",
     "hard": "[Maximum Profit from Valid Topological Order in DAG](https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/)",
     "euler": "[Maximum Path Sum II](https://projecteuler.net/problem=67)<br>[Magic 5-gon Ring](https://projecteuler.net/problem=68)"
+  },
+  {
+    "day": 35,
+    "date": "2026-01-11",
+    "easy": "[Find Products with Valid Serial Numbers](https://leetcode.com/problems/find-products-with-valid-serial-numbers/)",
+    "medium": "[Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/)",
+    "hard": "[Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/)",
+    "euler": "[Totient Maximum](https://projecteuler.net/problem=69)<br>[Totient Permutation](https://projecteuler.net/problem=70)"
   }
 ]
