@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 35 (Started Dec 8, 2025)
+### Daily Challenge - Day 36 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Find Products with Valid Serial Numbers](https://leetcode.com/problems/find-products-with-valid-serial-numbers/) | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | [Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/) | [Totient Maximum](https://projecteuler.net/problem=69)<br>[Totient Permutation](https://projecteuler.net/problem=70) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Minimum Cost to Make Arrays Identical](https://leetcode.com/problems/minimum-cost-to-make-arrays-identical/) | [Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/) | [Ordered Fractions](https://projecteuler.net/problem=71)<br>[Counting Fractions](https://projecteuler.net/problem=72) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 36** | 2026-01-12 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Minimum Cost to Make Arrays Identical](https://leetcode.com/problems/minimum-cost-to-make-arrays-identical/) | [Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/) | [Ordered Fractions](https://projecteuler.net/problem=71)<br>[Counting Fractions](https://projecteuler.net/problem=72) |
 | **Day 35** | 2026-01-11 | [Find Products with Valid Serial Numbers](https://leetcode.com/problems/find-products-with-valid-serial-numbers/) | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | [Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/) | [Totient Maximum](https://projecteuler.net/problem=69)<br>[Totient Permutation](https://projecteuler.net/problem=70) |
 | **Day 34** | 2026-01-10 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | [Maximum Profit from Valid Topological Order in DAG](https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/) | [Maximum Path Sum II](https://projecteuler.net/problem=67)<br>[Magic 5-gon Ring](https://projecteuler.net/problem=68) |
 | **Day 33** | 2026-01-09 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Maximize Score of Numbers in Ranges](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges/) | [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/) | [Convergents of $e$](https://projecteuler.net/problem=65)<br>[Diophantine Equation](https://projecteuler.net/problem=66) |
