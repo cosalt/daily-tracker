@@ -238,5 +238,13 @@
     "medium": "[Minimum Cost to Make Arrays Identical](https://leetcode.com/problems/minimum-cost-to-make-arrays-identical/)",
     "hard": "[Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/)",
     "euler": "[Ordered Fractions](https://projecteuler.net/problem=71)<br>[Counting Fractions](https://projecteuler.net/problem=72)"
+  },
+  {
+    "day": 37,
+    "date": "2026-01-13",
+    "easy": "[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)",
+    "medium": "[Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/)",
+    "hard": "[Shortest Impossible Sequence of Rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/)",
+    "euler": "[Counting Fractions in a Range](https://projecteuler.net/problem=73)<br>[Digit Factorial Chains](https://projecteuler.net/problem=74)"
   }
 ]
