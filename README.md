@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 37 (Started Dec 8, 2025)
+### Daily Challenge - Day 38 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [Shortest Impossible Sequence of Rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/) | [Counting Fractions in a Range](https://projecteuler.net/problem=73)<br>[Digit Factorial Chains](https://projecteuler.net/problem=74) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | [Singular Integer Right Triangles](https://projecteuler.net/problem=75)<br>[Counting Summations](https://projecteuler.net/problem=76) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 38** | 2026-01-14 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | [Singular Integer Right Triangles](https://projecteuler.net/problem=75)<br>[Counting Summations](https://projecteuler.net/problem=76) |
 | **Day 37** | 2026-01-13 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [Shortest Impossible Sequence of Rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/) | [Counting Fractions in a Range](https://projecteuler.net/problem=73)<br>[Digit Factorial Chains](https://projecteuler.net/problem=74) |
 | **Day 36** | 2026-01-12 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Minimum Cost to Make Arrays Identical](https://leetcode.com/problems/minimum-cost-to-make-arrays-identical/) | [Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/) | [Ordered Fractions](https://projecteuler.net/problem=71)<br>[Counting Fractions](https://projecteuler.net/problem=72) |
 | **Day 35** | 2026-01-11 | [Find Products with Valid Serial Numbers](https://leetcode.com/problems/find-products-with-valid-serial-numbers/) | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | [Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/) | [Totient Maximum](https://projecteuler.net/problem=69)<br>[Totient Permutation](https://projecteuler.net/problem=70) |

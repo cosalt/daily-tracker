@@ -246,5 +246,13 @@
     "medium": "[Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/)",
     "hard": "[Shortest Impossible Sequence of Rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/)",
     "euler": "[Counting Fractions in a Range](https://projecteuler.net/problem=73)<br>[Digit Factorial Chains](https://projecteuler.net/problem=74)"
+  },
+  {
+    "day": 38,
+    "date": "2026-01-14",
+    "easy": "[Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/)",
+    "medium": "[Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/)",
+    "hard": "[Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)",
+    "euler": "[Singular Integer Right Triangles](https://projecteuler.net/problem=75)<br>[Counting Summations](https://projecteuler.net/problem=76)"
   }
 ]
