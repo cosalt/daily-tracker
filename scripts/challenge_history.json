@@ -254,5 +254,13 @@
     "medium": "[Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/)",
     "hard": "[Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)",
     "euler": "[Singular Integer Right Triangles](https://projecteuler.net/problem=75)<br>[Counting Summations](https://projecteuler.net/problem=76)"
+  },
+  {
+    "day": 39,
+    "date": "2026-01-15",
+    "easy": "[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)",
+    "medium": "[Find The First Player to win K Games in a Row](https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row/)",
+    "hard": "[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)",
+    "euler": "[Prime Summations](https://projecteuler.net/problem=77)<br>[Coin Partitions](https://projecteuler.net/problem=78)"
   }
 ]
