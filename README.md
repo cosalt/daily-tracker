@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 39 (Started Dec 8, 2025)
+### Daily Challenge - Day 40 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Find The First Player to win K Games in a Row](https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row/) | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Prime Summations](https://projecteuler.net/problem=77)<br>[Coin Partitions](https://projecteuler.net/problem=78) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Happy Number](https://leetcode.com/problems/happy-number/) | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) | [Make Array Empty](https://leetcode.com/problems/make-array-empty/) | [Passcode Derivation](https://projecteuler.net/problem=79)<br>[Square Root Digital Expansion](https://projecteuler.net/problem=80) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 40** | 2026-01-16 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) | [Make Array Empty](https://leetcode.com/problems/make-array-empty/) | [Passcode Derivation](https://projecteuler.net/problem=79)<br>[Square Root Digital Expansion](https://projecteuler.net/problem=80) |
 | **Day 39** | 2026-01-15 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Find The First Player to win K Games in a Row](https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row/) | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Prime Summations](https://projecteuler.net/problem=77)<br>[Coin Partitions](https://projecteuler.net/problem=78) |
 | **Day 38** | 2026-01-14 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | [Singular Integer Right Triangles](https://projecteuler.net/problem=75)<br>[Counting Summations](https://projecteuler.net/problem=76) |
 | **Day 37** | 2026-01-13 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [Shortest Impossible Sequence of Rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/) | [Counting Fractions in a Range](https://projecteuler.net/problem=73)<br>[Digit Factorial Chains](https://projecteuler.net/problem=74) |
