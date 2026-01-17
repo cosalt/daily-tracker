@@ -270,5 +270,13 @@
     "medium": "[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)",
     "hard": "[Make Array Empty](https://leetcode.com/problems/make-array-empty/)",
     "euler": "[Passcode Derivation](https://projecteuler.net/problem=79)<br>[Square Root Digital Expansion](https://projecteuler.net/problem=80)"
+  },
+  {
+    "day": 41,
+    "date": "2026-01-17",
+    "easy": "[Binary Search](https://leetcode.com/problems/binary-search/)",
+    "medium": "[Minimum Number of Valid Strings to Form Target I](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/)",
+    "hard": "[Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/)",
+    "euler": "[Path Sum: Two Ways](https://projecteuler.net/problem=81)<br>[Path Sum: Three Ways](https://projecteuler.net/problem=82)"
   }
 ]
