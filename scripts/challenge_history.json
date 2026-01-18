@@ -278,5 +278,13 @@
     "medium": "[Minimum Number of Valid Strings to Form Target I](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/)",
     "hard": "[Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/)",
     "euler": "[Path Sum: Two Ways](https://projecteuler.net/problem=81)<br>[Path Sum: Three Ways](https://projecteuler.net/problem=82)"
+  },
+  {
+    "day": 42,
+    "date": "2026-01-18",
+    "easy": "[Slowest Key](https://leetcode.com/problems/slowest-key/)",
+    "medium": "[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)",
+    "hard": "[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)",
+    "euler": "[Path Sum: Four Ways](https://projecteuler.net/problem=83)<br>[Monopoly Odds](https://projecteuler.net/problem=84)"
   }
 ]

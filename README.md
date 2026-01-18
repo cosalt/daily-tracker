@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 41 (Started Dec 8, 2025)
+### Daily Challenge - Day 42 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Binary Search](https://leetcode.com/problems/binary-search/) | [Minimum Number of Valid Strings to Form Target I](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/) | [Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | [Path Sum: Two Ways](https://projecteuler.net/problem=81)<br>[Path Sum: Three Ways](https://projecteuler.net/problem=82) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Slowest Key](https://leetcode.com/problems/slowest-key/) | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Path Sum: Four Ways](https://projecteuler.net/problem=83)<br>[Monopoly Odds](https://projecteuler.net/problem=84) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 42** | 2026-01-18 | [Slowest Key](https://leetcode.com/problems/slowest-key/) | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Path Sum: Four Ways](https://projecteuler.net/problem=83)<br>[Monopoly Odds](https://projecteuler.net/problem=84) |
 | **Day 41** | 2026-01-17 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Minimum Number of Valid Strings to Form Target I](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/) | [Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | [Path Sum: Two Ways](https://projecteuler.net/problem=81)<br>[Path Sum: Three Ways](https://projecteuler.net/problem=82) |
 | **Day 40** | 2026-01-16 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) | [Make Array Empty](https://leetcode.com/problems/make-array-empty/) | [Passcode Derivation](https://projecteuler.net/problem=79)<br>[Square Root Digital Expansion](https://projecteuler.net/problem=80) |
 | **Day 39** | 2026-01-15 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Find The First Player to win K Games in a Row](https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row/) | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Prime Summations](https://projecteuler.net/problem=77)<br>[Coin Partitions](https://projecteuler.net/problem=78) |
