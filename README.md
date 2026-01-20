@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 43 (Started Dec 8, 2025)
+### Daily Challenge - Day 44 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase/) | [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | [Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | [Counting Rectangles](https://projecteuler.net/problem=85)<br>[Cuboid Route](https://projecteuler.net/problem=86) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | [Problem 87](https://projecteuler.net/problem=87)<br>[Problem 88](https://projecteuler.net/problem=88) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 44** | 2026-01-20 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | [Problem 87](https://projecteuler.net/problem=87)<br>[Problem 88](https://projecteuler.net/problem=88) |
 | **Day 43** | 2026-01-19 | [Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase/) | [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | [Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | [Counting Rectangles](https://projecteuler.net/problem=85)<br>[Cuboid Route](https://projecteuler.net/problem=86) |
 | **Day 42** | 2026-01-18 | [Slowest Key](https://leetcode.com/problems/slowest-key/) | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Path Sum: Four Ways](https://projecteuler.net/problem=83)<br>[Monopoly Odds](https://projecteuler.net/problem=84) |
 | **Day 41** | 2026-01-17 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Minimum Number of Valid Strings to Form Target I](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/) | [Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | [Path Sum: Two Ways](https://projecteuler.net/problem=81)<br>[Path Sum: Three Ways](https://projecteuler.net/problem=82) |

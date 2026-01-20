@@ -294,5 +294,13 @@
     "medium": "[Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/)",
     "hard": "[Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/)",
     "euler": "[Counting Rectangles](https://projecteuler.net/problem=85)<br>[Cuboid Route](https://projecteuler.net/problem=86)"
+  },
+  {
+    "day": 44,
+    "date": "2026-01-20",
+    "easy": "[Move Zeroes](https://leetcode.com/problems/move-zeroes/)",
+    "medium": "[Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/)",
+    "hard": "[Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/)",
+    "euler": "[Problem 87](https://projecteuler.net/problem=87)<br>[Problem 88](https://projecteuler.net/problem=88)"
   }
 ]
