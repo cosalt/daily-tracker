@@ -302,5 +302,13 @@
     "medium": "[Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/)",
     "hard": "[Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/)",
     "euler": "[Problem 87](https://projecteuler.net/problem=87)<br>[Problem 88](https://projecteuler.net/problem=88)"
+  },
+  {
+    "day": 45,
+    "date": "2026-01-21",
+    "easy": "[Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/)",
+    "medium": "[Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)",
+    "hard": "[Maximize Cyclic Partition Score](https://leetcode.com/problems/maximize-cyclic-partition-score/)",
+    "euler": "[Roman Numerals](https://projecteuler.net/problem=89)<br>[Cube Digit Pairs](https://projecteuler.net/problem=90)"
   }
 ]
