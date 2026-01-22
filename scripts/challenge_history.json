@@ -310,5 +310,13 @@
     "medium": "[Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)",
     "hard": "[Maximize Cyclic Partition Score](https://leetcode.com/problems/maximize-cyclic-partition-score/)",
     "euler": "[Roman Numerals](https://projecteuler.net/problem=89)<br>[Cube Digit Pairs](https://projecteuler.net/problem=90)"
+  },
+  {
+    "day": 46,
+    "date": "2026-01-22",
+    "easy": "[Sort By](https://leetcode.com/problems/sort-by/)",
+    "medium": "[Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/)",
+    "hard": "[Check if an Original String Exists Given Two Encoded Strings](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/)",
+    "euler": "[Right Triangles with Integer Coordinates](https://projecteuler.net/problem=91)<br>[Square Digit Chains](https://projecteuler.net/problem=92)"
   }
 ]

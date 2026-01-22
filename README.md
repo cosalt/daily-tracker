@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 45 (Started Dec 8, 2025)
+### Daily Challenge - Day 46 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Maximize Cyclic Partition Score](https://leetcode.com/problems/maximize-cyclic-partition-score/) | [Roman Numerals](https://projecteuler.net/problem=89)<br>[Cube Digit Pairs](https://projecteuler.net/problem=90) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Sort By](https://leetcode.com/problems/sort-by/) | [Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) | [Check if an Original String Exists Given Two Encoded Strings](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/) | [Right Triangles with Integer Coordinates](https://projecteuler.net/problem=91)<br>[Square Digit Chains](https://projecteuler.net/problem=92) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 46** | 2026-01-22 | [Sort By](https://leetcode.com/problems/sort-by/) | [Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) | [Check if an Original String Exists Given Two Encoded Strings](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/) | [Right Triangles with Integer Coordinates](https://projecteuler.net/problem=91)<br>[Square Digit Chains](https://projecteuler.net/problem=92) |
 | **Day 45** | 2026-01-21 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Maximize Cyclic Partition Score](https://leetcode.com/problems/maximize-cyclic-partition-score/) | [Roman Numerals](https://projecteuler.net/problem=89)<br>[Cube Digit Pairs](https://projecteuler.net/problem=90) |
 | **Day 44** | 2026-01-20 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | [Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | [Problem 87](https://projecteuler.net/problem=87)<br>[Problem 88](https://projecteuler.net/problem=88) |
 | **Day 43** | 2026-01-19 | [Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase/) | [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | [Minimum Possible Integer After at Most K Adjacent Swaps On Digits](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | [Counting Rectangles](https://projecteuler.net/problem=85)<br>[Cuboid Route](https://projecteuler.net/problem=86) |
