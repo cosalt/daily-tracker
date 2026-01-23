@@ -318,5 +318,13 @@
     "medium": "[Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/)",
     "hard": "[Check if an Original String Exists Given Two Encoded Strings](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/)",
     "euler": "[Right Triangles with Integer Coordinates](https://projecteuler.net/problem=91)<br>[Square Digit Chains](https://projecteuler.net/problem=92)"
+  },
+  {
+    "day": 47,
+    "date": "2026-01-23",
+    "easy": "[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)",
+    "medium": "[Subsets](https://leetcode.com/problems/subsets/)",
+    "hard": "[Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/)",
+    "euler": "[Arithmetic Expressions](https://projecteuler.net/problem=93)<br>[Almost Equilateral Triangles](https://projecteuler.net/problem=94)"
   }
 ]
