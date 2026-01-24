@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 47 (Started Dec 8, 2025)
+### Daily Challenge - Day 48 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Subsets](https://leetcode.com/problems/subsets/) | [Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/) | [Arithmetic Expressions](https://projecteuler.net/problem=93)<br>[Almost Equilateral Triangles](https://projecteuler.net/problem=94) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Find Special Substring of Length K](https://leetcode.com/problems/find-special-substring-of-length-k/) | [Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/) | [Find Beautiful Indices in the Given Array II](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/) | [Amicable Chains](https://projecteuler.net/problem=95)<br>[Su Doku](https://projecteuler.net/problem=96) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 48** | 2026-01-24 | [Find Special Substring of Length K](https://leetcode.com/problems/find-special-substring-of-length-k/) | [Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/) | [Find Beautiful Indices in the Given Array II](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/) | [Amicable Chains](https://projecteuler.net/problem=95)<br>[Su Doku](https://projecteuler.net/problem=96) |
 | **Day 47** | 2026-01-23 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Subsets](https://leetcode.com/problems/subsets/) | [Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/) | [Arithmetic Expressions](https://projecteuler.net/problem=93)<br>[Almost Equilateral Triangles](https://projecteuler.net/problem=94) |
 | **Day 46** | 2026-01-22 | [Sort By](https://leetcode.com/problems/sort-by/) | [Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) | [Check if an Original String Exists Given Two Encoded Strings](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/) | [Right Triangles with Integer Coordinates](https://projecteuler.net/problem=91)<br>[Square Digit Chains](https://projecteuler.net/problem=92) |
 | **Day 45** | 2026-01-21 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Maximize Cyclic Partition Score](https://leetcode.com/problems/maximize-cyclic-partition-score/) | [Roman Numerals](https://projecteuler.net/problem=89)<br>[Cube Digit Pairs](https://projecteuler.net/problem=90) |

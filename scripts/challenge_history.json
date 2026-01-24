@@ -326,5 +326,13 @@
     "medium": "[Subsets](https://leetcode.com/problems/subsets/)",
     "hard": "[Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/)",
     "euler": "[Arithmetic Expressions](https://projecteuler.net/problem=93)<br>[Almost Equilateral Triangles](https://projecteuler.net/problem=94)"
+  },
+  {
+    "day": 48,
+    "date": "2026-01-24",
+    "easy": "[Find Special Substring of Length K](https://leetcode.com/problems/find-special-substring-of-length-k/)",
+    "medium": "[Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/)",
+    "hard": "[Find Beautiful Indices in the Given Array II](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/)",
+    "euler": "[Amicable Chains](https://projecteuler.net/problem=95)<br>[Su Doku](https://projecteuler.net/problem=96)"
   }
 ]
