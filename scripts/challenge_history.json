@@ -334,5 +334,13 @@
     "medium": "[Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/)",
     "hard": "[Find Beautiful Indices in the Given Array II](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/)",
     "euler": "[Amicable Chains](https://projecteuler.net/problem=95)<br>[Su Doku](https://projecteuler.net/problem=96)"
+  },
+  {
+    "day": 49,
+    "date": "2026-01-25",
+    "easy": "[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)",
+    "medium": "[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)",
+    "hard": "[Valid Number](https://leetcode.com/problems/valid-number/)",
+    "euler": "[Large Non-Mersenne Prime](https://projecteuler.net/problem=97)<br>[Anagramic Squares](https://projecteuler.net/problem=98)"
   }
 ]
