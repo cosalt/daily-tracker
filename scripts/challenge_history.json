@@ -342,5 +342,13 @@
     "medium": "[Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)",
     "hard": "[Valid Number](https://leetcode.com/problems/valid-number/)",
     "euler": "[Large Non-Mersenne Prime](https://projecteuler.net/problem=97)<br>[Anagramic Squares](https://projecteuler.net/problem=98)"
+  },
+  {
+    "day": 50,
+    "date": "2026-01-26",
+    "easy": "[Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)",
+    "medium": "[Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/)",
+    "hard": "[Finding MK Average](https://leetcode.com/problems/finding-mk-average/)",
+    "euler": "[Largest Exponential](https://projecteuler.net/problem=99)<br>[Arranged Probability](https://projecteuler.net/problem=100)"
   }
 ]
