@@ -350,5 +350,13 @@
     "medium": "[Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/)",
     "hard": "[Finding MK Average](https://leetcode.com/problems/finding-mk-average/)",
     "euler": "[Largest Exponential](https://projecteuler.net/problem=99)<br>[Arranged Probability](https://projecteuler.net/problem=100)"
+  },
+  {
+    "day": 51,
+    "date": "2026-01-27",
+    "easy": "[Absolute Difference Between Maximum and Minimum K Elements](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/)",
+    "medium": "[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)",
+    "hard": "[Analyze Organization Hierarchy](https://leetcode.com/problems/analyze-organization-hierarchy/)",
+    "euler": "[Optimum Polynomial](https://projecteuler.net/problem=101)<br>[Triangle Containment](https://projecteuler.net/problem=102)"
   }
 ]

@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 50 (Started Dec 8, 2025)
+### Daily Challenge - Day 51 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [Finding MK Average](https://leetcode.com/problems/finding-mk-average/) | [Largest Exponential](https://projecteuler.net/problem=99)<br>[Arranged Probability](https://projecteuler.net/problem=100) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Absolute Difference Between Maximum and Minimum K Elements](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/) | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Analyze Organization Hierarchy](https://leetcode.com/problems/analyze-organization-hierarchy/) | [Optimum Polynomial](https://projecteuler.net/problem=101)<br>[Triangle Containment](https://projecteuler.net/problem=102) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 51** | 2026-01-27 | [Absolute Difference Between Maximum and Minimum K Elements](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/) | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Analyze Organization Hierarchy](https://leetcode.com/problems/analyze-organization-hierarchy/) | [Optimum Polynomial](https://projecteuler.net/problem=101)<br>[Triangle Containment](https://projecteuler.net/problem=102) |
 | **Day 50** | 2026-01-26 | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [Finding MK Average](https://leetcode.com/problems/finding-mk-average/) | [Largest Exponential](https://projecteuler.net/problem=99)<br>[Arranged Probability](https://projecteuler.net/problem=100) |
 | **Day 49** | 2026-01-25 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [Valid Number](https://leetcode.com/problems/valid-number/) | [Large Non-Mersenne Prime](https://projecteuler.net/problem=97)<br>[Anagramic Squares](https://projecteuler.net/problem=98) |
 | **Day 48** | 2026-01-24 | [Find Special Substring of Length K](https://leetcode.com/problems/find-special-substring-of-length-k/) | [Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/) | [Find Beautiful Indices in the Given Array II](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/) | [Amicable Chains](https://projecteuler.net/problem=95)<br>[Su Doku](https://projecteuler.net/problem=96) |
