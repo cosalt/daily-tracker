@@ -358,5 +358,13 @@
     "medium": "[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)",
     "hard": "[Analyze Organization Hierarchy](https://leetcode.com/problems/analyze-organization-hierarchy/)",
     "euler": "[Optimum Polynomial](https://projecteuler.net/problem=101)<br>[Triangle Containment](https://projecteuler.net/problem=102)"
+  },
+  {
+    "day": 52,
+    "date": "2026-01-28",
+    "easy": "[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)",
+    "medium": "[Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/)",
+    "hard": "[Count Pairs With XOR in a Range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/)",
+    "euler": "[Special Subset Sums: Optimum](https://projecteuler.net/problem=103)<br>[Pandigital Fibonacci Ends](https://projecteuler.net/problem=104)"
   }
 ]
