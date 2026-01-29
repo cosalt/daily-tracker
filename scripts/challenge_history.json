@@ -366,5 +366,13 @@
     "medium": "[Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/)",
     "hard": "[Count Pairs With XOR in a Range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/)",
     "euler": "[Special Subset Sums: Optimum](https://projecteuler.net/problem=103)<br>[Pandigital Fibonacci Ends](https://projecteuler.net/problem=104)"
+  },
+  {
+    "day": 53,
+    "date": "2026-01-29",
+    "easy": "[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)",
+    "medium": "[Substring XOR Queries](https://leetcode.com/problems/substring-xor-queries/)",
+    "hard": "[Maximum Total Beauty of the Gardens](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/)",
+    "euler": "[Special Subset Sums: Testing](https://projecteuler.net/problem=105)<br>[Special Subset Sums: Meta-testing](https://projecteuler.net/problem=106)"
   }
 ]

@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 52 (Started Dec 8, 2025)
+### Daily Challenge - Day 53 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | [Count Pairs With XOR in a Range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/) | [Special Subset Sums: Optimum](https://projecteuler.net/problem=103)<br>[Pandigital Fibonacci Ends](https://projecteuler.net/problem=104) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [Substring XOR Queries](https://leetcode.com/problems/substring-xor-queries/) | [Maximum Total Beauty of the Gardens](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/) | [Special Subset Sums: Testing](https://projecteuler.net/problem=105)<br>[Special Subset Sums: Meta-testing](https://projecteuler.net/problem=106) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 53** | 2026-01-29 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [Substring XOR Queries](https://leetcode.com/problems/substring-xor-queries/) | [Maximum Total Beauty of the Gardens](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/) | [Special Subset Sums: Testing](https://projecteuler.net/problem=105)<br>[Special Subset Sums: Meta-testing](https://projecteuler.net/problem=106) |
 | **Day 52** | 2026-01-28 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | [Count Pairs With XOR in a Range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/) | [Special Subset Sums: Optimum](https://projecteuler.net/problem=103)<br>[Pandigital Fibonacci Ends](https://projecteuler.net/problem=104) |
 | **Day 51** | 2026-01-27 | [Absolute Difference Between Maximum and Minimum K Elements](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/) | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Analyze Organization Hierarchy](https://leetcode.com/problems/analyze-organization-hierarchy/) | [Optimum Polynomial](https://projecteuler.net/problem=101)<br>[Triangle Containment](https://projecteuler.net/problem=102) |
 | **Day 50** | 2026-01-26 | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [Finding MK Average](https://leetcode.com/problems/finding-mk-average/) | [Largest Exponential](https://projecteuler.net/problem=99)<br>[Arranged Probability](https://projecteuler.net/problem=100) |
