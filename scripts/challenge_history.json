@@ -374,5 +374,13 @@
     "medium": "[Substring XOR Queries](https://leetcode.com/problems/substring-xor-queries/)",
     "hard": "[Maximum Total Beauty of the Gardens](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/)",
     "euler": "[Special Subset Sums: Testing](https://projecteuler.net/problem=105)<br>[Special Subset Sums: Meta-testing](https://projecteuler.net/problem=106)"
+  },
+  {
+    "day": 54,
+    "date": "2026-01-30",
+    "easy": "[Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/)",
+    "medium": "[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)",
+    "hard": "[Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/)",
+    "euler": "[Minimal Network](https://projecteuler.net/problem=107)<br>[Diophantine Reciprocals I](https://projecteuler.net/problem=108)"
   }
 ]
