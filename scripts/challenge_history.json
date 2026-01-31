@@ -382,5 +382,13 @@
     "medium": "[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)",
     "hard": "[Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/)",
     "euler": "[Minimal Network](https://projecteuler.net/problem=107)<br>[Diophantine Reciprocals I](https://projecteuler.net/problem=108)"
+  },
+  {
+    "day": 55,
+    "date": "2026-01-31",
+    "easy": "[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)",
+    "medium": "[High-Access Employees](https://leetcode.com/problems/high-access-employees/)",
+    "hard": "[Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/)",
+    "euler": "[Darts](https://projecteuler.net/problem=109)<br>[Diophantine Reciprocals II](https://projecteuler.net/problem=110)"
   }
 ]

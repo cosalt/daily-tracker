@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 54 (Started Dec 8, 2025)
+### Daily Challenge - Day 55 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Minimal Network](https://projecteuler.net/problem=107)<br>[Diophantine Reciprocals I](https://projecteuler.net/problem=108) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [High-Access Employees](https://leetcode.com/problems/high-access-employees/) | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/) | [Darts](https://projecteuler.net/problem=109)<br>[Diophantine Reciprocals II](https://projecteuler.net/problem=110) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 55** | 2026-01-31 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [High-Access Employees](https://leetcode.com/problems/high-access-employees/) | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/) | [Darts](https://projecteuler.net/problem=109)<br>[Diophantine Reciprocals II](https://projecteuler.net/problem=110) |
 | **Day 54** | 2026-01-30 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Minimal Network](https://projecteuler.net/problem=107)<br>[Diophantine Reciprocals I](https://projecteuler.net/problem=108) |
 | **Day 53** | 2026-01-29 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [Substring XOR Queries](https://leetcode.com/problems/substring-xor-queries/) | [Maximum Total Beauty of the Gardens](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/) | [Special Subset Sums: Testing](https://projecteuler.net/problem=105)<br>[Special Subset Sums: Meta-testing](https://projecteuler.net/problem=106) |
 | **Day 52** | 2026-01-28 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | [Count Pairs With XOR in a Range](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/) | [Special Subset Sums: Optimum](https://projecteuler.net/problem=103)<br>[Pandigital Fibonacci Ends](https://projecteuler.net/problem=104) |
