@@ -390,5 +390,13 @@
     "medium": "[High-Access Employees](https://leetcode.com/problems/high-access-employees/)",
     "hard": "[Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/)",
     "euler": "[Darts](https://projecteuler.net/problem=109)<br>[Diophantine Reciprocals II](https://projecteuler.net/problem=110)"
+  },
+  {
+    "day": 56,
+    "date": "2026-02-01",
+    "easy": "[Find The Least Frequent Digit](https://leetcode.com/problems/find-the-least-frequent-digit/)",
+    "medium": "[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)",
+    "hard": "[Shortest Path in a Weighted Tree](https://leetcode.com/problems/shortest-path-in-a-weighted-tree/)",
+    "euler": "[Primes with Runs](https://projecteuler.net/problem=111)<br>[Bouncy Numbers](https://projecteuler.net/problem=112)"
   }
 ]
