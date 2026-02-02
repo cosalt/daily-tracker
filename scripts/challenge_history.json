@@ -398,5 +398,13 @@
     "medium": "[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)",
     "hard": "[Shortest Path in a Weighted Tree](https://leetcode.com/problems/shortest-path-in-a-weighted-tree/)",
     "euler": "[Primes with Runs](https://projecteuler.net/problem=111)<br>[Bouncy Numbers](https://projecteuler.net/problem=112)"
+  },
+  {
+    "day": 57,
+    "date": "2026-02-02",
+    "easy": "[Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/)",
+    "medium": "[Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)",
+    "hard": "[Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/)",
+    "euler": "[Non-bouncy Numbers](https://projecteuler.net/problem=113)<br>[Counting Block Combinations I](https://projecteuler.net/problem=114)"
   }
 ]

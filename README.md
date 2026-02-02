@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 56 (Started Dec 8, 2025)
+### Daily Challenge - Day 57 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Find The Least Frequent Digit](https://leetcode.com/problems/find-the-least-frequent-digit/) | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [Shortest Path in a Weighted Tree](https://leetcode.com/problems/shortest-path-in-a-weighted-tree/) | [Primes with Runs](https://projecteuler.net/problem=111)<br>[Bouncy Numbers](https://projecteuler.net/problem=112) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/) | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | [Non-bouncy Numbers](https://projecteuler.net/problem=113)<br>[Counting Block Combinations I](https://projecteuler.net/problem=114) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 57** | 2026-02-02 | [Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/) | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | [Non-bouncy Numbers](https://projecteuler.net/problem=113)<br>[Counting Block Combinations I](https://projecteuler.net/problem=114) |
 | **Day 56** | 2026-02-01 | [Find The Least Frequent Digit](https://leetcode.com/problems/find-the-least-frequent-digit/) | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [Shortest Path in a Weighted Tree](https://leetcode.com/problems/shortest-path-in-a-weighted-tree/) | [Primes with Runs](https://projecteuler.net/problem=111)<br>[Bouncy Numbers](https://projecteuler.net/problem=112) |
 | **Day 55** | 2026-01-31 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [High-Access Employees](https://leetcode.com/problems/high-access-employees/) | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/) | [Darts](https://projecteuler.net/problem=109)<br>[Diophantine Reciprocals II](https://projecteuler.net/problem=110) |
 | **Day 54** | 2026-01-30 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Minimal Network](https://projecteuler.net/problem=107)<br>[Diophantine Reciprocals I](https://projecteuler.net/problem=108) |
