@@ -406,5 +406,13 @@
     "medium": "[Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)",
     "hard": "[Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/)",
     "euler": "[Non-bouncy Numbers](https://projecteuler.net/problem=113)<br>[Counting Block Combinations I](https://projecteuler.net/problem=114)"
+  },
+  {
+    "day": 58,
+    "date": "2026-02-03",
+    "easy": "[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)",
+    "medium": "[Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/)",
+    "hard": "[Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)",
+    "euler": "[Counting Block Combinations II](https://projecteuler.net/problem=115)<br>[Red, Green or Blue Tiles](https://projecteuler.net/problem=116)"
   }
 ]
