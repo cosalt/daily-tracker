@@ -414,5 +414,13 @@
     "medium": "[Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/)",
     "hard": "[Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)",
     "euler": "[Counting Block Combinations II](https://projecteuler.net/problem=115)<br>[Red, Green or Blue Tiles](https://projecteuler.net/problem=116)"
+  },
+  {
+    "day": 59,
+    "date": "2026-02-04",
+    "easy": "[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)",
+    "medium": "[Magical String](https://leetcode.com/problems/magical-string/)",
+    "hard": "[Check If Digits Are Equal in String After Operations II](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/)",
+    "euler": "[Red, Green, and Blue Tiles](https://projecteuler.net/problem=117)<br>[Pandigital Prime Sets](https://projecteuler.net/problem=118)"
   }
 ]
