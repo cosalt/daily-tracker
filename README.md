@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 59 (Started Dec 8, 2025)
+### Daily Challenge - Day 60 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Magical String](https://leetcode.com/problems/magical-string/) | [Check If Digits Are Equal in String After Operations II](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/) | [Red, Green, and Blue Tiles](https://projecteuler.net/problem=117)<br>[Pandigital Prime Sets](https://projecteuler.net/problem=118) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) | [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | [Digit Power Sum](https://projecteuler.net/problem=119)<br>[Square Remainders](https://projecteuler.net/problem=120) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 60** | 2026-02-05 | [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) | [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | [Digit Power Sum](https://projecteuler.net/problem=119)<br>[Square Remainders](https://projecteuler.net/problem=120) |
 | **Day 59** | 2026-02-04 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Magical String](https://leetcode.com/problems/magical-string/) | [Check If Digits Are Equal in String After Operations II](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/) | [Red, Green, and Blue Tiles](https://projecteuler.net/problem=117)<br>[Pandigital Prime Sets](https://projecteuler.net/problem=118) |
 | **Day 58** | 2026-02-03 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | [Counting Block Combinations II](https://projecteuler.net/problem=115)<br>[Red, Green or Blue Tiles](https://projecteuler.net/problem=116) |
 | **Day 57** | 2026-02-02 | [Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/) | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | [Non-bouncy Numbers](https://projecteuler.net/problem=113)<br>[Counting Block Combinations I](https://projecteuler.net/problem=114) |

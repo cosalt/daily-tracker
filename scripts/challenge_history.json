@@ -422,5 +422,13 @@
     "medium": "[Magical String](https://leetcode.com/problems/magical-string/)",
     "hard": "[Check If Digits Are Equal in String After Operations II](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/)",
     "euler": "[Red, Green, and Blue Tiles](https://projecteuler.net/problem=117)<br>[Pandigital Prime Sets](https://projecteuler.net/problem=118)"
+  },
+  {
+    "day": 60,
+    "date": "2026-02-05",
+    "easy": "[Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/)",
+    "medium": "[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)",
+    "hard": "[Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/)",
+    "euler": "[Digit Power Sum](https://projecteuler.net/problem=119)<br>[Square Remainders](https://projecteuler.net/problem=120)"
   }
 ]
