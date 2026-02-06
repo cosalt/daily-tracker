@@ -430,5 +430,13 @@
     "medium": "[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)",
     "hard": "[Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/)",
     "euler": "[Digit Power Sum](https://projecteuler.net/problem=119)<br>[Square Remainders](https://projecteuler.net/problem=120)"
+  },
+  {
+    "day": 61,
+    "date": "2026-02-06",
+    "easy": "[Number Complement](https://leetcode.com/problems/number-complement/)",
+    "medium": "[Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/)",
+    "hard": "[N-Queens II](https://leetcode.com/problems/n-queens-ii/)",
+    "euler": "[Disc Game Prize Fund](https://projecteuler.net/problem=121)<br>[Efficient Exponentiation](https://projecteuler.net/problem=122)"
   }
 ]
