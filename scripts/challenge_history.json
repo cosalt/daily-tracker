@@ -438,5 +438,13 @@
     "medium": "[Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/)",
     "hard": "[N-Queens II](https://leetcode.com/problems/n-queens-ii/)",
     "euler": "[Disc Game Prize Fund](https://projecteuler.net/problem=121)<br>[Efficient Exponentiation](https://projecteuler.net/problem=122)"
+  },
+  {
+    "day": 62,
+    "date": "2026-02-07",
+    "easy": "[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)",
+    "medium": "[Identify the Largest Outlier in an Array](https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/)",
+    "hard": "[Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/)",
+    "euler": "[Prime Square Remainders](https://projecteuler.net/problem=123)<br>[Ordered Radicals](https://projecteuler.net/problem=124)"
   }
 ]

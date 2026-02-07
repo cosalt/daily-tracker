@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 61 (Started Dec 8, 2025)
+### Daily Challenge - Day 62 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Number Complement](https://leetcode.com/problems/number-complement/) | [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [Disc Game Prize Fund](https://projecteuler.net/problem=121)<br>[Efficient Exponentiation](https://projecteuler.net/problem=122) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Identify the Largest Outlier in an Array](https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/) | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [Prime Square Remainders](https://projecteuler.net/problem=123)<br>[Ordered Radicals](https://projecteuler.net/problem=124) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 62** | 2026-02-07 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Identify the Largest Outlier in an Array](https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/) | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [Prime Square Remainders](https://projecteuler.net/problem=123)<br>[Ordered Radicals](https://projecteuler.net/problem=124) |
 | **Day 61** | 2026-02-06 | [Number Complement](https://leetcode.com/problems/number-complement/) | [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [Disc Game Prize Fund](https://projecteuler.net/problem=121)<br>[Efficient Exponentiation](https://projecteuler.net/problem=122) |
 | **Day 60** | 2026-02-05 | [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) | [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | [Digit Power Sum](https://projecteuler.net/problem=119)<br>[Square Remainders](https://projecteuler.net/problem=120) |
 | **Day 59** | 2026-02-04 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Magical String](https://leetcode.com/problems/magical-string/) | [Check If Digits Are Equal in String After Operations II](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/) | [Red, Green, and Blue Tiles](https://projecteuler.net/problem=117)<br>[Pandigital Prime Sets](https://projecteuler.net/problem=118) |
