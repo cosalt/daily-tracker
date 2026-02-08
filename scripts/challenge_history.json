@@ -446,5 +446,13 @@
     "medium": "[Identify the Largest Outlier in an Array](https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/)",
     "hard": "[Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/)",
     "euler": "[Prime Square Remainders](https://projecteuler.net/problem=123)<br>[Ordered Radicals](https://projecteuler.net/problem=124)"
+  },
+  {
+    "day": 63,
+    "date": "2026-02-08",
+    "easy": "[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)",
+    "medium": "[Exam Room](https://leetcode.com/problems/exam-room/)",
+    "hard": "[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)",
+    "euler": "[Palindromic Sums](https://projecteuler.net/problem=125)<br>[Cuboid Layers](https://projecteuler.net/problem=126)"
   }
 ]
