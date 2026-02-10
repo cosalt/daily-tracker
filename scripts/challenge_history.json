@@ -462,5 +462,13 @@
     "medium": "[Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/)",
     "hard": "[Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/)",
     "euler": "[abc-hits](https://projecteuler.net/problem=127)<br>[Hexagonal Tile Differences](https://projecteuler.net/problem=128)"
+  },
+  {
+    "day": 65,
+    "date": "2026-02-10",
+    "easy": "[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)",
+    "medium": "[Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/)",
+    "hard": "[Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/)",
+    "euler": "[Repunit Divisibility](https://projecteuler.net/problem=129)<br>[Composites with Prime Repunit Property](https://projecteuler.net/problem=130)"
   }
 ]
