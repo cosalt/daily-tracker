@@ -470,5 +470,13 @@
     "medium": "[Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/)",
     "hard": "[Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/)",
     "euler": "[Repunit Divisibility](https://projecteuler.net/problem=129)<br>[Composites with Prime Repunit Property](https://projecteuler.net/problem=130)"
+  },
+  {
+    "day": 66,
+    "date": "2026-02-11",
+    "easy": "[Binary Gap](https://leetcode.com/problems/binary-gap/)",
+    "medium": "[Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/)",
+    "hard": "[Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/)",
+    "euler": "[Prime Cube Partnership](https://projecteuler.net/problem=131)<br>[Large Repunit Factors](https://projecteuler.net/problem=132)"
   }
 ]

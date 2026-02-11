@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 65 (Started Dec 8, 2025)
+### Daily Challenge - Day 66 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/) | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/) | [Repunit Divisibility](https://projecteuler.net/problem=129)<br>[Composites with Prime Repunit Property](https://projecteuler.net/problem=130) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Binary Gap](https://leetcode.com/problems/binary-gap/) | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/) | [Prime Cube Partnership](https://projecteuler.net/problem=131)<br>[Large Repunit Factors](https://projecteuler.net/problem=132) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 66** | 2026-02-11 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/) | [Prime Cube Partnership](https://projecteuler.net/problem=131)<br>[Large Repunit Factors](https://projecteuler.net/problem=132) |
 | **Day 65** | 2026-02-10 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/) | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/) | [Repunit Divisibility](https://projecteuler.net/problem=129)<br>[Composites with Prime Repunit Property](https://projecteuler.net/problem=130) |
 | **Day 64** | 2026-02-09 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) | [abc-hits](https://projecteuler.net/problem=127)<br>[Hexagonal Tile Differences](https://projecteuler.net/problem=128) |
 | **Day 63** | 2026-02-08 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Exam Room](https://leetcode.com/problems/exam-room/) | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | [Palindromic Sums](https://projecteuler.net/problem=125)<br>[Cuboid Layers](https://projecteuler.net/problem=126) |
