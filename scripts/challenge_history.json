@@ -478,5 +478,13 @@
     "medium": "[Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/)",
     "hard": "[Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/)",
     "euler": "[Prime Cube Partnership](https://projecteuler.net/problem=131)<br>[Large Repunit Factors](https://projecteuler.net/problem=132)"
+  },
+  {
+    "day": 67,
+    "date": "2026-02-12",
+    "easy": "[Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/)",
+    "medium": "[Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/)",
+    "hard": "[Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)",
+    "euler": "[Repunit Nonfactors](https://projecteuler.net/problem=133)<br>[Prime Pair Connection](https://projecteuler.net/problem=134)"
   }
 ]
