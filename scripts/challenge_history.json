@@ -486,5 +486,13 @@
     "medium": "[Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/)",
     "hard": "[Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)",
     "euler": "[Repunit Nonfactors](https://projecteuler.net/problem=133)<br>[Prime Pair Connection](https://projecteuler.net/problem=134)"
+  },
+  {
+    "day": 68,
+    "date": "2026-02-13",
+    "easy": "[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)",
+    "medium": "[Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)",
+    "hard": "[Candy](https://leetcode.com/problems/candy/)",
+    "euler": "[Same Differences](https://projecteuler.net/problem=135)<br>[Singleton Difference](https://projecteuler.net/problem=136)"
   }
 ]
