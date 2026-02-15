@@ -502,5 +502,13 @@
     "medium": "[Ugly Number III](https://leetcode.com/problems/ugly-number-iii/)",
     "hard": "[Minimum Amount of Damage Dealt to Bob](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/)",
     "euler": "[Fibonacci Golden Nuggets](https://projecteuler.net/problem=137)<br>[Special Isosceles Triangles](https://projecteuler.net/problem=138)"
+  },
+  {
+    "day": 70,
+    "date": "2026-02-15",
+    "easy": "[Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)",
+    "medium": "[Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/)",
+    "hard": "[Maximum Good Subtree Score](https://leetcode.com/problems/maximum-good-subtree-score/)",
+    "euler": "[Pythagorean Tiles](https://projecteuler.net/problem=139)<br>[Modified Fibonacci Golden Nuggets](https://projecteuler.net/problem=140)"
   }
 ]

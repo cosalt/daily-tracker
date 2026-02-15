@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 69 (Started Dec 8, 2025)
+### Daily Challenge - Day 70 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/) | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | [Minimum Amount of Damage Dealt to Bob](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/) | [Fibonacci Golden Nuggets](https://projecteuler.net/problem=137)<br>[Special Isosceles Triangles](https://projecteuler.net/problem=138) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) | [Maximum Good Subtree Score](https://leetcode.com/problems/maximum-good-subtree-score/) | [Pythagorean Tiles](https://projecteuler.net/problem=139)<br>[Modified Fibonacci Golden Nuggets](https://projecteuler.net/problem=140) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 70** | 2026-02-15 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) | [Maximum Good Subtree Score](https://leetcode.com/problems/maximum-good-subtree-score/) | [Pythagorean Tiles](https://projecteuler.net/problem=139)<br>[Modified Fibonacci Golden Nuggets](https://projecteuler.net/problem=140) |
 | **Day 69** | 2026-02-14 | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/) | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | [Minimum Amount of Damage Dealt to Bob](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/) | [Fibonacci Golden Nuggets](https://projecteuler.net/problem=137)<br>[Special Isosceles Triangles](https://projecteuler.net/problem=138) |
 | **Day 68** | 2026-02-13 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/) | [Candy](https://leetcode.com/problems/candy/) | [Same Differences](https://projecteuler.net/problem=135)<br>[Singleton Difference](https://projecteuler.net/problem=136) |
 | **Day 67** | 2026-02-12 | [Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/) | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | [Repunit Nonfactors](https://projecteuler.net/problem=133)<br>[Prime Pair Connection](https://projecteuler.net/problem=134) |
