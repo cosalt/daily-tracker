@@ -510,5 +510,13 @@
     "medium": "[Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/)",
     "hard": "[Maximum Good Subtree Score](https://leetcode.com/problems/maximum-good-subtree-score/)",
     "euler": "[Pythagorean Tiles](https://projecteuler.net/problem=139)<br>[Modified Fibonacci Golden Nuggets](https://projecteuler.net/problem=140)"
+  },
+  {
+    "day": 71,
+    "date": "2026-02-16",
+    "easy": "[Sum of Elements With Frequency Divisible by K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/)",
+    "medium": "[Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/)",
+    "hard": "[Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/)",
+    "euler": "[Square Progressive Numbers](https://projecteuler.net/problem=141)<br>[Perfect Square Collection](https://projecteuler.net/problem=142)"
   }
 ]
