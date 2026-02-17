@@ -518,5 +518,13 @@
     "medium": "[Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/)",
     "hard": "[Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/)",
     "euler": "[Square Progressive Numbers](https://projecteuler.net/problem=141)<br>[Perfect Square Collection](https://projecteuler.net/problem=142)"
+  },
+  {
+    "day": 72,
+    "date": "2026-02-17",
+    "easy": "[Is Object Empty](https://leetcode.com/problems/is-object-empty/)",
+    "medium": "[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)",
+    "hard": "[Stone Game IV](https://leetcode.com/problems/stone-game-iv/)",
+    "euler": "[Torricelli Triangles](https://projecteuler.net/problem=143)<br>[Laser Beam Reflections ](https://projecteuler.net/problem=144)"
   }
 ]
