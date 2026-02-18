@@ -526,5 +526,13 @@
     "medium": "[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)",
     "hard": "[Stone Game IV](https://leetcode.com/problems/stone-game-iv/)",
     "euler": "[Torricelli Triangles](https://projecteuler.net/problem=143)<br>[Laser Beam Reflections ](https://projecteuler.net/problem=144)"
+  },
+  {
+    "day": 73,
+    "date": "2026-02-18",
+    "easy": "[Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)",
+    "medium": "[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)",
+    "hard": "[Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)",
+    "euler": "[Problem 145](https://projecteuler.net/problem=145)<br>[Problem 146](https://projecteuler.net/problem=146)"
   }
 ]
