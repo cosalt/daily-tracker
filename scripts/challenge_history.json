@@ -534,5 +534,13 @@
     "medium": "[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)",
     "hard": "[Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)",
     "euler": "[Problem 145](https://projecteuler.net/problem=145)<br>[Problem 146](https://projecteuler.net/problem=146)"
+  },
+  {
+    "day": 74,
+    "date": "2026-02-19",
+    "easy": "[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)",
+    "medium": "[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)",
+    "hard": "[Maximize Alternating Sum Using Swaps](https://leetcode.com/problems/maximize-alternating-sum-using-swaps/)",
+    "euler": "[Rectangles in Cross-hatched Grids](https://projecteuler.net/problem=147)<br>[Exploring Pascal's Triangle](https://projecteuler.net/problem=148)"
   }
 ]

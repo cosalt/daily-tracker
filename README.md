@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 73 (Started Dec 8, 2025)
+### Daily Challenge - Day 74 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/) | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [Problem 145](https://projecteuler.net/problem=145)<br>[Problem 146](https://projecteuler.net/problem=146) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Maximize Alternating Sum Using Swaps](https://leetcode.com/problems/maximize-alternating-sum-using-swaps/) | [Rectangles in Cross-hatched Grids](https://projecteuler.net/problem=147)<br>[Exploring Pascal's Triangle](https://projecteuler.net/problem=148) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 74** | 2026-02-19 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Maximize Alternating Sum Using Swaps](https://leetcode.com/problems/maximize-alternating-sum-using-swaps/) | [Rectangles in Cross-hatched Grids](https://projecteuler.net/problem=147)<br>[Exploring Pascal's Triangle](https://projecteuler.net/problem=148) |
 | **Day 73** | 2026-02-18 | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/) | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [Problem 145](https://projecteuler.net/problem=145)<br>[Problem 146](https://projecteuler.net/problem=146) |
 | **Day 72** | 2026-02-17 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | [Torricelli Triangles](https://projecteuler.net/problem=143)<br>[Laser Beam Reflections ](https://projecteuler.net/problem=144) |
 | **Day 71** | 2026-02-16 | [Sum of Elements With Frequency Divisible by K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/) | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Square Progressive Numbers](https://projecteuler.net/problem=141)<br>[Perfect Square Collection](https://projecteuler.net/problem=142) |
