@@ -542,5 +542,13 @@
     "medium": "[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)",
     "hard": "[Maximize Alternating Sum Using Swaps](https://leetcode.com/problems/maximize-alternating-sum-using-swaps/)",
     "euler": "[Rectangles in Cross-hatched Grids](https://projecteuler.net/problem=147)<br>[Exploring Pascal's Triangle](https://projecteuler.net/problem=148)"
+  },
+  {
+    "day": 75,
+    "date": "2026-02-20",
+    "easy": "[Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/)",
+    "medium": "[First Element with Unique Frequency](https://leetcode.com/problems/first-element-with-unique-frequency/)",
+    "hard": "[Paint House III](https://leetcode.com/problems/paint-house-iii/)",
+    "euler": "[Maximum-sum Subsequence](https://projecteuler.net/problem=149)<br>[Sub-triangle Sums](https://projecteuler.net/problem=150)"
   }
 ]

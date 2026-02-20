@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 74 (Started Dec 8, 2025)
+### Daily Challenge - Day 75 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Maximize Alternating Sum Using Swaps](https://leetcode.com/problems/maximize-alternating-sum-using-swaps/) | [Rectangles in Cross-hatched Grids](https://projecteuler.net/problem=147)<br>[Exploring Pascal's Triangle](https://projecteuler.net/problem=148) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [First Element with Unique Frequency](https://leetcode.com/problems/first-element-with-unique-frequency/) | [Paint House III](https://leetcode.com/problems/paint-house-iii/) | [Maximum-sum Subsequence](https://projecteuler.net/problem=149)<br>[Sub-triangle Sums](https://projecteuler.net/problem=150) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 75** | 2026-02-20 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [First Element with Unique Frequency](https://leetcode.com/problems/first-element-with-unique-frequency/) | [Paint House III](https://leetcode.com/problems/paint-house-iii/) | [Maximum-sum Subsequence](https://projecteuler.net/problem=149)<br>[Sub-triangle Sums](https://projecteuler.net/problem=150) |
 | **Day 74** | 2026-02-19 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Maximize Alternating Sum Using Swaps](https://leetcode.com/problems/maximize-alternating-sum-using-swaps/) | [Rectangles in Cross-hatched Grids](https://projecteuler.net/problem=147)<br>[Exploring Pascal's Triangle](https://projecteuler.net/problem=148) |
 | **Day 73** | 2026-02-18 | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/) | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [Problem 145](https://projecteuler.net/problem=145)<br>[Problem 146](https://projecteuler.net/problem=146) |
 | **Day 72** | 2026-02-17 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/) | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | [Torricelli Triangles](https://projecteuler.net/problem=143)<br>[Laser Beam Reflections ](https://projecteuler.net/problem=144) |
