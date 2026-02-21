@@ -550,5 +550,13 @@
     "medium": "[First Element with Unique Frequency](https://leetcode.com/problems/first-element-with-unique-frequency/)",
     "hard": "[Paint House III](https://leetcode.com/problems/paint-house-iii/)",
     "euler": "[Maximum-sum Subsequence](https://projecteuler.net/problem=149)<br>[Sub-triangle Sums](https://projecteuler.net/problem=150)"
+  },
+  {
+    "day": 76,
+    "date": "2026-02-21",
+    "easy": "[Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/)",
+    "medium": "[Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/)",
+    "hard": "[IPO](https://leetcode.com/problems/ipo/)",
+    "euler": "[A Preference for A5](https://projecteuler.net/problem=151)<br>[Sums of Square Reciprocals](https://projecteuler.net/problem=152)"
   }
 ]
