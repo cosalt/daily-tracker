@@ -558,5 +558,13 @@
     "medium": "[Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/)",
     "hard": "[IPO](https://leetcode.com/problems/ipo/)",
     "euler": "[A Preference for A5](https://projecteuler.net/problem=151)<br>[Sums of Square Reciprocals](https://projecteuler.net/problem=152)"
+  },
+  {
+    "day": 77,
+    "date": "2026-02-22",
+    "easy": "[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)",
+    "medium": "[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)",
+    "hard": "[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)",
+    "euler": "[Investigating Gaussian Integers](https://projecteuler.net/problem=153)<br>[Exploring Pascal's Pyramid](https://projecteuler.net/problem=154)"
   }
 ]
