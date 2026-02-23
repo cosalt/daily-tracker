@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 77 (Started Dec 8, 2025)
+### Daily Challenge - Day 78 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | [Investigating Gaussian Integers](https://projecteuler.net/problem=153)<br>[Exploring Pascal's Pyramid](https://projecteuler.net/problem=154) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Equal Score Substrings](https://leetcode.com/problems/equal-score-substrings/) | [Find the Most Common Response](https://leetcode.com/problems/find-the-most-common-response/) | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [Counting Capacitor Circuits](https://projecteuler.net/problem=155)<br>[Counting Digits](https://projecteuler.net/problem=156) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 78** | 2026-02-23 | [Equal Score Substrings](https://leetcode.com/problems/equal-score-substrings/) | [Find the Most Common Response](https://leetcode.com/problems/find-the-most-common-response/) | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [Counting Capacitor Circuits](https://projecteuler.net/problem=155)<br>[Counting Digits](https://projecteuler.net/problem=156) |
 | **Day 77** | 2026-02-22 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | [Investigating Gaussian Integers](https://projecteuler.net/problem=153)<br>[Exploring Pascal's Pyramid](https://projecteuler.net/problem=154) |
 | **Day 76** | 2026-02-21 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | [Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/) | [IPO](https://leetcode.com/problems/ipo/) | [A Preference for A5](https://projecteuler.net/problem=151)<br>[Sums of Square Reciprocals](https://projecteuler.net/problem=152) |
 | **Day 75** | 2026-02-20 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [First Element with Unique Frequency](https://leetcode.com/problems/first-element-with-unique-frequency/) | [Paint House III](https://leetcode.com/problems/paint-house-iii/) | [Maximum-sum Subsequence](https://projecteuler.net/problem=149)<br>[Sub-triangle Sums](https://projecteuler.net/problem=150) |
