@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 79 (Started Dec 8, 2025)
+### Daily Challenge - Day 80 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [Maximize Sum of Weights after Edge Removals](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/) | [Base-10 Diophantine Reciprocal](https://projecteuler.net/problem=157)<br>[Lexicographical Neighbours](https://projecteuler.net/problem=158) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Minimum Cost to Make Two Binary Strings Equal](https://leetcode.com/problems/minimum-cost-to-make-two-binary-strings-equal/) | [Minimum Inversion Count in Subarrays of Fixed Length](https://leetcode.com/problems/minimum-inversion-count-in-subarrays-of-fixed-length/) | [Digital Root Sums of Factorisations](https://projecteuler.net/problem=159)<br>[Factorial Trailing Digits](https://projecteuler.net/problem=160) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 80** | 2026-02-25 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Minimum Cost to Make Two Binary Strings Equal](https://leetcode.com/problems/minimum-cost-to-make-two-binary-strings-equal/) | [Minimum Inversion Count in Subarrays of Fixed Length](https://leetcode.com/problems/minimum-inversion-count-in-subarrays-of-fixed-length/) | [Digital Root Sums of Factorisations](https://projecteuler.net/problem=159)<br>[Factorial Trailing Digits](https://projecteuler.net/problem=160) |
 | **Day 79** | 2026-02-24 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [Maximize Sum of Weights after Edge Removals](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/) | [Base-10 Diophantine Reciprocal](https://projecteuler.net/problem=157)<br>[Lexicographical Neighbours](https://projecteuler.net/problem=158) |
 | **Day 78** | 2026-02-23 | [Equal Score Substrings](https://leetcode.com/problems/equal-score-substrings/) | [Find the Most Common Response](https://leetcode.com/problems/find-the-most-common-response/) | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [Counting Capacitor Circuits](https://projecteuler.net/problem=155)<br>[Counting Digits](https://projecteuler.net/problem=156) |
 | **Day 77** | 2026-02-22 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | [Investigating Gaussian Integers](https://projecteuler.net/problem=153)<br>[Exploring Pascal's Pyramid](https://projecteuler.net/problem=154) |

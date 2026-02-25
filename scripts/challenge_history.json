@@ -582,5 +582,13 @@
     "medium": "[Champagne Tower](https://leetcode.com/problems/champagne-tower/)",
     "hard": "[Maximize Sum of Weights after Edge Removals](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/)",
     "euler": "[Base-10 Diophantine Reciprocal](https://projecteuler.net/problem=157)<br>[Lexicographical Neighbours](https://projecteuler.net/problem=158)"
+  },
+  {
+    "day": 80,
+    "date": "2026-02-25",
+    "easy": "[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)",
+    "medium": "[Minimum Cost to Make Two Binary Strings Equal](https://leetcode.com/problems/minimum-cost-to-make-two-binary-strings-equal/)",
+    "hard": "[Minimum Inversion Count in Subarrays of Fixed Length](https://leetcode.com/problems/minimum-inversion-count-in-subarrays-of-fixed-length/)",
+    "euler": "[Digital Root Sums of Factorisations](https://projecteuler.net/problem=159)<br>[Factorial Trailing Digits](https://projecteuler.net/problem=160)"
   }
 ]
