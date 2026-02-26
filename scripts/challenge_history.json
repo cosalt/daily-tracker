@@ -590,5 +590,13 @@
     "medium": "[Minimum Cost to Make Two Binary Strings Equal](https://leetcode.com/problems/minimum-cost-to-make-two-binary-strings-equal/)",
     "hard": "[Minimum Inversion Count in Subarrays of Fixed Length](https://leetcode.com/problems/minimum-inversion-count-in-subarrays-of-fixed-length/)",
     "euler": "[Digital Root Sums of Factorisations](https://projecteuler.net/problem=159)<br>[Factorial Trailing Digits](https://projecteuler.net/problem=160)"
+  },
+  {
+    "day": 81,
+    "date": "2026-02-26",
+    "easy": "[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)",
+    "medium": "[Shortest Uncommon Substring in an Array](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/)",
+    "hard": "[Minimum Partition Score](https://leetcode.com/problems/minimum-partition-score/)",
+    "euler": "[Triominoes](https://projecteuler.net/problem=161)<br>[Hexadecimal Numbers](https://projecteuler.net/problem=162)"
   }
 ]
