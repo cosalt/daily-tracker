@@ -598,5 +598,13 @@
     "medium": "[Shortest Uncommon Substring in an Array](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/)",
     "hard": "[Minimum Partition Score](https://leetcode.com/problems/minimum-partition-score/)",
     "euler": "[Triominoes](https://projecteuler.net/problem=161)<br>[Hexadecimal Numbers](https://projecteuler.net/problem=162)"
+  },
+  {
+    "day": 82,
+    "date": "2026-02-27",
+    "easy": "[Find the Number of Winning Players](https://leetcode.com/problems/find-the-number-of-winning-players/)",
+    "medium": "[Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/)",
+    "hard": "[Minimum Time to Finish the Race](https://leetcode.com/problems/minimum-time-to-finish-the-race/)",
+    "euler": "[Cross-hatched Triangles](https://projecteuler.net/problem=163)<br>[Three Consecutive Digital Sum Limit](https://projecteuler.net/problem=164)"
   }
 ]
