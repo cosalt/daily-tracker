@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 82 (Started Dec 8, 2025)
+### Daily Challenge - Day 83 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Find the Number of Winning Players](https://leetcode.com/problems/find-the-number-of-winning-players/) | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [Minimum Time to Finish the Race](https://leetcode.com/problems/minimum-time-to-finish-the-race/) | [Cross-hatched Triangles](https://projecteuler.net/problem=163)<br>[Three Consecutive Digital Sum Limit](https://projecteuler.net/problem=164) | [NeetCode Practice](https://neetcode.io/practice) |
+| [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [Maximum Sum With at Most K Elements](https://leetcode.com/problems/maximum-sum-with-at-most-k-elements/) | [Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/) | [Intersections](https://projecteuler.net/problem=165)<br>[Criss Cross](https://projecteuler.net/problem=166) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 83** | 2026-02-28 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [Maximum Sum With at Most K Elements](https://leetcode.com/problems/maximum-sum-with-at-most-k-elements/) | [Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/) | [Intersections](https://projecteuler.net/problem=165)<br>[Criss Cross](https://projecteuler.net/problem=166) |
 | **Day 82** | 2026-02-27 | [Find the Number of Winning Players](https://leetcode.com/problems/find-the-number-of-winning-players/) | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [Minimum Time to Finish the Race](https://leetcode.com/problems/minimum-time-to-finish-the-race/) | [Cross-hatched Triangles](https://projecteuler.net/problem=163)<br>[Three Consecutive Digital Sum Limit](https://projecteuler.net/problem=164) |
 | **Day 81** | 2026-02-26 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Shortest Uncommon Substring in an Array](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/) | [Minimum Partition Score](https://leetcode.com/problems/minimum-partition-score/) | [Triominoes](https://projecteuler.net/problem=161)<br>[Hexadecimal Numbers](https://projecteuler.net/problem=162) |
 | **Day 80** | 2026-02-25 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Minimum Cost to Make Two Binary Strings Equal](https://leetcode.com/problems/minimum-cost-to-make-two-binary-strings-equal/) | [Minimum Inversion Count in Subarrays of Fixed Length](https://leetcode.com/problems/minimum-inversion-count-in-subarrays-of-fixed-length/) | [Digital Root Sums of Factorisations](https://projecteuler.net/problem=159)<br>[Factorial Trailing Digits](https://projecteuler.net/problem=160) |
