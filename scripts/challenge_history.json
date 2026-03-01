@@ -614,5 +614,13 @@
     "medium": "[Maximum Sum With at Most K Elements](https://leetcode.com/problems/maximum-sum-with-at-most-k-elements/)",
     "hard": "[Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/)",
     "euler": "[Intersections](https://projecteuler.net/problem=165)<br>[Criss Cross](https://projecteuler.net/problem=166)"
+  },
+  {
+    "day": 84,
+    "date": "2026-03-01",
+    "easy": "[Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/)",
+    "medium": "[Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/)",
+    "hard": "[Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)",
+    "euler": "[Investigating Ulam Sequences](https://projecteuler.net/problem=167)<br>[Number Rotations](https://projecteuler.net/problem=168)"
   }
 ]
