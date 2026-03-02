@@ -622,5 +622,13 @@
     "medium": "[Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/)",
     "hard": "[Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)",
     "euler": "[Investigating Ulam Sequences](https://projecteuler.net/problem=167)<br>[Number Rotations](https://projecteuler.net/problem=168)"
+  },
+  {
+    "day": 85,
+    "date": "2026-03-02",
+    "easy": "[Hexadecimal and Hexatrigesimal Conversion](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/)",
+    "medium": "[Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)",
+    "hard": "[Sum of Imbalance Numbers of All Subarrays](https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/)",
+    "euler": "[Sums of Powers of Two](https://projecteuler.net/problem=169)<br>[Pandigital Concatenating Products](https://projecteuler.net/problem=170)"
   }
 ]

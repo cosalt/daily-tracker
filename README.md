@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 84 (Started Dec 8, 2025)
+### Daily Challenge - Day 85 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/) | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | [Investigating Ulam Sequences](https://projecteuler.net/problem=167)<br>[Number Rotations](https://projecteuler.net/problem=168) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Hexadecimal and Hexatrigesimal Conversion](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/) | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [Sum of Imbalance Numbers of All Subarrays](https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/) | [Sums of Powers of Two](https://projecteuler.net/problem=169)<br>[Pandigital Concatenating Products](https://projecteuler.net/problem=170) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 85** | 2026-03-02 | [Hexadecimal and Hexatrigesimal Conversion](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/) | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [Sum of Imbalance Numbers of All Subarrays](https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/) | [Sums of Powers of Two](https://projecteuler.net/problem=169)<br>[Pandigital Concatenating Products](https://projecteuler.net/problem=170) |
 | **Day 84** | 2026-03-01 | [Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/) | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | [Investigating Ulam Sequences](https://projecteuler.net/problem=167)<br>[Number Rotations](https://projecteuler.net/problem=168) |
 | **Day 83** | 2026-02-28 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/) | [Maximum Sum With at Most K Elements](https://leetcode.com/problems/maximum-sum-with-at-most-k-elements/) | [Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/) | [Intersections](https://projecteuler.net/problem=165)<br>[Criss Cross](https://projecteuler.net/problem=166) |
 | **Day 82** | 2026-02-27 | [Find the Number of Winning Players](https://leetcode.com/problems/find-the-number-of-winning-players/) | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [Minimum Time to Finish the Race](https://leetcode.com/problems/minimum-time-to-finish-the-race/) | [Cross-hatched Triangles](https://projecteuler.net/problem=163)<br>[Three Consecutive Digital Sum Limit](https://projecteuler.net/problem=164) |
