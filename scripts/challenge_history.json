@@ -630,5 +630,13 @@
     "medium": "[Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)",
     "hard": "[Sum of Imbalance Numbers of All Subarrays](https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/)",
     "euler": "[Sums of Powers of Two](https://projecteuler.net/problem=169)<br>[Pandigital Concatenating Products](https://projecteuler.net/problem=170)"
+  },
+  {
+    "day": 86,
+    "date": "2026-03-03",
+    "easy": "[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)",
+    "medium": "[Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/)",
+    "hard": "[Design Cancellable Function](https://leetcode.com/problems/design-cancellable-function/)",
+    "euler": "[Square Sum of the Digital Squares](https://projecteuler.net/problem=171)<br>[Few Repeated Digits](https://projecteuler.net/problem=172)"
   }
 ]
