@@ -638,5 +638,13 @@
     "medium": "[Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/)",
     "hard": "[Design Cancellable Function](https://leetcode.com/problems/design-cancellable-function/)",
     "euler": "[Square Sum of the Digital Squares](https://projecteuler.net/problem=171)<br>[Few Repeated Digits](https://projecteuler.net/problem=172)"
+  },
+  {
+    "day": 87,
+    "date": "2026-03-04",
+    "easy": "[Shuffle String](https://leetcode.com/problems/shuffle-string/)",
+    "medium": "[Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/)",
+    "hard": "[GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array/)",
+    "euler": "[Hollow Square Laminae I](https://projecteuler.net/problem=173)<br>[Hollow Square Laminae II](https://projecteuler.net/problem=174)"
   }
 ]
