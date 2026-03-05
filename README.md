@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 87 (Started Dec 8, 2025)
+### Daily Challenge - Day 88 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | [GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array/) | [Hollow Square Laminae I](https://projecteuler.net/problem=173)<br>[Hollow Square Laminae II](https://projecteuler.net/problem=174) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | [Building Boxes](https://leetcode.com/problems/building-boxes/) | [Fractions and Sum of Powers of Two](https://projecteuler.net/problem=175)<br>[Common Cathetus Right-angled Triangles](https://projecteuler.net/problem=176) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 88** | 2026-03-05 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | [Building Boxes](https://leetcode.com/problems/building-boxes/) | [Fractions and Sum of Powers of Two](https://projecteuler.net/problem=175)<br>[Common Cathetus Right-angled Triangles](https://projecteuler.net/problem=176) |
 | **Day 87** | 2026-03-04 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | [GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array/) | [Hollow Square Laminae I](https://projecteuler.net/problem=173)<br>[Hollow Square Laminae II](https://projecteuler.net/problem=174) |
 | **Day 86** | 2026-03-03 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | [Design Cancellable Function](https://leetcode.com/problems/design-cancellable-function/) | [Square Sum of the Digital Squares](https://projecteuler.net/problem=171)<br>[Few Repeated Digits](https://projecteuler.net/problem=172) |
 | **Day 85** | 2026-03-02 | [Hexadecimal and Hexatrigesimal Conversion](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/) | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [Sum of Imbalance Numbers of All Subarrays](https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/) | [Sums of Powers of Two](https://projecteuler.net/problem=169)<br>[Pandigital Concatenating Products](https://projecteuler.net/problem=170) |

@@ -646,5 +646,13 @@
     "medium": "[Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/)",
     "hard": "[GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array/)",
     "euler": "[Hollow Square Laminae I](https://projecteuler.net/problem=173)<br>[Hollow Square Laminae II](https://projecteuler.net/problem=174)"
+  },
+  {
+    "day": 88,
+    "date": "2026-03-05",
+    "easy": "[Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)",
+    "medium": "[Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/)",
+    "hard": "[Building Boxes](https://leetcode.com/problems/building-boxes/)",
+    "euler": "[Fractions and Sum of Powers of Two](https://projecteuler.net/problem=175)<br>[Common Cathetus Right-angled Triangles](https://projecteuler.net/problem=176)"
   }
 ]
