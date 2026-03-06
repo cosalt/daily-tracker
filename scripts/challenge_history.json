@@ -654,5 +654,13 @@
     "medium": "[Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/)",
     "hard": "[Building Boxes](https://leetcode.com/problems/building-boxes/)",
     "euler": "[Fractions and Sum of Powers of Two](https://projecteuler.net/problem=175)<br>[Common Cathetus Right-angled Triangles](https://projecteuler.net/problem=176)"
+  },
+  {
+    "day": 89,
+    "date": "2026-03-06",
+    "easy": "[Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)",
+    "medium": "[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)",
+    "hard": "[Minimum Increments for Target Multiples in an Array](https://leetcode.com/problems/minimum-increments-for-target-multiples-in-an-array/)",
+    "euler": "[Integer Angled Quadrilaterals](https://projecteuler.net/problem=177)<br>[Step Numbers](https://projecteuler.net/problem=178)"
   }
 ]
