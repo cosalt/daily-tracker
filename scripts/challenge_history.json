@@ -662,5 +662,13 @@
     "medium": "[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)",
     "hard": "[Minimum Increments for Target Multiples in an Array](https://leetcode.com/problems/minimum-increments-for-target-multiples-in-an-array/)",
     "euler": "[Integer Angled Quadrilaterals](https://projecteuler.net/problem=177)<br>[Step Numbers](https://projecteuler.net/problem=178)"
+  },
+  {
+    "day": 90,
+    "date": "2026-03-07",
+    "easy": "[Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)",
+    "medium": "[Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)",
+    "hard": "[Kth Smallest Path XOR Sum](https://leetcode.com/problems/kth-smallest-path-xor-sum/)",
+    "euler": "[Consecutive Positive Divisors](https://projecteuler.net/problem=179)<br>[Golden Triplets](https://projecteuler.net/problem=180)"
   }
 ]

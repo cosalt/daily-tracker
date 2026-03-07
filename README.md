@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 89 (Started Dec 8, 2025)
+### Daily Challenge - Day 90 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Minimum Increments for Target Multiples in an Array](https://leetcode.com/problems/minimum-increments-for-target-multiples-in-an-array/) | [Integer Angled Quadrilaterals](https://projecteuler.net/problem=177)<br>[Step Numbers](https://projecteuler.net/problem=178) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | [Kth Smallest Path XOR Sum](https://leetcode.com/problems/kth-smallest-path-xor-sum/) | [Consecutive Positive Divisors](https://projecteuler.net/problem=179)<br>[Golden Triplets](https://projecteuler.net/problem=180) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 90** | 2026-03-07 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | [Kth Smallest Path XOR Sum](https://leetcode.com/problems/kth-smallest-path-xor-sum/) | [Consecutive Positive Divisors](https://projecteuler.net/problem=179)<br>[Golden Triplets](https://projecteuler.net/problem=180) |
 | **Day 89** | 2026-03-06 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Minimum Increments for Target Multiples in an Array](https://leetcode.com/problems/minimum-increments-for-target-multiples-in-an-array/) | [Integer Angled Quadrilaterals](https://projecteuler.net/problem=177)<br>[Step Numbers](https://projecteuler.net/problem=178) |
 | **Day 88** | 2026-03-05 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | [Building Boxes](https://leetcode.com/problems/building-boxes/) | [Fractions and Sum of Powers of Two](https://projecteuler.net/problem=175)<br>[Common Cathetus Right-angled Triangles](https://projecteuler.net/problem=176) |
 | **Day 87** | 2026-03-04 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | [GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array/) | [Hollow Square Laminae I](https://projecteuler.net/problem=173)<br>[Hollow Square Laminae II](https://projecteuler.net/problem=174) |
