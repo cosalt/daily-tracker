@@ -670,5 +670,13 @@
     "medium": "[Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)",
     "hard": "[Kth Smallest Path XOR Sum](https://leetcode.com/problems/kth-smallest-path-xor-sum/)",
     "euler": "[Consecutive Positive Divisors](https://projecteuler.net/problem=179)<br>[Golden Triplets](https://projecteuler.net/problem=180)"
+  },
+  {
+    "day": 91,
+    "date": "2026-03-08",
+    "easy": "[Divisor Game](https://leetcode.com/problems/divisor-game/)",
+    "medium": "[Maximum Product of Two Integers With No Common Bits](https://leetcode.com/problems/maximum-product-of-two-integers-with-no-common-bits/)",
+    "hard": "[Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/)",
+    "euler": "[Problem 181](https://projecteuler.net/problem=181)<br>[Problem 182](https://projecteuler.net/problem=182)"
   }
 ]
