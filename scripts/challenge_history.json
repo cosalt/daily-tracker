@@ -678,5 +678,13 @@
     "medium": "[Maximum Product of Two Integers With No Common Bits](https://leetcode.com/problems/maximum-product-of-two-integers-with-no-common-bits/)",
     "hard": "[Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/)",
     "euler": "[Problem 181](https://projecteuler.net/problem=181)<br>[Problem 182](https://projecteuler.net/problem=182)"
+  },
+  {
+    "day": 92,
+    "date": "2026-03-09",
+    "easy": "[Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/)",
+    "medium": "[Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/)",
+    "hard": "[Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/)",
+    "euler": "[Maximum Product of Parts](https://projecteuler.net/problem=183)<br>[Triangles Containing the Origin](https://projecteuler.net/problem=184)"
   }
 ]
