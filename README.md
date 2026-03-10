@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 92 (Started Dec 8, 2025)
+### Daily Challenge - Day 93 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | [Maximum Product of Parts](https://projecteuler.net/problem=183)<br>[Triangles Containing the Origin](https://projecteuler.net/problem=184) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Check Balanced String](https://leetcode.com/problems/check-balanced-string/) | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Minimum Time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/) | [Number Mind](https://projecteuler.net/problem=185)<br>[Connectedness of a Network](https://projecteuler.net/problem=186) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 93** | 2026-03-10 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string/) | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Minimum Time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/) | [Number Mind](https://projecteuler.net/problem=185)<br>[Connectedness of a Network](https://projecteuler.net/problem=186) |
 | **Day 92** | 2026-03-09 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | [Maximum Product of Parts](https://projecteuler.net/problem=183)<br>[Triangles Containing the Origin](https://projecteuler.net/problem=184) |
 | **Day 91** | 2026-03-08 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [Maximum Product of Two Integers With No Common Bits](https://leetcode.com/problems/maximum-product-of-two-integers-with-no-common-bits/) | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | [Problem 181](https://projecteuler.net/problem=181)<br>[Problem 182](https://projecteuler.net/problem=182) |
 | **Day 90** | 2026-03-07 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | [Kth Smallest Path XOR Sum](https://leetcode.com/problems/kth-smallest-path-xor-sum/) | [Consecutive Positive Divisors](https://projecteuler.net/problem=179)<br>[Golden Triplets](https://projecteuler.net/problem=180) |
