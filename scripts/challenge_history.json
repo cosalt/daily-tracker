@@ -694,5 +694,13 @@
     "medium": "[Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/)",
     "hard": "[Minimum Time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/)",
     "euler": "[Number Mind](https://projecteuler.net/problem=185)<br>[Connectedness of a Network](https://projecteuler.net/problem=186)"
+  },
+  {
+    "day": 94,
+    "date": "2026-03-11",
+    "easy": "[Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)",
+    "medium": "[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)",
+    "hard": "[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)",
+    "euler": "[Semiprimes](https://projecteuler.net/problem=187)<br>[Hyperexponentiation](https://projecteuler.net/problem=188)"
   }
 ]
