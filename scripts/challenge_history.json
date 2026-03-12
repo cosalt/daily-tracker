@@ -702,5 +702,13 @@
     "medium": "[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)",
     "hard": "[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/)",
     "euler": "[Semiprimes](https://projecteuler.net/problem=187)<br>[Hyperexponentiation](https://projecteuler.net/problem=188)"
+  },
+  {
+    "day": 95,
+    "date": "2026-03-12",
+    "easy": "[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)",
+    "medium": "[Longest Palindrome After Substring Concatenation I](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-i/)",
+    "hard": "[Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/)",
+    "euler": "[Tri-colouring a Triangular Grid](https://projecteuler.net/problem=189)<br>[Maximising a Weighted Product](https://projecteuler.net/problem=190)"
   }
 ]

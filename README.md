@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 94 (Started Dec 8, 2025)
+### Daily Challenge - Day 95 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | [Semiprimes](https://projecteuler.net/problem=187)<br>[Hyperexponentiation](https://projecteuler.net/problem=188) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [Longest Palindrome After Substring Concatenation I](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-i/) | [Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/) | [Tri-colouring a Triangular Grid](https://projecteuler.net/problem=189)<br>[Maximising a Weighted Product](https://projecteuler.net/problem=190) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 95** | 2026-03-12 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [Longest Palindrome After Substring Concatenation I](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-i/) | [Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/) | [Tri-colouring a Triangular Grid](https://projecteuler.net/problem=189)<br>[Maximising a Weighted Product](https://projecteuler.net/problem=190) |
 | **Day 94** | 2026-03-11 | [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | [Semiprimes](https://projecteuler.net/problem=187)<br>[Hyperexponentiation](https://projecteuler.net/problem=188) |
 | **Day 93** | 2026-03-10 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string/) | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Minimum Time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/) | [Number Mind](https://projecteuler.net/problem=185)<br>[Connectedness of a Network](https://projecteuler.net/problem=186) |
 | **Day 92** | 2026-03-09 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | [Maximum Product of Parts](https://projecteuler.net/problem=183)<br>[Triangles Containing the Origin](https://projecteuler.net/problem=184) |
