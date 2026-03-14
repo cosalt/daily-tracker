@@ -718,5 +718,13 @@
     "medium": "[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)",
     "hard": "[Falling Squares](https://leetcode.com/problems/falling-squares/)",
     "euler": "[Prize Strings](https://projecteuler.net/problem=191)<br>[Best Approximations](https://projecteuler.net/problem=192)"
+  },
+  {
+    "day": 97,
+    "date": "2026-03-14",
+    "easy": "[Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)",
+    "medium": "[Find Mirror Score of a String](https://leetcode.com/problems/find-mirror-score-of-a-string/)",
+    "hard": "[String Transformation](https://leetcode.com/problems/string-transformation/)",
+    "euler": "[Squarefree Numbers](https://projecteuler.net/problem=193)<br>[Coloured Configurations](https://projecteuler.net/problem=194)"
   }
 ]

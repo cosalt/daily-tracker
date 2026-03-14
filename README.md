@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 96 (Started Dec 8, 2025)
+### Daily Challenge - Day 97 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/) | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Falling Squares](https://leetcode.com/problems/falling-squares/) | [Prize Strings](https://projecteuler.net/problem=191)<br>[Best Approximations](https://projecteuler.net/problem=192) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) | [Find Mirror Score of a String](https://leetcode.com/problems/find-mirror-score-of-a-string/) | [String Transformation](https://leetcode.com/problems/string-transformation/) | [Squarefree Numbers](https://projecteuler.net/problem=193)<br>[Coloured Configurations](https://projecteuler.net/problem=194) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 97** | 2026-03-14 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) | [Find Mirror Score of a String](https://leetcode.com/problems/find-mirror-score-of-a-string/) | [String Transformation](https://leetcode.com/problems/string-transformation/) | [Squarefree Numbers](https://projecteuler.net/problem=193)<br>[Coloured Configurations](https://projecteuler.net/problem=194) |
 | **Day 96** | 2026-03-13 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/) | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Falling Squares](https://leetcode.com/problems/falling-squares/) | [Prize Strings](https://projecteuler.net/problem=191)<br>[Best Approximations](https://projecteuler.net/problem=192) |
 | **Day 95** | 2026-03-12 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [Longest Palindrome After Substring Concatenation I](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-i/) | [Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/) | [Tri-colouring a Triangular Grid](https://projecteuler.net/problem=189)<br>[Maximising a Weighted Product](https://projecteuler.net/problem=190) |
 | **Day 94** | 2026-03-11 | [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | [Semiprimes](https://projecteuler.net/problem=187)<br>[Hyperexponentiation](https://projecteuler.net/problem=188) |
