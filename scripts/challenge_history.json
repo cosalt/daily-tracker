@@ -734,5 +734,13 @@
     "medium": "[Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/)",
     "hard": "[Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/)",
     "euler": "[$60$-degree Triangle Inscribed Circles](https://projecteuler.net/problem=195)<br>[Prime Triplets](https://projecteuler.net/problem=196)"
+  },
+  {
+    "day": 99,
+    "date": "2026-03-16",
+    "easy": "[Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/)",
+    "medium": "[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)",
+    "hard": "[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)",
+    "euler": "[A Recursively Defined Sequence](https://projecteuler.net/problem=197)<br>[Ambiguous Numbers](https://projecteuler.net/problem=198)"
   }
 ]
