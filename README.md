@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 99 (Started Dec 8, 2025)
+### Daily Challenge - Day 100 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [A Recursively Defined Sequence](https://projecteuler.net/problem=197)<br>[Ambiguous Numbers](https://projecteuler.net/problem=198) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition/) | [Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [Iterative Circle Packing](https://projecteuler.net/problem=199)<br>[Prime-proof Squbes](https://projecteuler.net/problem=200) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 100** | 2026-03-17 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition/) | [Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [Iterative Circle Packing](https://projecteuler.net/problem=199)<br>[Prime-proof Squbes](https://projecteuler.net/problem=200) |
 | **Day 99** | 2026-03-16 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [A Recursively Defined Sequence](https://projecteuler.net/problem=197)<br>[Ambiguous Numbers](https://projecteuler.net/problem=198) |
 | **Day 98** | 2026-03-15 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [$60$-degree Triangle Inscribed Circles](https://projecteuler.net/problem=195)<br>[Prime Triplets](https://projecteuler.net/problem=196) |
 | **Day 97** | 2026-03-14 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) | [Find Mirror Score of a String](https://leetcode.com/problems/find-mirror-score-of-a-string/) | [String Transformation](https://leetcode.com/problems/string-transformation/) | [Squarefree Numbers](https://projecteuler.net/problem=193)<br>[Coloured Configurations](https://projecteuler.net/problem=194) |

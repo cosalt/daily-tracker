@@ -742,5 +742,13 @@
     "medium": "[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)",
     "hard": "[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)",
     "euler": "[A Recursively Defined Sequence](https://projecteuler.net/problem=197)<br>[Ambiguous Numbers](https://projecteuler.net/problem=198)"
+  },
+  {
+    "day": 100,
+    "date": "2026-03-17",
+    "easy": "[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)",
+    "medium": "[Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition/)",
+    "hard": "[Concatenated Words](https://leetcode.com/problems/concatenated-words/)",
+    "euler": "[Iterative Circle Packing](https://projecteuler.net/problem=199)<br>[Prime-proof Squbes](https://projecteuler.net/problem=200)"
   }
 ]
