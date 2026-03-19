@@ -758,5 +758,13 @@
     "medium": "[Maximum Points Inside the Square](https://leetcode.com/problems/maximum-points-inside-the-square/)",
     "hard": "[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)",
     "euler": "[Subsets with a Unique Sum](https://projecteuler.net/problem=201)<br>[Laserbeam](https://projecteuler.net/problem=202)"
+  },
+  {
+    "day": 102,
+    "date": "2026-03-19",
+    "easy": "[Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/)",
+    "medium": "[Maximum Weighted K-Edge Path](https://leetcode.com/problems/maximum-weighted-k-edge-path/)",
+    "hard": "[Minimum Cost to Equalize Array](https://leetcode.com/problems/minimum-cost-to-equalize-array/)",
+    "euler": "[Squarefree Binomial Coefficients](https://projecteuler.net/problem=203)<br>[Generalised Hamming Numbers](https://projecteuler.net/problem=204)"
   }
 ]
