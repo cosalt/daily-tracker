@@ -766,5 +766,13 @@
     "medium": "[Maximum Weighted K-Edge Path](https://leetcode.com/problems/maximum-weighted-k-edge-path/)",
     "hard": "[Minimum Cost to Equalize Array](https://leetcode.com/problems/minimum-cost-to-equalize-array/)",
     "euler": "[Squarefree Binomial Coefficients](https://projecteuler.net/problem=203)<br>[Generalised Hamming Numbers](https://projecteuler.net/problem=204)"
+  },
+  {
+    "day": 103,
+    "date": "2026-03-20",
+    "easy": "[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)",
+    "medium": "[Call Function with Custom Context](https://leetcode.com/problems/call-function-with-custom-context/)",
+    "hard": "[Reaching Points](https://leetcode.com/problems/reaching-points/)",
+    "euler": "[Dice Game](https://projecteuler.net/problem=205)<br>[Concealed Square](https://projecteuler.net/problem=206)"
   }
 ]

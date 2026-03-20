@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 102 (Started Dec 8, 2025)
+### Daily Challenge - Day 103 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/) | [Maximum Weighted K-Edge Path](https://leetcode.com/problems/maximum-weighted-k-edge-path/) | [Minimum Cost to Equalize Array](https://leetcode.com/problems/minimum-cost-to-equalize-array/) | [Squarefree Binomial Coefficients](https://projecteuler.net/problem=203)<br>[Generalised Hamming Numbers](https://projecteuler.net/problem=204) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Call Function with Custom Context](https://leetcode.com/problems/call-function-with-custom-context/) | [Reaching Points](https://leetcode.com/problems/reaching-points/) | [Dice Game](https://projecteuler.net/problem=205)<br>[Concealed Square](https://projecteuler.net/problem=206) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 103** | 2026-03-20 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Call Function with Custom Context](https://leetcode.com/problems/call-function-with-custom-context/) | [Reaching Points](https://leetcode.com/problems/reaching-points/) | [Dice Game](https://projecteuler.net/problem=205)<br>[Concealed Square](https://projecteuler.net/problem=206) |
 | **Day 102** | 2026-03-19 | [Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/) | [Maximum Weighted K-Edge Path](https://leetcode.com/problems/maximum-weighted-k-edge-path/) | [Minimum Cost to Equalize Array](https://leetcode.com/problems/minimum-cost-to-equalize-array/) | [Squarefree Binomial Coefficients](https://projecteuler.net/problem=203)<br>[Generalised Hamming Numbers](https://projecteuler.net/problem=204) |
 | **Day 101** | 2026-03-18 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | [Maximum Points Inside the Square](https://leetcode.com/problems/maximum-points-inside-the-square/) | [Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/) | [Subsets with a Unique Sum](https://projecteuler.net/problem=201)<br>[Laserbeam](https://projecteuler.net/problem=202) |
 | **Day 100** | 2026-03-17 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition/) | [Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [Iterative Circle Packing](https://projecteuler.net/problem=199)<br>[Prime-proof Squbes](https://projecteuler.net/problem=200) |
