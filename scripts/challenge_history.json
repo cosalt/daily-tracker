@@ -774,5 +774,13 @@
     "medium": "[Call Function with Custom Context](https://leetcode.com/problems/call-function-with-custom-context/)",
     "hard": "[Reaching Points](https://leetcode.com/problems/reaching-points/)",
     "euler": "[Dice Game](https://projecteuler.net/problem=205)<br>[Concealed Square](https://projecteuler.net/problem=206)"
+  },
+  {
+    "day": 104,
+    "date": "2026-03-21",
+    "easy": "[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)",
+    "medium": "[XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)",
+    "hard": "[Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)",
+    "euler": "[Integer Partition Equations](https://projecteuler.net/problem=207)<br>[Robot Walks](https://projecteuler.net/problem=208)"
   }
 ]

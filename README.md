@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 103 (Started Dec 8, 2025)
+### Daily Challenge - Day 104 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Call Function with Custom Context](https://leetcode.com/problems/call-function-with-custom-context/) | [Reaching Points](https://leetcode.com/problems/reaching-points/) | [Dice Game](https://projecteuler.net/problem=205)<br>[Concealed Square](https://projecteuler.net/problem=206) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/) | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | [Integer Partition Equations](https://projecteuler.net/problem=207)<br>[Robot Walks](https://projecteuler.net/problem=208) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 104** | 2026-03-21 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/) | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | [Integer Partition Equations](https://projecteuler.net/problem=207)<br>[Robot Walks](https://projecteuler.net/problem=208) |
 | **Day 103** | 2026-03-20 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Call Function with Custom Context](https://leetcode.com/problems/call-function-with-custom-context/) | [Reaching Points](https://leetcode.com/problems/reaching-points/) | [Dice Game](https://projecteuler.net/problem=205)<br>[Concealed Square](https://projecteuler.net/problem=206) |
 | **Day 102** | 2026-03-19 | [Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/) | [Maximum Weighted K-Edge Path](https://leetcode.com/problems/maximum-weighted-k-edge-path/) | [Minimum Cost to Equalize Array](https://leetcode.com/problems/minimum-cost-to-equalize-array/) | [Squarefree Binomial Coefficients](https://projecteuler.net/problem=203)<br>[Generalised Hamming Numbers](https://projecteuler.net/problem=204) |
 | **Day 101** | 2026-03-18 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | [Maximum Points Inside the Square](https://leetcode.com/problems/maximum-points-inside-the-square/) | [Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/) | [Subsets with a Unique Sum](https://projecteuler.net/problem=201)<br>[Laserbeam](https://projecteuler.net/problem=202) |
