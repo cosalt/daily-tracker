@@ -782,5 +782,13 @@
     "medium": "[XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)",
     "hard": "[Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)",
     "euler": "[Integer Partition Equations](https://projecteuler.net/problem=207)<br>[Robot Walks](https://projecteuler.net/problem=208)"
+  },
+  {
+    "day": 105,
+    "date": "2026-03-22",
+    "easy": "[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)",
+    "medium": "[Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/)",
+    "hard": "[Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/)",
+    "euler": "[Circular Logic](https://projecteuler.net/problem=209)<br>[Obtuse Angled Triangles](https://projecteuler.net/problem=210)"
   }
 ]

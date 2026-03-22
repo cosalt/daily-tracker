@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 104 (Started Dec 8, 2025)
+### Daily Challenge - Day 105 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/) | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | [Integer Partition Equations](https://projecteuler.net/problem=207)<br>[Robot Walks](https://projecteuler.net/problem=208) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | [Circular Logic](https://projecteuler.net/problem=209)<br>[Obtuse Angled Triangles](https://projecteuler.net/problem=210) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 105** | 2026-03-22 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | [Circular Logic](https://projecteuler.net/problem=209)<br>[Obtuse Angled Triangles](https://projecteuler.net/problem=210) |
 | **Day 104** | 2026-03-21 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/) | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | [Integer Partition Equations](https://projecteuler.net/problem=207)<br>[Robot Walks](https://projecteuler.net/problem=208) |
 | **Day 103** | 2026-03-20 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Call Function with Custom Context](https://leetcode.com/problems/call-function-with-custom-context/) | [Reaching Points](https://leetcode.com/problems/reaching-points/) | [Dice Game](https://projecteuler.net/problem=205)<br>[Concealed Square](https://projecteuler.net/problem=206) |
 | **Day 102** | 2026-03-19 | [Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/) | [Maximum Weighted K-Edge Path](https://leetcode.com/problems/maximum-weighted-k-edge-path/) | [Minimum Cost to Equalize Array](https://leetcode.com/problems/minimum-cost-to-equalize-array/) | [Squarefree Binomial Coefficients](https://projecteuler.net/problem=203)<br>[Generalised Hamming Numbers](https://projecteuler.net/problem=204) |
