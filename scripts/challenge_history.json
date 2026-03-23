@@ -790,5 +790,13 @@
     "medium": "[Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/)",
     "hard": "[Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/)",
     "euler": "[Circular Logic](https://projecteuler.net/problem=209)<br>[Obtuse Angled Triangles](https://projecteuler.net/problem=210)"
+  },
+  {
+    "day": 106,
+    "date": "2026-03-23",
+    "easy": "[Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)",
+    "medium": "[Count Subarrays With Cost Less Than or Equal to K](https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/)",
+    "hard": "[Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)",
+    "euler": "[Divisor Square Sum](https://projecteuler.net/problem=211)<br>[Combined Volume of Cuboids](https://projecteuler.net/problem=212)"
   }
 ]
