@@ -798,5 +798,13 @@
     "medium": "[Count Subarrays With Cost Less Than or Equal to K](https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/)",
     "hard": "[Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)",
     "euler": "[Divisor Square Sum](https://projecteuler.net/problem=211)<br>[Combined Volume of Cuboids](https://projecteuler.net/problem=212)"
+  },
+  {
+    "day": 107,
+    "date": "2026-03-24",
+    "easy": "[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)",
+    "medium": "[Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/)",
+    "hard": "[Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/)",
+    "euler": "[Flea Circus](https://projecteuler.net/problem=213)<br>[Totient Chains](https://projecteuler.net/problem=214)"
   }
 ]
