@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 107 (Started Dec 8, 2025)
+### Daily Challenge - Day 108 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/) | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | [Flea Circus](https://projecteuler.net/problem=213)<br>[Totient Chains](https://projecteuler.net/problem=214) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Split the Array](https://leetcode.com/problems/split-the-array/) | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/) | [Number of Possible Sets of Closing Branches](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/) | [Crack-free Walls](https://projecteuler.net/problem=215)<br>[The Primality of $2n^2 - 1$](https://projecteuler.net/problem=216) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 108** | 2026-03-25 | [Split the Array](https://leetcode.com/problems/split-the-array/) | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/) | [Number of Possible Sets of Closing Branches](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/) | [Crack-free Walls](https://projecteuler.net/problem=215)<br>[The Primality of $2n^2 - 1$](https://projecteuler.net/problem=216) |
 | **Day 107** | 2026-03-24 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/) | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | [Flea Circus](https://projecteuler.net/problem=213)<br>[Totient Chains](https://projecteuler.net/problem=214) |
 | **Day 106** | 2026-03-23 | [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | [Count Subarrays With Cost Less Than or Equal to K](https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/) | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | [Divisor Square Sum](https://projecteuler.net/problem=211)<br>[Combined Volume of Cuboids](https://projecteuler.net/problem=212) |
 | **Day 105** | 2026-03-22 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | [Circular Logic](https://projecteuler.net/problem=209)<br>[Obtuse Angled Triangles](https://projecteuler.net/problem=210) |

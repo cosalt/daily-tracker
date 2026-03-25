@@ -806,5 +806,13 @@
     "medium": "[Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/)",
     "hard": "[Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/)",
     "euler": "[Flea Circus](https://projecteuler.net/problem=213)<br>[Totient Chains](https://projecteuler.net/problem=214)"
+  },
+  {
+    "day": 108,
+    "date": "2026-03-25",
+    "easy": "[Split the Array](https://leetcode.com/problems/split-the-array/)",
+    "medium": "[Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/)",
+    "hard": "[Number of Possible Sets of Closing Branches](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/)",
+    "euler": "[Crack-free Walls](https://projecteuler.net/problem=215)<br>[The Primality of $2n^2 - 1$](https://projecteuler.net/problem=216)"
   }
 ]
