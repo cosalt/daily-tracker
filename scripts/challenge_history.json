@@ -814,5 +814,13 @@
     "medium": "[Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/)",
     "hard": "[Number of Possible Sets of Closing Branches](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/)",
     "euler": "[Crack-free Walls](https://projecteuler.net/problem=215)<br>[The Primality of $2n^2 - 1$](https://projecteuler.net/problem=216)"
+  },
+  {
+    "day": 109,
+    "date": "2026-03-26",
+    "easy": "[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)",
+    "medium": "[Maximum Score After Binary Swaps](https://leetcode.com/problems/maximum-score-after-binary-swaps/)",
+    "hard": "[Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/)",
+    "euler": "[Problem 217](https://projecteuler.net/problem=217)<br>[Problem 218](https://projecteuler.net/problem=218)"
   }
 ]
