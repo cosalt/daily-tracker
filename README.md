@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 109 (Started Dec 8, 2025)
+### Daily Challenge - Day 110 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [Maximum Score After Binary Swaps](https://leetcode.com/problems/maximum-score-after-binary-swaps/) | [Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | [Problem 217](https://projecteuler.net/problem=217)<br>[Problem 218](https://projecteuler.net/problem=218) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/) | [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [Skew-cost Coding](https://projecteuler.net/problem=219)<br>[Heighway Dragon](https://projecteuler.net/problem=220) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 110** | 2026-03-27 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/) | [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [Skew-cost Coding](https://projecteuler.net/problem=219)<br>[Heighway Dragon](https://projecteuler.net/problem=220) |
 | **Day 109** | 2026-03-26 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [Maximum Score After Binary Swaps](https://leetcode.com/problems/maximum-score-after-binary-swaps/) | [Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | [Problem 217](https://projecteuler.net/problem=217)<br>[Problem 218](https://projecteuler.net/problem=218) |
 | **Day 108** | 2026-03-25 | [Split the Array](https://leetcode.com/problems/split-the-array/) | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/) | [Number of Possible Sets of Closing Branches](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/) | [Crack-free Walls](https://projecteuler.net/problem=215)<br>[The Primality of $2n^2 - 1$](https://projecteuler.net/problem=216) |
 | **Day 107** | 2026-03-24 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/) | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | [Flea Circus](https://projecteuler.net/problem=213)<br>[Totient Chains](https://projecteuler.net/problem=214) |

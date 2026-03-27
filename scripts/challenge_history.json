@@ -822,5 +822,13 @@
     "medium": "[Maximum Score After Binary Swaps](https://leetcode.com/problems/maximum-score-after-binary-swaps/)",
     "hard": "[Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/)",
     "euler": "[Problem 217](https://projecteuler.net/problem=217)<br>[Problem 218](https://projecteuler.net/problem=218)"
+  },
+  {
+    "day": 110,
+    "date": "2026-03-27",
+    "easy": "[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)",
+    "medium": "[Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/)",
+    "hard": "[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)",
+    "euler": "[Skew-cost Coding](https://projecteuler.net/problem=219)<br>[Heighway Dragon](https://projecteuler.net/problem=220)"
   }
 ]
