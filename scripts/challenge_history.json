@@ -830,5 +830,13 @@
     "medium": "[Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/)",
     "hard": "[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)",
     "euler": "[Skew-cost Coding](https://projecteuler.net/problem=219)<br>[Heighway Dragon](https://projecteuler.net/problem=220)"
+  },
+  {
+    "day": 111,
+    "date": "2026-03-28",
+    "easy": "[Reverse Bits](https://leetcode.com/problems/reverse-bits/)",
+    "medium": "[Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/)",
+    "hard": "[Count Good Subarrays](https://leetcode.com/problems/count-good-subarrays/)",
+    "euler": "[Alexandrian Integers](https://projecteuler.net/problem=221)<br>[Sphere Packing](https://projecteuler.net/problem=222)"
   }
 ]
