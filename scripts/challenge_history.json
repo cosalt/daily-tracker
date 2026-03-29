@@ -838,5 +838,13 @@
     "medium": "[Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/)",
     "hard": "[Count Good Subarrays](https://leetcode.com/problems/count-good-subarrays/)",
     "euler": "[Alexandrian Integers](https://projecteuler.net/problem=221)<br>[Sphere Packing](https://projecteuler.net/problem=222)"
+  },
+  {
+    "day": 112,
+    "date": "2026-03-29",
+    "easy": "[Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/)",
+    "medium": "[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)",
+    "hard": "[Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)",
+    "euler": "[Almost Right-angled Triangles I](https://projecteuler.net/problem=223)<br>[Almost Right-angled Triangles II](https://projecteuler.net/problem=224)"
   }
 ]
