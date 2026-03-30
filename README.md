@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 112 (Started Dec 8, 2025)
+### Daily Challenge - Day 113 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | [Almost Right-angled Triangles I](https://projecteuler.net/problem=223)<br>[Almost Right-angled Triangles II](https://projecteuler.net/problem=224) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Can I Win](https://leetcode.com/problems/can-i-win/) | [Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/) | [Tribonacci Non-divisors](https://projecteuler.net/problem=225)<br>[A Scoop of Blancmange](https://projecteuler.net/problem=226) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 113** | 2026-03-30 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Can I Win](https://leetcode.com/problems/can-i-win/) | [Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/) | [Tribonacci Non-divisors](https://projecteuler.net/problem=225)<br>[A Scoop of Blancmange](https://projecteuler.net/problem=226) |
 | **Day 112** | 2026-03-29 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | [Almost Right-angled Triangles I](https://projecteuler.net/problem=223)<br>[Almost Right-angled Triangles II](https://projecteuler.net/problem=224) |
 | **Day 111** | 2026-03-28 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | [Count Good Subarrays](https://leetcode.com/problems/count-good-subarrays/) | [Alexandrian Integers](https://projecteuler.net/problem=221)<br>[Sphere Packing](https://projecteuler.net/problem=222) |
 | **Day 110** | 2026-03-27 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/) | [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [Skew-cost Coding](https://projecteuler.net/problem=219)<br>[Heighway Dragon](https://projecteuler.net/problem=220) |

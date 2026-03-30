@@ -846,5 +846,13 @@
     "medium": "[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)",
     "hard": "[Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)",
     "euler": "[Almost Right-angled Triangles I](https://projecteuler.net/problem=223)<br>[Almost Right-angled Triangles II](https://projecteuler.net/problem=224)"
+  },
+  {
+    "day": 113,
+    "date": "2026-03-30",
+    "easy": "[Ugly Number](https://leetcode.com/problems/ugly-number/)",
+    "medium": "[Can I Win](https://leetcode.com/problems/can-i-win/)",
+    "hard": "[Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/)",
+    "euler": "[Tribonacci Non-divisors](https://projecteuler.net/problem=225)<br>[A Scoop of Blancmange](https://projecteuler.net/problem=226)"
   }
 ]
