@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 113 (Started Dec 8, 2025)
+### Daily Challenge - Day 114 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Can I Win](https://leetcode.com/problems/can-i-win/) | [Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/) | [Tribonacci Non-divisors](https://projecteuler.net/problem=225)<br>[A Scoop of Blancmange](https://projecteuler.net/problem=226) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Image Smoother](https://leetcode.com/problems/image-smoother/) | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/) | [The Chase](https://projecteuler.net/problem=227)<br>[Minkowski Sums](https://projecteuler.net/problem=228) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 114** | 2026-03-31 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/) | [The Chase](https://projecteuler.net/problem=227)<br>[Minkowski Sums](https://projecteuler.net/problem=228) |
 | **Day 113** | 2026-03-30 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Can I Win](https://leetcode.com/problems/can-i-win/) | [Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/) | [Tribonacci Non-divisors](https://projecteuler.net/problem=225)<br>[A Scoop of Blancmange](https://projecteuler.net/problem=226) |
 | **Day 112** | 2026-03-29 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | [Almost Right-angled Triangles I](https://projecteuler.net/problem=223)<br>[Almost Right-angled Triangles II](https://projecteuler.net/problem=224) |
 | **Day 111** | 2026-03-28 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | [Count Good Subarrays](https://leetcode.com/problems/count-good-subarrays/) | [Alexandrian Integers](https://projecteuler.net/problem=221)<br>[Sphere Packing](https://projecteuler.net/problem=222) |

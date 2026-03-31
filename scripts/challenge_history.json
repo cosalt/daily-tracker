@@ -854,5 +854,13 @@
     "medium": "[Can I Win](https://leetcode.com/problems/can-i-win/)",
     "hard": "[Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/)",
     "euler": "[Tribonacci Non-divisors](https://projecteuler.net/problem=225)<br>[A Scoop of Blancmange](https://projecteuler.net/problem=226)"
+  },
+  {
+    "day": 114,
+    "date": "2026-03-31",
+    "easy": "[Image Smoother](https://leetcode.com/problems/image-smoother/)",
+    "medium": "[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)",
+    "hard": "[Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/)",
+    "euler": "[The Chase](https://projecteuler.net/problem=227)<br>[Minkowski Sums](https://projecteuler.net/problem=228)"
   }
 ]
