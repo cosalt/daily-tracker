@@ -862,5 +862,13 @@
     "medium": "[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)",
     "hard": "[Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/)",
     "euler": "[The Chase](https://projecteuler.net/problem=227)<br>[Minkowski Sums](https://projecteuler.net/problem=228)"
+  },
+  {
+    "day": 115,
+    "date": "2026-04-01",
+    "easy": "[Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)",
+    "medium": "[Number of Times Binary String Is Prefix-Aligned](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/)",
+    "hard": "[Maximum Product of Subsequences With an Alternating Sum Equal to K](https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/)",
+    "euler": "[Four Representations Using Squares](https://projecteuler.net/problem=229)<br>[Fibonacci Words](https://projecteuler.net/problem=230)"
   }
 ]

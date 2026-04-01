@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 114 (Started Dec 8, 2025)
+### Daily Challenge - Day 115 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Image Smoother](https://leetcode.com/problems/image-smoother/) | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/) | [The Chase](https://projecteuler.net/problem=227)<br>[Minkowski Sums](https://projecteuler.net/problem=228) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [Number of Times Binary String Is Prefix-Aligned](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | [Maximum Product of Subsequences With an Alternating Sum Equal to K](https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/) | [Four Representations Using Squares](https://projecteuler.net/problem=229)<br>[Fibonacci Words](https://projecteuler.net/problem=230) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 115** | 2026-04-01 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [Number of Times Binary String Is Prefix-Aligned](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | [Maximum Product of Subsequences With an Alternating Sum Equal to K](https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/) | [Four Representations Using Squares](https://projecteuler.net/problem=229)<br>[Fibonacci Words](https://projecteuler.net/problem=230) |
 | **Day 114** | 2026-03-31 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/) | [The Chase](https://projecteuler.net/problem=227)<br>[Minkowski Sums](https://projecteuler.net/problem=228) |
 | **Day 113** | 2026-03-30 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Can I Win](https://leetcode.com/problems/can-i-win/) | [Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/) | [Tribonacci Non-divisors](https://projecteuler.net/problem=225)<br>[A Scoop of Blancmange](https://projecteuler.net/problem=226) |
 | **Day 112** | 2026-03-29 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | [Almost Right-angled Triangles I](https://projecteuler.net/problem=223)<br>[Almost Right-angled Triangles II](https://projecteuler.net/problem=224) |
