@@ -870,5 +870,13 @@
     "medium": "[Number of Times Binary String Is Prefix-Aligned](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/)",
     "hard": "[Maximum Product of Subsequences With an Alternating Sum Equal to K](https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/)",
     "euler": "[Four Representations Using Squares](https://projecteuler.net/problem=229)<br>[Fibonacci Words](https://projecteuler.net/problem=230)"
+  },
+  {
+    "day": 116,
+    "date": "2026-04-02",
+    "easy": "[Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)",
+    "medium": "[Time Needed to Rearrange a Binary String](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/)",
+    "hard": "[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)",
+    "euler": "[Prime Factorisation of Binomial Coefficients](https://projecteuler.net/problem=231)<br>[The Race](https://projecteuler.net/problem=232)"
   }
 ]
