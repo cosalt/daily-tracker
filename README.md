@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 116 (Started Dec 8, 2025)
+### Daily Challenge - Day 117 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [Time Needed to Rearrange a Binary String](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/) | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [Prime Factorisation of Binomial Coefficients](https://projecteuler.net/problem=231)<br>[The Race](https://projecteuler.net/problem=232) | [NeetCode Practice](https://neetcode.io/practice) |
+| [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | [Tag Validator](https://leetcode.com/problems/tag-validator/) | [Lattice Points on a Circle](https://projecteuler.net/problem=233)<br>[Semidivisible Numbers](https://projecteuler.net/problem=234) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 117** | 2026-04-03 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | [Tag Validator](https://leetcode.com/problems/tag-validator/) | [Lattice Points on a Circle](https://projecteuler.net/problem=233)<br>[Semidivisible Numbers](https://projecteuler.net/problem=234) |
 | **Day 116** | 2026-04-02 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [Time Needed to Rearrange a Binary String](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/) | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [Prime Factorisation of Binomial Coefficients](https://projecteuler.net/problem=231)<br>[The Race](https://projecteuler.net/problem=232) |
 | **Day 115** | 2026-04-01 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [Number of Times Binary String Is Prefix-Aligned](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | [Maximum Product of Subsequences With an Alternating Sum Equal to K](https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/) | [Four Representations Using Squares](https://projecteuler.net/problem=229)<br>[Fibonacci Words](https://projecteuler.net/problem=230) |
 | **Day 114** | 2026-03-31 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/) | [The Chase](https://projecteuler.net/problem=227)<br>[Minkowski Sums](https://projecteuler.net/problem=228) |
