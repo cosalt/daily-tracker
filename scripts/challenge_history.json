@@ -886,5 +886,13 @@
     "medium": "[Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)",
     "hard": "[Tag Validator](https://leetcode.com/problems/tag-validator/)",
     "euler": "[Lattice Points on a Circle](https://projecteuler.net/problem=233)<br>[Semidivisible Numbers](https://projecteuler.net/problem=234)"
+  },
+  {
+    "day": 118,
+    "date": "2026-04-04",
+    "easy": "[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)",
+    "medium": "[ Minimum Discards to Balance Inventory](https://leetcode.com/problems/minimum-discards-to-balance-inventory/)",
+    "hard": "[Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)",
+    "euler": "[An Arithmetic Geometric Sequence](https://projecteuler.net/problem=235)<br>[Luxury Hampers](https://projecteuler.net/problem=236)"
   }
 ]
