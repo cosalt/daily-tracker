@@ -894,5 +894,13 @@
     "medium": "[ Minimum Discards to Balance Inventory](https://leetcode.com/problems/minimum-discards-to-balance-inventory/)",
     "hard": "[Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)",
     "euler": "[An Arithmetic Geometric Sequence](https://projecteuler.net/problem=235)<br>[Luxury Hampers](https://projecteuler.net/problem=236)"
+  },
+  {
+    "day": 119,
+    "date": "2026-04-05",
+    "easy": "[Majority Frequency Characters](https://leetcode.com/problems/majority-frequency-characters/)",
+    "medium": "[Rectangle Area](https://leetcode.com/problems/rectangle-area/)",
+    "hard": "[Split the Array to Make Coprime Products](https://leetcode.com/problems/split-the-array-to-make-coprime-products/)",
+    "euler": "[Tours on a $4 \\times N$ Playing Board](https://projecteuler.net/problem=237)<br>[Infinite String Tour](https://projecteuler.net/problem=238)"
   }
 ]
