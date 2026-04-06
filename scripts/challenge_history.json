@@ -902,5 +902,13 @@
     "medium": "[Rectangle Area](https://leetcode.com/problems/rectangle-area/)",
     "hard": "[Split the Array to Make Coprime Products](https://leetcode.com/problems/split-the-array-to-make-coprime-products/)",
     "euler": "[Tours on a $4 \\times N$ Playing Board](https://projecteuler.net/problem=237)<br>[Infinite String Tour](https://projecteuler.net/problem=238)"
+  },
+  {
+    "day": 120,
+    "date": "2026-04-06",
+    "easy": "[Power of Two](https://leetcode.com/problems/power-of-two/)",
+    "medium": "[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)",
+    "hard": "[Fancy Sequence](https://leetcode.com/problems/fancy-sequence/)",
+    "euler": "[Twenty-two Foolish Primes](https://projecteuler.net/problem=239)<br>[Top Dice](https://projecteuler.net/problem=240)"
   }
 ]

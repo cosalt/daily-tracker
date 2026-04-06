@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 119 (Started Dec 8, 2025)
+### Daily Challenge - Day 120 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Majority Frequency Characters](https://leetcode.com/problems/majority-frequency-characters/) | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [Split the Array to Make Coprime Products](https://leetcode.com/problems/split-the-array-to-make-coprime-products/) | [Tours on a $4 	imes N$ Playing Board](https://projecteuler.net/problem=237)<br>[Infinite String Tour](https://projecteuler.net/problem=238) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Power of Two](https://leetcode.com/problems/power-of-two/) | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) | [Twenty-two Foolish Primes](https://projecteuler.net/problem=239)<br>[Top Dice](https://projecteuler.net/problem=240) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 120** | 2026-04-06 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) | [Twenty-two Foolish Primes](https://projecteuler.net/problem=239)<br>[Top Dice](https://projecteuler.net/problem=240) |
 | **Day 119** | 2026-04-05 | [Majority Frequency Characters](https://leetcode.com/problems/majority-frequency-characters/) | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [Split the Array to Make Coprime Products](https://leetcode.com/problems/split-the-array-to-make-coprime-products/) | [Tours on a $4 	imes N$ Playing Board](https://projecteuler.net/problem=237)<br>[Infinite String Tour](https://projecteuler.net/problem=238) |
 | **Day 118** | 2026-04-04 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [ Minimum Discards to Balance Inventory](https://leetcode.com/problems/minimum-discards-to-balance-inventory/) | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [An Arithmetic Geometric Sequence](https://projecteuler.net/problem=235)<br>[Luxury Hampers](https://projecteuler.net/problem=236) |
 | **Day 117** | 2026-04-03 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | [Tag Validator](https://leetcode.com/problems/tag-validator/) | [Lattice Points on a Circle](https://projecteuler.net/problem=233)<br>[Semidivisible Numbers](https://projecteuler.net/problem=234) |
