@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 120 (Started Dec 8, 2025)
+### Daily Challenge - Day 121 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Power of Two](https://leetcode.com/problems/power-of-two/) | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) | [Twenty-two Foolish Primes](https://projecteuler.net/problem=239)<br>[Top Dice](https://projecteuler.net/problem=240) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/) | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Perfection Quotients](https://projecteuler.net/problem=241)<br>[Odd Triplets](https://projecteuler.net/problem=242) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 121** | 2026-04-07 | [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/) | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Perfection Quotients](https://projecteuler.net/problem=241)<br>[Odd Triplets](https://projecteuler.net/problem=242) |
 | **Day 120** | 2026-04-06 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) | [Twenty-two Foolish Primes](https://projecteuler.net/problem=239)<br>[Top Dice](https://projecteuler.net/problem=240) |
 | **Day 119** | 2026-04-05 | [Majority Frequency Characters](https://leetcode.com/problems/majority-frequency-characters/) | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [Split the Array to Make Coprime Products](https://leetcode.com/problems/split-the-array-to-make-coprime-products/) | [Tours on a $4 	imes N$ Playing Board](https://projecteuler.net/problem=237)<br>[Infinite String Tour](https://projecteuler.net/problem=238) |
 | **Day 118** | 2026-04-04 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [ Minimum Discards to Balance Inventory](https://leetcode.com/problems/minimum-discards-to-balance-inventory/) | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [An Arithmetic Geometric Sequence](https://projecteuler.net/problem=235)<br>[Luxury Hampers](https://projecteuler.net/problem=236) |

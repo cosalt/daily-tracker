@@ -910,5 +910,13 @@
     "medium": "[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)",
     "hard": "[Fancy Sequence](https://leetcode.com/problems/fancy-sequence/)",
     "euler": "[Twenty-two Foolish Primes](https://projecteuler.net/problem=239)<br>[Top Dice](https://projecteuler.net/problem=240)"
+  },
+  {
+    "day": 121,
+    "date": "2026-04-07",
+    "easy": "[Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/)",
+    "medium": "[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)",
+    "hard": "[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)",
+    "euler": "[Perfection Quotients](https://projecteuler.net/problem=241)<br>[Odd Triplets](https://projecteuler.net/problem=242)"
   }
 ]
