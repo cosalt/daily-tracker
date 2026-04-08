@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 121 (Started Dec 8, 2025)
+### Daily Challenge - Day 122 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/) | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Perfection Quotients](https://projecteuler.net/problem=241)<br>[Odd Triplets](https://projecteuler.net/problem=242) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | [Resilience](https://projecteuler.net/problem=243)<br>[Sliders](https://projecteuler.net/problem=244) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 122** | 2026-04-08 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | [Resilience](https://projecteuler.net/problem=243)<br>[Sliders](https://projecteuler.net/problem=244) |
 | **Day 121** | 2026-04-07 | [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/) | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Perfection Quotients](https://projecteuler.net/problem=241)<br>[Odd Triplets](https://projecteuler.net/problem=242) |
 | **Day 120** | 2026-04-06 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Fancy Sequence](https://leetcode.com/problems/fancy-sequence/) | [Twenty-two Foolish Primes](https://projecteuler.net/problem=239)<br>[Top Dice](https://projecteuler.net/problem=240) |
 | **Day 119** | 2026-04-05 | [Majority Frequency Characters](https://leetcode.com/problems/majority-frequency-characters/) | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [Split the Array to Make Coprime Products](https://leetcode.com/problems/split-the-array-to-make-coprime-products/) | [Tours on a $4 	imes N$ Playing Board](https://projecteuler.net/problem=237)<br>[Infinite String Tour](https://projecteuler.net/problem=238) |

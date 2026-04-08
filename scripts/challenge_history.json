@@ -918,5 +918,13 @@
     "medium": "[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)",
     "hard": "[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)",
     "euler": "[Perfection Quotients](https://projecteuler.net/problem=241)<br>[Odd Triplets](https://projecteuler.net/problem=242)"
+  },
+  {
+    "day": 122,
+    "date": "2026-04-08",
+    "easy": "[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)",
+    "medium": "[Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/)",
+    "hard": "[Erect the Fence](https://leetcode.com/problems/erect-the-fence/)",
+    "euler": "[Resilience](https://projecteuler.net/problem=243)<br>[Sliders](https://projecteuler.net/problem=244)"
   }
 ]
