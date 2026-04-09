@@ -926,5 +926,13 @@
     "medium": "[Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/)",
     "hard": "[Erect the Fence](https://leetcode.com/problems/erect-the-fence/)",
     "euler": "[Resilience](https://projecteuler.net/problem=243)<br>[Sliders](https://projecteuler.net/problem=244)"
+  },
+  {
+    "day": 123,
+    "date": "2026-04-09",
+    "easy": "[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)",
+    "medium": "[Minimum Moves to Spread Stones Over Grid](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/)",
+    "hard": "[Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/)",
+    "euler": "[Problem 245](https://projecteuler.net/problem=245)<br>[Problem 246](https://projecteuler.net/problem=246)"
   }
 ]
