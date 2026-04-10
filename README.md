@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 123 (Started Dec 8, 2025)
+### Daily Challenge - Day 124 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Minimum Moves to Spread Stones Over Grid](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/) | [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/) | [Problem 245](https://projecteuler.net/problem=245)<br>[Problem 246](https://projecteuler.net/problem=246) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [Find Books with Polarized Opinions](https://leetcode.com/problems/find-books-with-polarized-opinions/) | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/) | [Squares Under a Hyperbola](https://projecteuler.net/problem=247)<br>[Euler's Totient Function Equals 13!](https://projecteuler.net/problem=248) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 124** | 2026-04-10 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [Find Books with Polarized Opinions](https://leetcode.com/problems/find-books-with-polarized-opinions/) | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/) | [Squares Under a Hyperbola](https://projecteuler.net/problem=247)<br>[Euler's Totient Function Equals 13!](https://projecteuler.net/problem=248) |
 | **Day 123** | 2026-04-09 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Minimum Moves to Spread Stones Over Grid](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/) | [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/) | [Problem 245](https://projecteuler.net/problem=245)<br>[Problem 246](https://projecteuler.net/problem=246) |
 | **Day 122** | 2026-04-08 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | [Resilience](https://projecteuler.net/problem=243)<br>[Sliders](https://projecteuler.net/problem=244) |
 | **Day 121** | 2026-04-07 | [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/) | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Perfection Quotients](https://projecteuler.net/problem=241)<br>[Odd Triplets](https://projecteuler.net/problem=242) |
