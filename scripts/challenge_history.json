@@ -942,5 +942,13 @@
     "medium": "[Find Books with Polarized Opinions](https://leetcode.com/problems/find-books-with-polarized-opinions/)",
     "hard": "[Painting the Walls](https://leetcode.com/problems/painting-the-walls/)",
     "euler": "[Squares Under a Hyperbola](https://projecteuler.net/problem=247)<br>[Euler's Totient Function Equals 13!](https://projecteuler.net/problem=248)"
+  },
+  {
+    "day": 125,
+    "date": "2026-04-11",
+    "easy": "[Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)",
+    "medium": "[Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/)",
+    "hard": "[Minimum Money Required Before Transactions](https://leetcode.com/problems/minimum-money-required-before-transactions/)",
+    "euler": "[Problem 249](https://projecteuler.net/problem=249)<br>[Problem 250](https://projecteuler.net/problem=250)"
   }
 ]
