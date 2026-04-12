@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 125 (Started Dec 8, 2025)
+### Daily Challenge - Day 126 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) | [Minimum Money Required Before Transactions](https://leetcode.com/problems/minimum-money-required-before-transactions/) | [Problem 249](https://projecteuler.net/problem=249)<br>[Problem 250](https://projecteuler.net/problem=250) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | [Maximum Score Using Exactly K Pairs](https://leetcode.com/problems/maximum-score-using-exactly-k-pairs/) | [Cardano Triplets](https://projecteuler.net/problem=251)<br>[Convex Holes](https://projecteuler.net/problem=252) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 126** | 2026-04-12 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | [Maximum Score Using Exactly K Pairs](https://leetcode.com/problems/maximum-score-using-exactly-k-pairs/) | [Cardano Triplets](https://projecteuler.net/problem=251)<br>[Convex Holes](https://projecteuler.net/problem=252) |
 | **Day 125** | 2026-04-11 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) | [Minimum Money Required Before Transactions](https://leetcode.com/problems/minimum-money-required-before-transactions/) | [Problem 249](https://projecteuler.net/problem=249)<br>[Problem 250](https://projecteuler.net/problem=250) |
 | **Day 124** | 2026-04-10 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [Find Books with Polarized Opinions](https://leetcode.com/problems/find-books-with-polarized-opinions/) | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/) | [Squares Under a Hyperbola](https://projecteuler.net/problem=247)<br>[Euler's Totient Function Equals 13!](https://projecteuler.net/problem=248) |
 | **Day 123** | 2026-04-09 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Minimum Moves to Spread Stones Over Grid](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/) | [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/) | [Problem 245](https://projecteuler.net/problem=245)<br>[Problem 246](https://projecteuler.net/problem=246) |

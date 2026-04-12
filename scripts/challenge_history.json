@@ -950,5 +950,13 @@
     "medium": "[Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/)",
     "hard": "[Minimum Money Required Before Transactions](https://leetcode.com/problems/minimum-money-required-before-transactions/)",
     "euler": "[Problem 249](https://projecteuler.net/problem=249)<br>[Problem 250](https://projecteuler.net/problem=250)"
+  },
+  {
+    "day": 126,
+    "date": "2026-04-12",
+    "easy": "[Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/)",
+    "medium": "[Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/)",
+    "hard": "[Maximum Score Using Exactly K Pairs](https://leetcode.com/problems/maximum-score-using-exactly-k-pairs/)",
+    "euler": "[Cardano Triplets](https://projecteuler.net/problem=251)<br>[Convex Holes](https://projecteuler.net/problem=252)"
   }
 ]
