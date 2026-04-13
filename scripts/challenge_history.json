@@ -958,5 +958,13 @@
     "medium": "[Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/)",
     "hard": "[Maximum Score Using Exactly K Pairs](https://leetcode.com/problems/maximum-score-using-exactly-k-pairs/)",
     "euler": "[Cardano Triplets](https://projecteuler.net/problem=251)<br>[Convex Holes](https://projecteuler.net/problem=252)"
+  },
+  {
+    "day": 127,
+    "date": "2026-04-13",
+    "easy": "[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)",
+    "medium": "[Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/)",
+    "hard": "[Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/)",
+    "euler": "[Tidying Up A](https://projecteuler.net/problem=253)<br>[Sums of Digit Factorials](https://projecteuler.net/problem=254)"
   }
 ]
