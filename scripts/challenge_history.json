@@ -966,5 +966,13 @@
     "medium": "[Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/)",
     "hard": "[Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/)",
     "euler": "[Tidying Up A](https://projecteuler.net/problem=253)<br>[Sums of Digit Factorials](https://projecteuler.net/problem=254)"
+  },
+  {
+    "day": 128,
+    "date": "2026-04-14",
+    "easy": "[The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/)",
+    "medium": "[Minimum Operations to Make Array Equal II](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/)",
+    "hard": "[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/)",
+    "euler": "[Rounded Square Roots](https://projecteuler.net/problem=255)<br>[Tatami-Free Rooms](https://projecteuler.net/problem=256)"
   }
 ]
