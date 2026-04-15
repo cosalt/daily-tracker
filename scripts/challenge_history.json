@@ -974,5 +974,13 @@
     "medium": "[Minimum Operations to Make Array Equal II](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/)",
     "hard": "[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/)",
     "euler": "[Rounded Square Roots](https://projecteuler.net/problem=255)<br>[Tatami-Free Rooms](https://projecteuler.net/problem=256)"
+  },
+  {
+    "day": 129,
+    "date": "2026-04-15",
+    "easy": "[Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)",
+    "medium": "[Minesweeper](https://leetcode.com/problems/minesweeper/)",
+    "hard": "[Patching Array](https://leetcode.com/problems/patching-array/)",
+    "euler": "[Angular Bisectors](https://projecteuler.net/problem=257)<br>[A Lagged Fibonacci Sequence](https://projecteuler.net/problem=258)"
   }
 ]

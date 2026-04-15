@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 128 (Started Dec 8, 2025)
+### Daily Challenge - Day 129 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [Minimum Operations to Make Array Equal II](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/) | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | [Rounded Square Roots](https://projecteuler.net/problem=255)<br>[Tatami-Free Rooms](https://projecteuler.net/problem=256) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | [Minesweeper](https://leetcode.com/problems/minesweeper/) | [Patching Array](https://leetcode.com/problems/patching-array/) | [Angular Bisectors](https://projecteuler.net/problem=257)<br>[A Lagged Fibonacci Sequence](https://projecteuler.net/problem=258) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 129** | 2026-04-15 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | [Minesweeper](https://leetcode.com/problems/minesweeper/) | [Patching Array](https://leetcode.com/problems/patching-array/) | [Angular Bisectors](https://projecteuler.net/problem=257)<br>[A Lagged Fibonacci Sequence](https://projecteuler.net/problem=258) |
 | **Day 128** | 2026-04-14 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [Minimum Operations to Make Array Equal II](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/) | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | [Rounded Square Roots](https://projecteuler.net/problem=255)<br>[Tatami-Free Rooms](https://projecteuler.net/problem=256) |
 | **Day 127** | 2026-04-13 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Tidying Up A](https://projecteuler.net/problem=253)<br>[Sums of Digit Factorials](https://projecteuler.net/problem=254) |
 | **Day 126** | 2026-04-12 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | [Maximum Score Using Exactly K Pairs](https://leetcode.com/problems/maximum-score-using-exactly-k-pairs/) | [Cardano Triplets](https://projecteuler.net/problem=251)<br>[Convex Holes](https://projecteuler.net/problem=252) |
