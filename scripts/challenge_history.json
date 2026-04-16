@@ -982,5 +982,13 @@
     "medium": "[Minesweeper](https://leetcode.com/problems/minesweeper/)",
     "hard": "[Patching Array](https://leetcode.com/problems/patching-array/)",
     "euler": "[Angular Bisectors](https://projecteuler.net/problem=257)<br>[A Lagged Fibonacci Sequence](https://projecteuler.net/problem=258)"
+  },
+  {
+    "day": 130,
+    "date": "2026-04-16",
+    "easy": "[Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/)",
+    "medium": "[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)",
+    "hard": "[Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/)",
+    "euler": "[Reachable Numbers](https://projecteuler.net/problem=259)<br>[Stone Game](https://projecteuler.net/problem=260)"
   }
 ]
