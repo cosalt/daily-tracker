@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 130 (Started Dec 8, 2025)
+### Daily Challenge - Day 131 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/) | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/) | [Reachable Numbers](https://projecteuler.net/problem=259)<br>[Stone Game](https://projecteuler.net/problem=260) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Pivotal Square Sums](https://projecteuler.net/problem=261)<br>[Mountain Range](https://projecteuler.net/problem=262) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 131** | 2026-04-17 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Pivotal Square Sums](https://projecteuler.net/problem=261)<br>[Mountain Range](https://projecteuler.net/problem=262) |
 | **Day 130** | 2026-04-16 | [Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/) | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/) | [Reachable Numbers](https://projecteuler.net/problem=259)<br>[Stone Game](https://projecteuler.net/problem=260) |
 | **Day 129** | 2026-04-15 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | [Minesweeper](https://leetcode.com/problems/minesweeper/) | [Patching Array](https://leetcode.com/problems/patching-array/) | [Angular Bisectors](https://projecteuler.net/problem=257)<br>[A Lagged Fibonacci Sequence](https://projecteuler.net/problem=258) |
 | **Day 128** | 2026-04-14 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [Minimum Operations to Make Array Equal II](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/) | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/) | [Rounded Square Roots](https://projecteuler.net/problem=255)<br>[Tatami-Free Rooms](https://projecteuler.net/problem=256) |
