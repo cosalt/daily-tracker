@@ -1006,5 +1006,13 @@
     "medium": "[Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/)",
     "hard": "[Shortest Distance After Road Addition Queries II](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii/)",
     "euler": "[An Engineers' Dream Come True](https://projecteuler.net/problem=263)<br>[Triangle Centres](https://projecteuler.net/problem=264)"
+  },
+  {
+    "day": 133,
+    "date": "2026-04-19",
+    "easy": "[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)",
+    "medium": "[Sum of Distances](https://leetcode.com/problems/sum-of-distances/)",
+    "hard": "[Most Common Course Pairs](https://leetcode.com/problems/most-common-course-pairs/)",
+    "euler": "[Binary Circles](https://projecteuler.net/problem=265)<br>[Pseudo Square Root](https://projecteuler.net/problem=266)"
   }
 ]

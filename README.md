@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 132 (Started Dec 8, 2025)
+### Daily Challenge - Day 133 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/) | [Shortest Distance After Road Addition Queries II](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii/) | [An Engineers' Dream Come True](https://projecteuler.net/problem=263)<br>[Triangle Centres](https://projecteuler.net/problem=264) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Sum of Distances](https://leetcode.com/problems/sum-of-distances/) | [Most Common Course Pairs](https://leetcode.com/problems/most-common-course-pairs/) | [Binary Circles](https://projecteuler.net/problem=265)<br>[Pseudo Square Root](https://projecteuler.net/problem=266) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 133** | 2026-04-19 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Sum of Distances](https://leetcode.com/problems/sum-of-distances/) | [Most Common Course Pairs](https://leetcode.com/problems/most-common-course-pairs/) | [Binary Circles](https://projecteuler.net/problem=265)<br>[Pseudo Square Root](https://projecteuler.net/problem=266) |
 | **Day 132** | 2026-04-18 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/) | [Shortest Distance After Road Addition Queries II](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii/) | [An Engineers' Dream Come True](https://projecteuler.net/problem=263)<br>[Triangle Centres](https://projecteuler.net/problem=264) |
 | **Day 131** | 2026-04-17 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Pivotal Square Sums](https://projecteuler.net/problem=261)<br>[Mountain Range](https://projecteuler.net/problem=262) |
 | **Day 130** | 2026-04-16 | [Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/) | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/) | [Reachable Numbers](https://projecteuler.net/problem=259)<br>[Stone Game](https://projecteuler.net/problem=260) |
