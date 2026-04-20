@@ -1014,5 +1014,13 @@
     "medium": "[Sum of Distances](https://leetcode.com/problems/sum-of-distances/)",
     "hard": "[Most Common Course Pairs](https://leetcode.com/problems/most-common-course-pairs/)",
     "euler": "[Binary Circles](https://projecteuler.net/problem=265)<br>[Pseudo Square Root](https://projecteuler.net/problem=266)"
+  },
+  {
+    "day": 134,
+    "date": "2026-04-20",
+    "easy": "[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)",
+    "medium": "[Plates Between Candles](https://leetcode.com/problems/plates-between-candles/)",
+    "hard": "[Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/)",
+    "euler": "[Billionaire](https://projecteuler.net/problem=267)<br>[At Least Four Distinct Prime Factors Less Than 100](https://projecteuler.net/problem=268)"
   }
 ]
