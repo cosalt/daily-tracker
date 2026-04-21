@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 134 (Started Dec 8, 2025)
+### Daily Challenge - Day 135 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Plates Between Candles](https://leetcode.com/problems/plates-between-candles/) | [Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | [Billionaire](https://projecteuler.net/problem=267)<br>[At Least Four Distinct Prime Factors Less Than 100](https://projecteuler.net/problem=268) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/) | [Polynomials with at Least One Integer Root](https://projecteuler.net/problem=269)<br>[Cutting Squares](https://projecteuler.net/problem=270) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 135** | 2026-04-21 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/) | [Polynomials with at Least One Integer Root](https://projecteuler.net/problem=269)<br>[Cutting Squares](https://projecteuler.net/problem=270) |
 | **Day 134** | 2026-04-20 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Plates Between Candles](https://leetcode.com/problems/plates-between-candles/) | [Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | [Billionaire](https://projecteuler.net/problem=267)<br>[At Least Four Distinct Prime Factors Less Than 100](https://projecteuler.net/problem=268) |
 | **Day 133** | 2026-04-19 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Sum of Distances](https://leetcode.com/problems/sum-of-distances/) | [Most Common Course Pairs](https://leetcode.com/problems/most-common-course-pairs/) | [Binary Circles](https://projecteuler.net/problem=265)<br>[Pseudo Square Root](https://projecteuler.net/problem=266) |
 | **Day 132** | 2026-04-18 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/) | [Shortest Distance After Road Addition Queries II](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii/) | [An Engineers' Dream Come True](https://projecteuler.net/problem=263)<br>[Triangle Centres](https://projecteuler.net/problem=264) |
