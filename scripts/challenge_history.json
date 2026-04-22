@@ -1030,5 +1030,13 @@
     "medium": "[Rotate Image](https://leetcode.com/problems/rotate-image/)",
     "hard": "[Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/)",
     "euler": "[Polynomials with at Least One Integer Root](https://projecteuler.net/problem=269)<br>[Cutting Squares](https://projecteuler.net/problem=270)"
+  },
+  {
+    "day": 136,
+    "date": "2026-04-22",
+    "easy": "[Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/)",
+    "medium": "[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)",
+    "hard": "[Groups of Strings](https://leetcode.com/problems/groups-of-strings/)",
+    "euler": "[Modular Cubes, Part 1](https://projecteuler.net/problem=271)<br>[Modular Cubes, Part 2](https://projecteuler.net/problem=272)"
   }
 ]
