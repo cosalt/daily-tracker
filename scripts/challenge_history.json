@@ -1038,5 +1038,13 @@
     "medium": "[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)",
     "hard": "[Groups of Strings](https://leetcode.com/problems/groups-of-strings/)",
     "euler": "[Modular Cubes, Part 1](https://projecteuler.net/problem=271)<br>[Modular Cubes, Part 2](https://projecteuler.net/problem=272)"
+  },
+  {
+    "day": 137,
+    "date": "2026-04-23",
+    "easy": "[Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/)",
+    "medium": "[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)",
+    "hard": "[Minimum Operations to Equalize Subarrays](https://leetcode.com/problems/minimum-operations-to-equalize-subarrays/)",
+    "euler": "[Sum of Squares](https://projecteuler.net/problem=273)<br>[Divisibility Multipliers](https://projecteuler.net/problem=274)"
   }
 ]
