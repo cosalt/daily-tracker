@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 137 (Started Dec 8, 2025)
+### Daily Challenge - Day 138 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [Minimum Operations to Equalize Subarrays](https://leetcode.com/problems/minimum-operations-to-equalize-subarrays/) | [Sum of Squares](https://projecteuler.net/problem=273)<br>[Divisibility Multipliers](https://projecteuler.net/problem=274) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Circular Sentence](https://leetcode.com/problems/circular-sentence/) | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Minimum Edge Weight Equilibrium Queries in a Tree](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/) | [Balanced Sculptures](https://projecteuler.net/problem=275)<br>[Primitive Triangles](https://projecteuler.net/problem=276) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 138** | 2026-04-24 | [Circular Sentence](https://leetcode.com/problems/circular-sentence/) | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Minimum Edge Weight Equilibrium Queries in a Tree](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/) | [Balanced Sculptures](https://projecteuler.net/problem=275)<br>[Primitive Triangles](https://projecteuler.net/problem=276) |
 | **Day 137** | 2026-04-23 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [Minimum Operations to Equalize Subarrays](https://leetcode.com/problems/minimum-operations-to-equalize-subarrays/) | [Sum of Squares](https://projecteuler.net/problem=273)<br>[Divisibility Multipliers](https://projecteuler.net/problem=274) |
 | **Day 136** | 2026-04-22 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | [Groups of Strings](https://leetcode.com/problems/groups-of-strings/) | [Modular Cubes, Part 1](https://projecteuler.net/problem=271)<br>[Modular Cubes, Part 2](https://projecteuler.net/problem=272) |
 | **Day 135** | 2026-04-21 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/) | [Polynomials with at Least One Integer Root](https://projecteuler.net/problem=269)<br>[Cutting Squares](https://projecteuler.net/problem=270) |

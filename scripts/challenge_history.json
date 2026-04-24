@@ -1046,5 +1046,13 @@
     "medium": "[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)",
     "hard": "[Minimum Operations to Equalize Subarrays](https://leetcode.com/problems/minimum-operations-to-equalize-subarrays/)",
     "euler": "[Sum of Squares](https://projecteuler.net/problem=273)<br>[Divisibility Multipliers](https://projecteuler.net/problem=274)"
+  },
+  {
+    "day": 138,
+    "date": "2026-04-24",
+    "easy": "[Circular Sentence](https://leetcode.com/problems/circular-sentence/)",
+    "medium": "[Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/)",
+    "hard": "[Minimum Edge Weight Equilibrium Queries in a Tree](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/)",
+    "euler": "[Balanced Sculptures](https://projecteuler.net/problem=275)<br>[Primitive Triangles](https://projecteuler.net/problem=276)"
   }
 ]
