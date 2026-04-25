@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 138 (Started Dec 8, 2025)
+### Daily Challenge - Day 139 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Circular Sentence](https://leetcode.com/problems/circular-sentence/) | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Minimum Edge Weight Equilibrium Queries in a Tree](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/) | [Balanced Sculptures](https://projecteuler.net/problem=275)<br>[Primitive Triangles](https://projecteuler.net/problem=276) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [A Modified Collatz Sequence](https://projecteuler.net/problem=277)<br>[Linear Combinations of Semiprimes](https://projecteuler.net/problem=278) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 139** | 2026-04-25 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [A Modified Collatz Sequence](https://projecteuler.net/problem=277)<br>[Linear Combinations of Semiprimes](https://projecteuler.net/problem=278) |
 | **Day 138** | 2026-04-24 | [Circular Sentence](https://leetcode.com/problems/circular-sentence/) | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Minimum Edge Weight Equilibrium Queries in a Tree](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/) | [Balanced Sculptures](https://projecteuler.net/problem=275)<br>[Primitive Triangles](https://projecteuler.net/problem=276) |
 | **Day 137** | 2026-04-23 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [Minimum Operations to Equalize Subarrays](https://leetcode.com/problems/minimum-operations-to-equalize-subarrays/) | [Sum of Squares](https://projecteuler.net/problem=273)<br>[Divisibility Multipliers](https://projecteuler.net/problem=274) |
 | **Day 136** | 2026-04-22 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | [Groups of Strings](https://leetcode.com/problems/groups-of-strings/) | [Modular Cubes, Part 1](https://projecteuler.net/problem=271)<br>[Modular Cubes, Part 2](https://projecteuler.net/problem=272) |

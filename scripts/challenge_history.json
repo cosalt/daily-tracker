@@ -1054,5 +1054,13 @@
     "medium": "[Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/)",
     "hard": "[Minimum Edge Weight Equilibrium Queries in a Tree](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/)",
     "euler": "[Balanced Sculptures](https://projecteuler.net/problem=275)<br>[Primitive Triangles](https://projecteuler.net/problem=276)"
+  },
+  {
+    "day": 139,
+    "date": "2026-04-25",
+    "easy": "[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)",
+    "medium": "[Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/)",
+    "hard": "[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)",
+    "euler": "[A Modified Collatz Sequence](https://projecteuler.net/problem=277)<br>[Linear Combinations of Semiprimes](https://projecteuler.net/problem=278)"
   }
 ]
