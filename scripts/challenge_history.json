@@ -1062,5 +1062,13 @@
     "medium": "[Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/)",
     "hard": "[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)",
     "euler": "[A Modified Collatz Sequence](https://projecteuler.net/problem=277)<br>[Linear Combinations of Semiprimes](https://projecteuler.net/problem=278)"
+  },
+  {
+    "day": 140,
+    "date": "2026-04-26",
+    "easy": "[Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/)",
+    "medium": "[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)",
+    "hard": "[Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions/)",
+    "euler": "[Triangles with Integral Sides and an Integral Angle ](https://projecteuler.net/problem=279)<br>[Ant and Seeds](https://projecteuler.net/problem=280)"
   }
 ]
