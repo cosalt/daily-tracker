@@ -1070,5 +1070,13 @@
     "medium": "[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)",
     "hard": "[Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions/)",
     "euler": "[Triangles with Integral Sides and an Integral Angle ](https://projecteuler.net/problem=279)<br>[Ant and Seeds](https://projecteuler.net/problem=280)"
+  },
+  {
+    "day": 141,
+    "date": "2026-04-27",
+    "easy": "[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)",
+    "medium": "[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)",
+    "hard": "[Total Sum of Interaction Cost in Tree Groups](https://leetcode.com/problems/total-sum-of-interaction-cost-in-tree-groups/)",
+    "euler": "[Pizza Toppings](https://projecteuler.net/problem=281)<br>[The Ackermann Function](https://projecteuler.net/problem=282)"
   }
 ]

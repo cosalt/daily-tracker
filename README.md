@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 140 (Started Dec 8, 2025)
+### Daily Challenge - Day 141 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/) | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions/) | [Triangles with Integral Sides and an Integral Angle ](https://projecteuler.net/problem=279)<br>[Ant and Seeds](https://projecteuler.net/problem=280) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Total Sum of Interaction Cost in Tree Groups](https://leetcode.com/problems/total-sum-of-interaction-cost-in-tree-groups/) | [Pizza Toppings](https://projecteuler.net/problem=281)<br>[The Ackermann Function](https://projecteuler.net/problem=282) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 141** | 2026-04-27 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Total Sum of Interaction Cost in Tree Groups](https://leetcode.com/problems/total-sum-of-interaction-cost-in-tree-groups/) | [Pizza Toppings](https://projecteuler.net/problem=281)<br>[The Ackermann Function](https://projecteuler.net/problem=282) |
 | **Day 140** | 2026-04-26 | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/) | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions/) | [Triangles with Integral Sides and an Integral Angle ](https://projecteuler.net/problem=279)<br>[Ant and Seeds](https://projecteuler.net/problem=280) |
 | **Day 139** | 2026-04-25 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [A Modified Collatz Sequence](https://projecteuler.net/problem=277)<br>[Linear Combinations of Semiprimes](https://projecteuler.net/problem=278) |
 | **Day 138** | 2026-04-24 | [Circular Sentence](https://leetcode.com/problems/circular-sentence/) | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Minimum Edge Weight Equilibrium Queries in a Tree](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/) | [Balanced Sculptures](https://projecteuler.net/problem=275)<br>[Primitive Triangles](https://projecteuler.net/problem=276) |
