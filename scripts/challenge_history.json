@@ -1078,5 +1078,13 @@
     "medium": "[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)",
     "hard": "[Total Sum of Interaction Cost in Tree Groups](https://leetcode.com/problems/total-sum-of-interaction-cost-in-tree-groups/)",
     "euler": "[Pizza Toppings](https://projecteuler.net/problem=281)<br>[The Ackermann Function](https://projecteuler.net/problem=282)"
+  },
+  {
+    "day": 142,
+    "date": "2026-04-28",
+    "easy": "[Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/)",
+    "medium": "[Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/)",
+    "hard": "[Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/)",
+    "euler": "[Integer Sided Triangles with Integral Area/perimeter Ratio](https://projecteuler.net/problem=283)<br>[Steady Squares](https://projecteuler.net/problem=284)"
   }
 ]

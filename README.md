@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 141 (Started Dec 8, 2025)
+### Daily Challenge - Day 142 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Total Sum of Interaction Cost in Tree Groups](https://leetcode.com/problems/total-sum-of-interaction-cost-in-tree-groups/) | [Pizza Toppings](https://projecteuler.net/problem=281)<br>[The Ackermann Function](https://projecteuler.net/problem=282) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/) | [Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/) | [Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/) | [Integer Sided Triangles with Integral Area/perimeter Ratio](https://projecteuler.net/problem=283)<br>[Steady Squares](https://projecteuler.net/problem=284) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 142** | 2026-04-28 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/) | [Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/) | [Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/) | [Integer Sided Triangles with Integral Area/perimeter Ratio](https://projecteuler.net/problem=283)<br>[Steady Squares](https://projecteuler.net/problem=284) |
 | **Day 141** | 2026-04-27 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Total Sum of Interaction Cost in Tree Groups](https://leetcode.com/problems/total-sum-of-interaction-cost-in-tree-groups/) | [Pizza Toppings](https://projecteuler.net/problem=281)<br>[The Ackermann Function](https://projecteuler.net/problem=282) |
 | **Day 140** | 2026-04-26 | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/) | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [Kth Smallest Instructions](https://leetcode.com/problems/kth-smallest-instructions/) | [Triangles with Integral Sides and an Integral Angle ](https://projecteuler.net/problem=279)<br>[Ant and Seeds](https://projecteuler.net/problem=280) |
 | **Day 139** | 2026-04-25 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [A Modified Collatz Sequence](https://projecteuler.net/problem=277)<br>[Linear Combinations of Semiprimes](https://projecteuler.net/problem=278) |
