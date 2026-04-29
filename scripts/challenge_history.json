@@ -1086,5 +1086,13 @@
     "medium": "[Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/)",
     "hard": "[Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/)",
     "euler": "[Integer Sided Triangles with Integral Area/perimeter Ratio](https://projecteuler.net/problem=283)<br>[Steady Squares](https://projecteuler.net/problem=284)"
+  },
+  {
+    "day": 143,
+    "date": "2026-04-29",
+    "easy": "[Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/)",
+    "medium": "[Word Search](https://leetcode.com/problems/word-search/)",
+    "hard": "[Find Zombie Sessions](https://leetcode.com/problems/find-zombie-sessions/)",
+    "euler": "[Pythagorean Odds](https://projecteuler.net/problem=285)<br>[Scoring Probabilities](https://projecteuler.net/problem=286)"
   }
 ]
