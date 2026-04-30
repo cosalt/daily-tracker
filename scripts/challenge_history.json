@@ -1094,5 +1094,13 @@
     "medium": "[Word Search](https://leetcode.com/problems/word-search/)",
     "hard": "[Find Zombie Sessions](https://leetcode.com/problems/find-zombie-sessions/)",
     "euler": "[Pythagorean Odds](https://projecteuler.net/problem=285)<br>[Scoring Probabilities](https://projecteuler.net/problem=286)"
+  },
+  {
+    "day": 144,
+    "date": "2026-04-30",
+    "easy": "[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)",
+    "medium": "[Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/)",
+    "hard": "[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)",
+    "euler": "[Quadtree Encoding (a Simple Compression Algorithm)](https://projecteuler.net/problem=287)<br>[An Enormous Factorial](https://projecteuler.net/problem=288)"
   }
 ]
