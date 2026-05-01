@@ -1102,5 +1102,13 @@
     "medium": "[Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/)",
     "hard": "[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)",
     "euler": "[Quadtree Encoding (a Simple Compression Algorithm)](https://projecteuler.net/problem=287)<br>[An Enormous Factorial](https://projecteuler.net/problem=288)"
+  },
+  {
+    "day": 145,
+    "date": "2026-05-01",
+    "easy": "[Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/)",
+    "medium": "[Loud and Rich](https://leetcode.com/problems/loud-and-rich/)",
+    "hard": "[Maximum XOR of Subsequences](https://leetcode.com/problems/maximum-xor-of-subsequences/)",
+    "euler": "[Eulerian Cycles](https://projecteuler.net/problem=289)<br>[Digital Signature](https://projecteuler.net/problem=290)"
   }
 ]
