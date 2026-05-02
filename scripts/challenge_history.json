@@ -1110,5 +1110,13 @@
     "medium": "[Loud and Rich](https://leetcode.com/problems/loud-and-rich/)",
     "hard": "[Maximum XOR of Subsequences](https://leetcode.com/problems/maximum-xor-of-subsequences/)",
     "euler": "[Eulerian Cycles](https://projecteuler.net/problem=289)<br>[Digital Signature](https://projecteuler.net/problem=290)"
+  },
+  {
+    "day": 146,
+    "date": "2026-05-02",
+    "easy": "[Find Valid Emails](https://leetcode.com/problems/find-valid-emails/)",
+    "medium": "[Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)",
+    "hard": "[Poor Pigs](https://leetcode.com/problems/poor-pigs/)",
+    "euler": "[Panaitopol Primes](https://projecteuler.net/problem=291)<br>[Pythagorean Polygons](https://projecteuler.net/problem=292)"
   }
 ]

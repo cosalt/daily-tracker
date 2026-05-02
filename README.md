@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 145 (Started Dec 8, 2025)
+### Daily Challenge - Day 146 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/) | [Loud and Rich](https://leetcode.com/problems/loud-and-rich/) | [Maximum XOR of Subsequences](https://leetcode.com/problems/maximum-xor-of-subsequences/) | [Eulerian Cycles](https://projecteuler.net/problem=289)<br>[Digital Signature](https://projecteuler.net/problem=290) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Find Valid Emails](https://leetcode.com/problems/find-valid-emails/) | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [Panaitopol Primes](https://projecteuler.net/problem=291)<br>[Pythagorean Polygons](https://projecteuler.net/problem=292) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 146** | 2026-05-02 | [Find Valid Emails](https://leetcode.com/problems/find-valid-emails/) | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [Panaitopol Primes](https://projecteuler.net/problem=291)<br>[Pythagorean Polygons](https://projecteuler.net/problem=292) |
 | **Day 145** | 2026-05-01 | [Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/) | [Loud and Rich](https://leetcode.com/problems/loud-and-rich/) | [Maximum XOR of Subsequences](https://leetcode.com/problems/maximum-xor-of-subsequences/) | [Eulerian Cycles](https://projecteuler.net/problem=289)<br>[Digital Signature](https://projecteuler.net/problem=290) |
 | **Day 144** | 2026-04-30 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/) | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Quadtree Encoding (a Simple Compression Algorithm)](https://projecteuler.net/problem=287)<br>[An Enormous Factorial](https://projecteuler.net/problem=288) |
 | **Day 143** | 2026-04-29 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | [Word Search](https://leetcode.com/problems/word-search/) | [Find Zombie Sessions](https://leetcode.com/problems/find-zombie-sessions/) | [Pythagorean Odds](https://projecteuler.net/problem=285)<br>[Scoring Probabilities](https://projecteuler.net/problem=286) |
