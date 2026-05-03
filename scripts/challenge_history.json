@@ -1118,5 +1118,13 @@
     "medium": "[Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)",
     "hard": "[Poor Pigs](https://leetcode.com/problems/poor-pigs/)",
     "euler": "[Panaitopol Primes](https://projecteuler.net/problem=291)<br>[Pythagorean Polygons](https://projecteuler.net/problem=292)"
+  },
+  {
+    "day": 147,
+    "date": "2026-05-03",
+    "easy": "[Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)",
+    "medium": "[Smallest All-Ones Multiple](https://leetcode.com/problems/smallest-all-ones-multiple/)",
+    "hard": "[Maximum Number of Moves to Kill All Pawns](https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/)",
+    "euler": "[Pseudo-Fortunate Numbers](https://projecteuler.net/problem=293)<br>[Sum of Digits - Experience #23](https://projecteuler.net/problem=294)"
   }
 ]
