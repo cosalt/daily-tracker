@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 147 (Started Dec 8, 2025)
+### Daily Challenge - Day 148 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) | [Smallest All-Ones Multiple](https://leetcode.com/problems/smallest-all-ones-multiple/) | [Maximum Number of Moves to Kill All Pawns](https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/) | [Pseudo-Fortunate Numbers](https://projecteuler.net/problem=293)<br>[Sum of Digits - Experience #23](https://projecteuler.net/problem=294) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) | [Lenticular Holes](https://projecteuler.net/problem=295)<br>[Angular Bisector and Tangent](https://projecteuler.net/problem=296) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 148** | 2026-05-04 | [Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) | [Lenticular Holes](https://projecteuler.net/problem=295)<br>[Angular Bisector and Tangent](https://projecteuler.net/problem=296) |
 | **Day 147** | 2026-05-03 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) | [Smallest All-Ones Multiple](https://leetcode.com/problems/smallest-all-ones-multiple/) | [Maximum Number of Moves to Kill All Pawns](https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/) | [Pseudo-Fortunate Numbers](https://projecteuler.net/problem=293)<br>[Sum of Digits - Experience #23](https://projecteuler.net/problem=294) |
 | **Day 146** | 2026-05-02 | [Find Valid Emails](https://leetcode.com/problems/find-valid-emails/) | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [Panaitopol Primes](https://projecteuler.net/problem=291)<br>[Pythagorean Polygons](https://projecteuler.net/problem=292) |
 | **Day 145** | 2026-05-01 | [Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/) | [Loud and Rich](https://leetcode.com/problems/loud-and-rich/) | [Maximum XOR of Subsequences](https://leetcode.com/problems/maximum-xor-of-subsequences/) | [Eulerian Cycles](https://projecteuler.net/problem=289)<br>[Digital Signature](https://projecteuler.net/problem=290) |

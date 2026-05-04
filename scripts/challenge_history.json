@@ -1126,5 +1126,13 @@
     "medium": "[Smallest All-Ones Multiple](https://leetcode.com/problems/smallest-all-ones-multiple/)",
     "hard": "[Maximum Number of Moves to Kill All Pawns](https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/)",
     "euler": "[Pseudo-Fortunate Numbers](https://projecteuler.net/problem=293)<br>[Sum of Digits - Experience #23](https://projecteuler.net/problem=294)"
+  },
+  {
+    "day": 148,
+    "date": "2026-05-04",
+    "easy": "[Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/)",
+    "medium": "[Perfect Squares](https://leetcode.com/problems/perfect-squares/)",
+    "hard": "[Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)",
+    "euler": "[Lenticular Holes](https://projecteuler.net/problem=295)<br>[Angular Bisector and Tangent](https://projecteuler.net/problem=296)"
   }
 ]
