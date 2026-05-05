@@ -1134,5 +1134,13 @@
     "medium": "[Perfect Squares](https://leetcode.com/problems/perfect-squares/)",
     "hard": "[Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)",
     "euler": "[Lenticular Holes](https://projecteuler.net/problem=295)<br>[Angular Bisector and Tangent](https://projecteuler.net/problem=296)"
+  },
+  {
+    "day": 149,
+    "date": "2026-05-05",
+    "easy": "[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)",
+    "medium": "[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)",
+    "hard": "[Maximum Deletions on a String](https://leetcode.com/problems/maximum-deletions-on-a-string/)",
+    "euler": "[Zeckendorf Representation](https://projecteuler.net/problem=297)<br>[Selective Amnesia](https://projecteuler.net/problem=298)"
   }
 ]
