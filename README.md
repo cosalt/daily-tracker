@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 149 (Started Dec 8, 2025)
+### Daily Challenge - Day 150 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [Maximum Deletions on a String](https://leetcode.com/problems/maximum-deletions-on-a-string/) | [Zeckendorf Representation](https://projecteuler.net/problem=297)<br>[Selective Amnesia](https://projecteuler.net/problem=298) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [Contain Virus](https://leetcode.com/problems/contain-virus/) | [Three Similar Triangles](https://projecteuler.net/problem=299)<br>[Protein Folding](https://projecteuler.net/problem=300) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 150** | 2026-05-06 | [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [Contain Virus](https://leetcode.com/problems/contain-virus/) | [Three Similar Triangles](https://projecteuler.net/problem=299)<br>[Protein Folding](https://projecteuler.net/problem=300) |
 | **Day 149** | 2026-05-05 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [Maximum Deletions on a String](https://leetcode.com/problems/maximum-deletions-on-a-string/) | [Zeckendorf Representation](https://projecteuler.net/problem=297)<br>[Selective Amnesia](https://projecteuler.net/problem=298) |
 | **Day 148** | 2026-05-04 | [Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) | [Lenticular Holes](https://projecteuler.net/problem=295)<br>[Angular Bisector and Tangent](https://projecteuler.net/problem=296) |
 | **Day 147** | 2026-05-03 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) | [Smallest All-Ones Multiple](https://leetcode.com/problems/smallest-all-ones-multiple/) | [Maximum Number of Moves to Kill All Pawns](https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/) | [Pseudo-Fortunate Numbers](https://projecteuler.net/problem=293)<br>[Sum of Digits - Experience #23](https://projecteuler.net/problem=294) |

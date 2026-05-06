@@ -1142,5 +1142,13 @@
     "medium": "[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)",
     "hard": "[Maximum Deletions on a String](https://leetcode.com/problems/maximum-deletions-on-a-string/)",
     "euler": "[Zeckendorf Representation](https://projecteuler.net/problem=297)<br>[Selective Amnesia](https://projecteuler.net/problem=298)"
+  },
+  {
+    "day": 150,
+    "date": "2026-05-06",
+    "easy": "[Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/)",
+    "medium": "[Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/)",
+    "hard": "[Contain Virus](https://leetcode.com/problems/contain-virus/)",
+    "euler": "[Three Similar Triangles](https://projecteuler.net/problem=299)<br>[Protein Folding](https://projecteuler.net/problem=300)"
   }
 ]
