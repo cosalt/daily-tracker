@@ -1150,5 +1150,13 @@
     "medium": "[Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/)",
     "hard": "[Contain Virus](https://leetcode.com/problems/contain-virus/)",
     "euler": "[Three Similar Triangles](https://projecteuler.net/problem=299)<br>[Protein Folding](https://projecteuler.net/problem=300)"
+  },
+  {
+    "day": 151,
+    "date": "2026-05-07",
+    "easy": "[Longest Even Odd Subarray With Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/)",
+    "medium": "[Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/)",
+    "hard": "[Number Of Ways To Reconstruct A Tree](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/)",
+    "euler": "[Nim](https://projecteuler.net/problem=301)<br>[Strong Achilles Numbers](https://projecteuler.net/problem=302)"
   }
 ]
