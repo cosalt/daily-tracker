@@ -1158,5 +1158,13 @@
     "medium": "[Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/)",
     "hard": "[Number Of Ways To Reconstruct A Tree](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/)",
     "euler": "[Nim](https://projecteuler.net/problem=301)<br>[Strong Achilles Numbers](https://projecteuler.net/problem=302)"
+  },
+  {
+    "day": 152,
+    "date": "2026-05-08",
+    "easy": "[Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/)",
+    "medium": "[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)",
+    "hard": "[Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/)",
+    "euler": "[Multiples with Small Digits](https://projecteuler.net/problem=303)<br>[Primonacci](https://projecteuler.net/problem=304)"
   }
 ]
