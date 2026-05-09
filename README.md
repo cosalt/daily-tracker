@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 152 (Started Dec 8, 2025)
+### Daily Challenge - Day 153 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/) | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | [Multiples with Small Digits](https://projecteuler.net/problem=303)<br>[Primonacci](https://projecteuler.net/problem=304) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | [Count Beautiful Splits in an Array](https://leetcode.com/problems/count-beautiful-splits-in-an-array/) | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | [Reflexive Position](https://projecteuler.net/problem=305)<br>[Paper-strip Game](https://projecteuler.net/problem=306) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 153** | 2026-05-09 | [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | [Count Beautiful Splits in an Array](https://leetcode.com/problems/count-beautiful-splits-in-an-array/) | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | [Reflexive Position](https://projecteuler.net/problem=305)<br>[Paper-strip Game](https://projecteuler.net/problem=306) |
 | **Day 152** | 2026-05-08 | [Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/) | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | [Multiples with Small Digits](https://projecteuler.net/problem=303)<br>[Primonacci](https://projecteuler.net/problem=304) |
 | **Day 151** | 2026-05-07 | [Longest Even Odd Subarray With Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/) | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | [Number Of Ways To Reconstruct A Tree](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/) | [Nim](https://projecteuler.net/problem=301)<br>[Strong Achilles Numbers](https://projecteuler.net/problem=302) |
 | **Day 150** | 2026-05-06 | [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [Contain Virus](https://leetcode.com/problems/contain-virus/) | [Three Similar Triangles](https://projecteuler.net/problem=299)<br>[Protein Folding](https://projecteuler.net/problem=300) |

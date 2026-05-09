@@ -1166,5 +1166,13 @@
     "medium": "[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)",
     "hard": "[Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/)",
     "euler": "[Multiples with Small Digits](https://projecteuler.net/problem=303)<br>[Primonacci](https://projecteuler.net/problem=304)"
+  },
+  {
+    "day": 153,
+    "date": "2026-05-09",
+    "easy": "[Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/)",
+    "medium": "[Count Beautiful Splits in an Array](https://leetcode.com/problems/count-beautiful-splits-in-an-array/)",
+    "hard": "[Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)",
+    "euler": "[Reflexive Position](https://projecteuler.net/problem=305)<br>[Paper-strip Game](https://projecteuler.net/problem=306)"
   }
 ]
