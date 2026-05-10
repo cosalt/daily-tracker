@@ -1174,5 +1174,13 @@
     "medium": "[Count Beautiful Splits in an Array](https://leetcode.com/problems/count-beautiful-splits-in-an-array/)",
     "hard": "[Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/)",
     "euler": "[Reflexive Position](https://projecteuler.net/problem=305)<br>[Paper-strip Game](https://projecteuler.net/problem=306)"
+  },
+  {
+    "day": 154,
+    "date": "2026-05-10",
+    "easy": "[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)",
+    "medium": "[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)",
+    "hard": "[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)",
+    "euler": "[Chip Defects](https://projecteuler.net/problem=307)<br>[An Amazing Prime-generating Automaton](https://projecteuler.net/problem=308)"
   }
 ]
