@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 154 (Started Dec 8, 2025)
+### Daily Challenge - Day 155 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Chip Defects](https://projecteuler.net/problem=307)<br>[An Amazing Prime-generating Automaton](https://projecteuler.net/problem=308) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/) | [Minimum Bitwise OR From Grid](https://leetcode.com/problems/minimum-bitwise-or-from-grid/) | [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) | [Integer Ladders](https://projecteuler.net/problem=309)<br>[Nim Square](https://projecteuler.net/problem=310) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 155** | 2026-05-11 | [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/) | [Minimum Bitwise OR From Grid](https://leetcode.com/problems/minimum-bitwise-or-from-grid/) | [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) | [Integer Ladders](https://projecteuler.net/problem=309)<br>[Nim Square](https://projecteuler.net/problem=310) |
 | **Day 154** | 2026-05-10 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Chip Defects](https://projecteuler.net/problem=307)<br>[An Amazing Prime-generating Automaton](https://projecteuler.net/problem=308) |
 | **Day 153** | 2026-05-09 | [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | [Count Beautiful Splits in an Array](https://leetcode.com/problems/count-beautiful-splits-in-an-array/) | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | [Reflexive Position](https://projecteuler.net/problem=305)<br>[Paper-strip Game](https://projecteuler.net/problem=306) |
 | **Day 152** | 2026-05-08 | [Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/) | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | [Multiples with Small Digits](https://projecteuler.net/problem=303)<br>[Primonacci](https://projecteuler.net/problem=304) |

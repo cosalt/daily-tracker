@@ -1182,5 +1182,13 @@
     "medium": "[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)",
     "hard": "[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)",
     "euler": "[Chip Defects](https://projecteuler.net/problem=307)<br>[An Amazing Prime-generating Automaton](https://projecteuler.net/problem=308)"
+  },
+  {
+    "day": 155,
+    "date": "2026-05-11",
+    "easy": "[Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/)",
+    "medium": "[Minimum Bitwise OR From Grid](https://leetcode.com/problems/minimum-bitwise-or-from-grid/)",
+    "hard": "[Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/)",
+    "euler": "[Integer Ladders](https://projecteuler.net/problem=309)<br>[Nim Square](https://projecteuler.net/problem=310)"
   }
 ]
