@@ -1190,5 +1190,13 @@
     "medium": "[Minimum Bitwise OR From Grid](https://leetcode.com/problems/minimum-bitwise-or-from-grid/)",
     "hard": "[Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/)",
     "euler": "[Integer Ladders](https://projecteuler.net/problem=309)<br>[Nim Square](https://projecteuler.net/problem=310)"
+  },
+  {
+    "day": 156,
+    "date": "2026-05-12",
+    "easy": "[Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)",
+    "medium": "[Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)",
+    "hard": "[Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)",
+    "euler": "[Biclinic Integral Quadrilaterals](https://projecteuler.net/problem=311)<br>[Cyclic Paths on Sierpi\u0144ski Graphs](https://projecteuler.net/problem=312)"
   }
 ]
