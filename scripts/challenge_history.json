@@ -1198,5 +1198,13 @@
     "medium": "[Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)",
     "hard": "[Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)",
     "euler": "[Biclinic Integral Quadrilaterals](https://projecteuler.net/problem=311)<br>[Cyclic Paths on Sierpi\u0144ski Graphs](https://projecteuler.net/problem=312)"
+  },
+  {
+    "day": 157,
+    "date": "2026-05-13",
+    "easy": "[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)",
+    "medium": "[Simplify Path](https://leetcode.com/problems/simplify-path/)",
+    "hard": "[Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/)",
+    "euler": "[Sliding Game](https://projecteuler.net/problem=313)<br>[The Mouse on the Moon](https://projecteuler.net/problem=314)"
   }
 ]
