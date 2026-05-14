@@ -1206,5 +1206,13 @@
     "medium": "[Simplify Path](https://leetcode.com/problems/simplify-path/)",
     "hard": "[Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/)",
     "euler": "[Sliding Game](https://projecteuler.net/problem=313)<br>[The Mouse on the Moon](https://projecteuler.net/problem=314)"
+  },
+  {
+    "day": 158,
+    "date": "2026-05-14",
+    "easy": "[Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)",
+    "medium": "[Sorting Three Groups](https://leetcode.com/problems/sorting-three-groups/)",
+    "hard": "[The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets/)",
+    "euler": "[Digital Root Clocks](https://projecteuler.net/problem=315)<br>[Numbers in Decimal Expansions](https://projecteuler.net/problem=316)"
   }
 ]

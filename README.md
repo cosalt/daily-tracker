@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 157 (Started Dec 8, 2025)
+### Daily Challenge - Day 158 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/) | [Sliding Game](https://projecteuler.net/problem=313)<br>[The Mouse on the Moon](https://projecteuler.net/problem=314) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Sorting Three Groups](https://leetcode.com/problems/sorting-three-groups/) | [The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets/) | [Digital Root Clocks](https://projecteuler.net/problem=315)<br>[Numbers in Decimal Expansions](https://projecteuler.net/problem=316) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 158** | 2026-05-14 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Sorting Three Groups](https://leetcode.com/problems/sorting-three-groups/) | [The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets/) | [Digital Root Clocks](https://projecteuler.net/problem=315)<br>[Numbers in Decimal Expansions](https://projecteuler.net/problem=316) |
 | **Day 157** | 2026-05-13 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/) | [Sliding Game](https://projecteuler.net/problem=313)<br>[The Mouse on the Moon](https://projecteuler.net/problem=314) |
 | **Day 156** | 2026-05-12 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [Biclinic Integral Quadrilaterals](https://projecteuler.net/problem=311)<br>[Cyclic Paths on Sierpiński Graphs](https://projecteuler.net/problem=312) |
 | **Day 155** | 2026-05-11 | [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/) | [Minimum Bitwise OR From Grid](https://leetcode.com/problems/minimum-bitwise-or-from-grid/) | [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) | [Integer Ladders](https://projecteuler.net/problem=309)<br>[Nim Square](https://projecteuler.net/problem=310) |
