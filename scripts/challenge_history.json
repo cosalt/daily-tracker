@@ -1214,5 +1214,13 @@
     "medium": "[Sorting Three Groups](https://leetcode.com/problems/sorting-three-groups/)",
     "hard": "[The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets/)",
     "euler": "[Digital Root Clocks](https://projecteuler.net/problem=315)<br>[Numbers in Decimal Expansions](https://projecteuler.net/problem=316)"
+  },
+  {
+    "day": 159,
+    "date": "2026-05-15",
+    "easy": "[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)",
+    "medium": "[Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)",
+    "hard": "[Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/)",
+    "euler": "[Firecracker](https://projecteuler.net/problem=317)<br>[2011 Nines](https://projecteuler.net/problem=318)"
   }
 ]
