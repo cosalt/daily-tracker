@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 159 (Started Dec 8, 2025)
+### Daily Challenge - Day 160 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | [Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/) | [Firecracker](https://projecteuler.net/problem=317)<br>[2011 Nines](https://projecteuler.net/problem=318) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | [Bounded Sequences](https://projecteuler.net/problem=319)<br>[Factorials Divisible by a Huge Integer](https://projecteuler.net/problem=320) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 160** | 2026-05-16 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | [Bounded Sequences](https://projecteuler.net/problem=319)<br>[Factorials Divisible by a Huge Integer](https://projecteuler.net/problem=320) |
 | **Day 159** | 2026-05-15 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | [Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/) | [Firecracker](https://projecteuler.net/problem=317)<br>[2011 Nines](https://projecteuler.net/problem=318) |
 | **Day 158** | 2026-05-14 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Sorting Three Groups](https://leetcode.com/problems/sorting-three-groups/) | [The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets/) | [Digital Root Clocks](https://projecteuler.net/problem=315)<br>[Numbers in Decimal Expansions](https://projecteuler.net/problem=316) |
 | **Day 157** | 2026-05-13 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/) | [Sliding Game](https://projecteuler.net/problem=313)<br>[The Mouse on the Moon](https://projecteuler.net/problem=314) |

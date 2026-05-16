@@ -1222,5 +1222,13 @@
     "medium": "[Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)",
     "hard": "[Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/)",
     "euler": "[Firecracker](https://projecteuler.net/problem=317)<br>[2011 Nines](https://projecteuler.net/problem=318)"
+  },
+  {
+    "day": 160,
+    "date": "2026-05-16",
+    "easy": "[Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/)",
+    "medium": "[Single Number II](https://leetcode.com/problems/single-number-ii/)",
+    "hard": "[Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/)",
+    "euler": "[Bounded Sequences](https://projecteuler.net/problem=319)<br>[Factorials Divisible by a Huge Integer](https://projecteuler.net/problem=320)"
   }
 ]
