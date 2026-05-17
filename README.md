@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 160 (Started Dec 8, 2025)
+### Daily Challenge - Day 161 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | [Bounded Sequences](https://projecteuler.net/problem=319)<br>[Factorials Divisible by a Huge Integer](https://projecteuler.net/problem=320) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/) | [Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/) | [Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/) | [Swapping Counters](https://projecteuler.net/problem=321)<br>[Binomial Coefficients Divisible by 10](https://projecteuler.net/problem=322) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 161** | 2026-05-17 | [Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/) | [Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/) | [Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/) | [Swapping Counters](https://projecteuler.net/problem=321)<br>[Binomial Coefficients Divisible by 10](https://projecteuler.net/problem=322) |
 | **Day 160** | 2026-05-16 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | [Bounded Sequences](https://projecteuler.net/problem=319)<br>[Factorials Divisible by a Huge Integer](https://projecteuler.net/problem=320) |
 | **Day 159** | 2026-05-15 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | [Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/) | [Firecracker](https://projecteuler.net/problem=317)<br>[2011 Nines](https://projecteuler.net/problem=318) |
 | **Day 158** | 2026-05-14 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Sorting Three Groups](https://leetcode.com/problems/sorting-three-groups/) | [The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets/) | [Digital Root Clocks](https://projecteuler.net/problem=315)<br>[Numbers in Decimal Expansions](https://projecteuler.net/problem=316) |
