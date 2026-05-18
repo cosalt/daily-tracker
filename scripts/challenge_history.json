@@ -1238,5 +1238,13 @@
     "medium": "[Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/)",
     "hard": "[Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/)",
     "euler": "[Swapping Counters](https://projecteuler.net/problem=321)<br>[Binomial Coefficients Divisible by 10](https://projecteuler.net/problem=322)"
+  },
+  {
+    "day": 162,
+    "date": "2026-05-18",
+    "easy": "[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)",
+    "medium": "[Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/)",
+    "hard": "[Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/)",
+    "euler": "[Bitwise-OR Operations on Random Integers](https://projecteuler.net/problem=323)<br>[Building a Tower](https://projecteuler.net/problem=324)"
   }
 ]
