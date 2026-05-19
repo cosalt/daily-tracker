@@ -1246,5 +1246,13 @@
     "medium": "[Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/)",
     "hard": "[Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/)",
     "euler": "[Bitwise-OR Operations on Random Integers](https://projecteuler.net/problem=323)<br>[Building a Tower](https://projecteuler.net/problem=324)"
+  },
+  {
+    "day": 163,
+    "date": "2026-05-19",
+    "easy": "[Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)",
+    "medium": "[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)",
+    "hard": "[Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/)",
+    "euler": "[Stone Game II](https://projecteuler.net/problem=325)<br>[Modulo Summations](https://projecteuler.net/problem=326)"
   }
 ]

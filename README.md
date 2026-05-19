@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 162 (Started Dec 8, 2025)
+### Daily Challenge - Day 163 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | [Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/) | [Bitwise-OR Operations on Random Integers](https://projecteuler.net/problem=323)<br>[Building a Tower](https://projecteuler.net/problem=324) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | [Stone Game II](https://projecteuler.net/problem=325)<br>[Modulo Summations](https://projecteuler.net/problem=326) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 163** | 2026-05-19 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | [Stone Game II](https://projecteuler.net/problem=325)<br>[Modulo Summations](https://projecteuler.net/problem=326) |
 | **Day 162** | 2026-05-18 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | [Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/) | [Bitwise-OR Operations on Random Integers](https://projecteuler.net/problem=323)<br>[Building a Tower](https://projecteuler.net/problem=324) |
 | **Day 161** | 2026-05-17 | [Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/) | [Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/) | [Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/) | [Swapping Counters](https://projecteuler.net/problem=321)<br>[Binomial Coefficients Divisible by 10](https://projecteuler.net/problem=322) |
 | **Day 160** | 2026-05-16 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | [Bounded Sequences](https://projecteuler.net/problem=319)<br>[Factorials Divisible by a Huge Integer](https://projecteuler.net/problem=320) |
