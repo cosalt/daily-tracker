@@ -1254,5 +1254,13 @@
     "medium": "[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)",
     "hard": "[Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/)",
     "euler": "[Stone Game II](https://projecteuler.net/problem=325)<br>[Modulo Summations](https://projecteuler.net/problem=326)"
+  },
+  {
+    "day": 164,
+    "date": "2026-05-20",
+    "easy": "[Detect Capital](https://leetcode.com/problems/detect-capital/)",
+    "medium": "[Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/)",
+    "hard": "[Cherry Pickup](https://leetcode.com/problems/cherry-pickup/)",
+    "euler": "[Rooms of Doom](https://projecteuler.net/problem=327)<br>[Lowest-cost Search](https://projecteuler.net/problem=328)"
   }
 ]
