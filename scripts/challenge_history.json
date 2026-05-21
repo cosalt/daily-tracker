@@ -1262,5 +1262,13 @@
     "medium": "[Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/)",
     "hard": "[Cherry Pickup](https://leetcode.com/problems/cherry-pickup/)",
     "euler": "[Rooms of Doom](https://projecteuler.net/problem=327)<br>[Lowest-cost Search](https://projecteuler.net/problem=328)"
+  },
+  {
+    "day": 165,
+    "date": "2026-05-21",
+    "easy": "[Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/)",
+    "medium": "[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)",
+    "hard": "[Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence/)",
+    "euler": "[Prime Frog](https://projecteuler.net/problem=329)<br>[Euler's Number](https://projecteuler.net/problem=330)"
   }
 ]

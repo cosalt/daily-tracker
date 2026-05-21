@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 164 (Started Dec 8, 2025)
+### Daily Challenge - Day 165 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/) | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | [Rooms of Doom](https://projecteuler.net/problem=327)<br>[Lowest-cost Search](https://projecteuler.net/problem=328) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/) | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence/) | [Prime Frog](https://projecteuler.net/problem=329)<br>[Euler's Number](https://projecteuler.net/problem=330) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 165** | 2026-05-21 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/) | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence/) | [Prime Frog](https://projecteuler.net/problem=329)<br>[Euler's Number](https://projecteuler.net/problem=330) |
 | **Day 164** | 2026-05-20 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/) | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | [Rooms of Doom](https://projecteuler.net/problem=327)<br>[Lowest-cost Search](https://projecteuler.net/problem=328) |
 | **Day 163** | 2026-05-19 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | [Stone Game II](https://projecteuler.net/problem=325)<br>[Modulo Summations](https://projecteuler.net/problem=326) |
 | **Day 162** | 2026-05-18 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | [Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/) | [Bitwise-OR Operations on Random Integers](https://projecteuler.net/problem=323)<br>[Building a Tower](https://projecteuler.net/problem=324) |
