@@ -1270,5 +1270,13 @@
     "medium": "[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)",
     "hard": "[Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence/)",
     "euler": "[Prime Frog](https://projecteuler.net/problem=329)<br>[Euler's Number](https://projecteuler.net/problem=330)"
+  },
+  {
+    "day": 166,
+    "date": "2026-05-22",
+    "easy": "[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)",
+    "medium": "[Minimize XOR](https://leetcode.com/problems/minimize-xor/)",
+    "hard": "[Longest Palindrome After Substring Concatenation II](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii/)",
+    "euler": "[Cross Flips](https://projecteuler.net/problem=331)<br>[Spherical Triangles](https://projecteuler.net/problem=332)"
   }
 ]

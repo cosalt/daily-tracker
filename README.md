@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 165 (Started Dec 8, 2025)
+### Daily Challenge - Day 166 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/) | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence/) | [Prime Frog](https://projecteuler.net/problem=329)<br>[Euler's Number](https://projecteuler.net/problem=330) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Minimize XOR](https://leetcode.com/problems/minimize-xor/) | [Longest Palindrome After Substring Concatenation II](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii/) | [Cross Flips](https://projecteuler.net/problem=331)<br>[Spherical Triangles](https://projecteuler.net/problem=332) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 166** | 2026-05-22 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Minimize XOR](https://leetcode.com/problems/minimize-xor/) | [Longest Palindrome After Substring Concatenation II](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii/) | [Cross Flips](https://projecteuler.net/problem=331)<br>[Spherical Triangles](https://projecteuler.net/problem=332) |
 | **Day 165** | 2026-05-21 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/) | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence/) | [Prime Frog](https://projecteuler.net/problem=329)<br>[Euler's Number](https://projecteuler.net/problem=330) |
 | **Day 164** | 2026-05-20 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/) | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | [Rooms of Doom](https://projecteuler.net/problem=327)<br>[Lowest-cost Search](https://projecteuler.net/problem=328) |
 | **Day 163** | 2026-05-19 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | [Stone Game II](https://projecteuler.net/problem=325)<br>[Modulo Summations](https://projecteuler.net/problem=326) |
