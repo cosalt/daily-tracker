@@ -1278,5 +1278,13 @@
     "medium": "[Minimize XOR](https://leetcode.com/problems/minimize-xor/)",
     "hard": "[Longest Palindrome After Substring Concatenation II](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii/)",
     "euler": "[Cross Flips](https://projecteuler.net/problem=331)<br>[Spherical Triangles](https://projecteuler.net/problem=332)"
+  },
+  {
+    "day": 167,
+    "date": "2026-05-23",
+    "easy": "[Valid Word](https://leetcode.com/problems/valid-word/)",
+    "medium": "[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)",
+    "hard": "[Minimum Number of Moves to Make Palindrome](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/)",
+    "euler": "[Special Partitions](https://projecteuler.net/problem=333)<br>[Spilling the Beans](https://projecteuler.net/problem=334)"
   }
 ]
