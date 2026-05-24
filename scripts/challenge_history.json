@@ -1286,5 +1286,13 @@
     "medium": "[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)",
     "hard": "[Minimum Number of Moves to Make Palindrome](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/)",
     "euler": "[Special Partitions](https://projecteuler.net/problem=333)<br>[Spilling the Beans](https://projecteuler.net/problem=334)"
+  },
+  {
+    "day": 168,
+    "date": "2026-05-24",
+    "easy": "[Path Sum](https://leetcode.com/problems/path-sum/)",
+    "medium": "[Maximum Product of Three Elements After One Replacement](https://leetcode.com/problems/maximum-product-of-three-elements-after-one-replacement/)",
+    "hard": "[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)",
+    "euler": "[Gathering the Beans](https://projecteuler.net/problem=335)<br>[Maximix Arrangements](https://projecteuler.net/problem=336)"
   }
 ]
