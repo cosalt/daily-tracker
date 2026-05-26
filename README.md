@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 169 (Started Dec 8, 2025)
+### Daily Challenge - Day 170 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [Find Consecutive Integers from a Data Stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/) | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [Totient Stairstep Sequences](https://projecteuler.net/problem=337)<br>[Cutting Rectangular Grid Paper](https://projecteuler.net/problem=338) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/) | [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/) | [Peredur Fab Efrawg](https://projecteuler.net/problem=339)<br>[Crazy Function](https://projecteuler.net/problem=340) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 170** | 2026-05-26 | [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/) | [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/) | [Peredur Fab Efrawg](https://projecteuler.net/problem=339)<br>[Crazy Function](https://projecteuler.net/problem=340) |
 | **Day 169** | 2026-05-25 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [Find Consecutive Integers from a Data Stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/) | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [Totient Stairstep Sequences](https://projecteuler.net/problem=337)<br>[Cutting Rectangular Grid Paper](https://projecteuler.net/problem=338) |
 | **Day 168** | 2026-05-24 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Maximum Product of Three Elements After One Replacement](https://leetcode.com/problems/maximum-product-of-three-elements-after-one-replacement/) | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Gathering the Beans](https://projecteuler.net/problem=335)<br>[Maximix Arrangements](https://projecteuler.net/problem=336) |
 | **Day 167** | 2026-05-23 | [Valid Word](https://leetcode.com/problems/valid-word/) | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [Minimum Number of Moves to Make Palindrome](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/) | [Special Partitions](https://projecteuler.net/problem=333)<br>[Spilling the Beans](https://projecteuler.net/problem=334) |
