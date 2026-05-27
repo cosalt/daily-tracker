@@ -1310,5 +1310,13 @@
     "medium": "[Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)",
     "hard": "[Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/)",
     "euler": "[Peredur Fab Efrawg](https://projecteuler.net/problem=339)<br>[Crazy Function](https://projecteuler.net/problem=340)"
+  },
+  {
+    "day": 171,
+    "date": "2026-05-27",
+    "easy": "[Two Sum](https://leetcode.com/problems/two-sum/)",
+    "medium": "[3Sum](https://leetcode.com/problems/3sum/)",
+    "hard": "[Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/)",
+    "euler": "[Golomb's Self-describing Sequence](https://projecteuler.net/problem=341)<br>[The Totient of a Square Is a Cube](https://projecteuler.net/problem=342)"
   }
 ]
