@@ -1318,5 +1318,13 @@
     "medium": "[3Sum](https://leetcode.com/problems/3sum/)",
     "hard": "[Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/)",
     "euler": "[Golomb's Self-describing Sequence](https://projecteuler.net/problem=341)<br>[The Totient of a Square Is a Cube](https://projecteuler.net/problem=342)"
+  },
+  {
+    "day": 172,
+    "date": "2026-05-28",
+    "easy": "[Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/)",
+    "medium": "[Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/)",
+    "hard": "[Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)",
+    "euler": "[Fractional Sequences](https://projecteuler.net/problem=343)<br>[Silver Dollar Game](https://projecteuler.net/problem=344)"
   }
 ]

@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 171 (Started Dec 8, 2025)
+### Daily Challenge - Day 172 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Two Sum](https://leetcode.com/problems/two-sum/) | [3Sum](https://leetcode.com/problems/3sum/) | [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | [Golomb's Self-describing Sequence](https://projecteuler.net/problem=341)<br>[The Totient of a Square Is a Cube](https://projecteuler.net/problem=342) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | [Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/) | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | [Fractional Sequences](https://projecteuler.net/problem=343)<br>[Silver Dollar Game](https://projecteuler.net/problem=344) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 172** | 2026-05-28 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | [Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/) | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | [Fractional Sequences](https://projecteuler.net/problem=343)<br>[Silver Dollar Game](https://projecteuler.net/problem=344) |
 | **Day 171** | 2026-05-27 | [Two Sum](https://leetcode.com/problems/two-sum/) | [3Sum](https://leetcode.com/problems/3sum/) | [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | [Golomb's Self-describing Sequence](https://projecteuler.net/problem=341)<br>[The Totient of a Square Is a Cube](https://projecteuler.net/problem=342) |
 | **Day 170** | 2026-05-26 | [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/) | [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/) | [Peredur Fab Efrawg](https://projecteuler.net/problem=339)<br>[Crazy Function](https://projecteuler.net/problem=340) |
 | **Day 169** | 2026-05-25 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [Find Consecutive Integers from a Data Stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/) | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [Totient Stairstep Sequences](https://projecteuler.net/problem=337)<br>[Cutting Rectangular Grid Paper](https://projecteuler.net/problem=338) |
