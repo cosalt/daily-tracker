@@ -1326,5 +1326,13 @@
     "medium": "[Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/)",
     "hard": "[Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)",
     "euler": "[Fractional Sequences](https://projecteuler.net/problem=343)<br>[Silver Dollar Game](https://projecteuler.net/problem=344)"
+  },
+  {
+    "day": 173,
+    "date": "2026-05-29",
+    "easy": "[Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)",
+    "medium": "[Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/)",
+    "hard": "[Stream of Characters](https://leetcode.com/problems/stream-of-characters/)",
+    "euler": "[Matrix Sum](https://projecteuler.net/problem=345)<br>[Strong Repunits](https://projecteuler.net/problem=346)"
   }
 ]
