@@ -1334,5 +1334,13 @@
     "medium": "[Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/)",
     "hard": "[Stream of Characters](https://leetcode.com/problems/stream-of-characters/)",
     "euler": "[Matrix Sum](https://projecteuler.net/problem=345)<br>[Strong Repunits](https://projecteuler.net/problem=346)"
+  },
+  {
+    "day": 174,
+    "date": "2026-05-30",
+    "easy": "[Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/)",
+    "medium": "[Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/)",
+    "hard": "[Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/)",
+    "euler": "[Largest Integer Divisible by Two Primes](https://projecteuler.net/problem=347)<br>[Sum of a Square and a Cube](https://projecteuler.net/problem=348)"
   }
 ]

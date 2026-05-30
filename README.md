@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 173 (Started Dec 8, 2025)
+### Daily Challenge - Day 174 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | [Matrix Sum](https://projecteuler.net/problem=345)<br>[Strong Repunits](https://projecteuler.net/problem=346) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | [Largest Integer Divisible by Two Primes](https://projecteuler.net/problem=347)<br>[Sum of a Square and a Cube](https://projecteuler.net/problem=348) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 174** | 2026-05-30 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | [Largest Integer Divisible by Two Primes](https://projecteuler.net/problem=347)<br>[Sum of a Square and a Cube](https://projecteuler.net/problem=348) |
 | **Day 173** | 2026-05-29 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | [Matrix Sum](https://projecteuler.net/problem=345)<br>[Strong Repunits](https://projecteuler.net/problem=346) |
 | **Day 172** | 2026-05-28 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | [Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/) | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | [Fractional Sequences](https://projecteuler.net/problem=343)<br>[Silver Dollar Game](https://projecteuler.net/problem=344) |
 | **Day 171** | 2026-05-27 | [Two Sum](https://leetcode.com/problems/two-sum/) | [3Sum](https://leetcode.com/problems/3sum/) | [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | [Golomb's Self-describing Sequence](https://projecteuler.net/problem=341)<br>[The Totient of a Square Is a Cube](https://projecteuler.net/problem=342) |
