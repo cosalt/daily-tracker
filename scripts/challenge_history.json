@@ -1342,5 +1342,13 @@
     "medium": "[Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/)",
     "hard": "[Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/)",
     "euler": "[Largest Integer Divisible by Two Primes](https://projecteuler.net/problem=347)<br>[Sum of a Square and a Cube](https://projecteuler.net/problem=348)"
+  },
+  {
+    "day": 175,
+    "date": "2026-05-31",
+    "easy": "[Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/)",
+    "medium": "[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)",
+    "hard": "[Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)",
+    "euler": "[Langton's Ant](https://projecteuler.net/problem=349)<br>[Constraining the Least Greatest and the Greatest Least](https://projecteuler.net/problem=350)"
   }
 ]

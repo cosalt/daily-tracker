@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 174 (Started Dec 8, 2025)
+### Daily Challenge - Day 175 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | [Largest Integer Divisible by Two Primes](https://projecteuler.net/problem=347)<br>[Sum of a Square and a Cube](https://projecteuler.net/problem=348) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [Langton's Ant](https://projecteuler.net/problem=349)<br>[Constraining the Least Greatest and the Greatest Least](https://projecteuler.net/problem=350) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 175** | 2026-05-31 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [Langton's Ant](https://projecteuler.net/problem=349)<br>[Constraining the Least Greatest and the Greatest Least](https://projecteuler.net/problem=350) |
 | **Day 174** | 2026-05-30 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | [Largest Integer Divisible by Two Primes](https://projecteuler.net/problem=347)<br>[Sum of a Square and a Cube](https://projecteuler.net/problem=348) |
 | **Day 173** | 2026-05-29 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | [Matrix Sum](https://projecteuler.net/problem=345)<br>[Strong Repunits](https://projecteuler.net/problem=346) |
 | **Day 172** | 2026-05-28 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | [Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/) | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | [Fractional Sequences](https://projecteuler.net/problem=343)<br>[Silver Dollar Game](https://projecteuler.net/problem=344) |
