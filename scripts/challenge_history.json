@@ -1350,5 +1350,13 @@
     "medium": "[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)",
     "hard": "[Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)",
     "euler": "[Langton's Ant](https://projecteuler.net/problem=349)<br>[Constraining the Least Greatest and the Greatest Least](https://projecteuler.net/problem=350)"
+  },
+  {
+    "day": 176,
+    "date": "2026-06-01",
+    "easy": "[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)",
+    "medium": "[Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/)",
+    "hard": "[Find the Minimum Cost Array Permutation](https://leetcode.com/problems/find-the-minimum-cost-array-permutation/)",
+    "euler": "[Hexagonal Orchards](https://projecteuler.net/problem=351)<br>[Blood Tests](https://projecteuler.net/problem=352)"
   }
 ]
