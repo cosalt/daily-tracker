@@ -1358,5 +1358,13 @@
     "medium": "[Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/)",
     "hard": "[Find the Minimum Cost Array Permutation](https://leetcode.com/problems/find-the-minimum-cost-array-permutation/)",
     "euler": "[Hexagonal Orchards](https://projecteuler.net/problem=351)<br>[Blood Tests](https://projecteuler.net/problem=352)"
+  },
+  {
+    "day": 177,
+    "date": "2026-06-02",
+    "easy": "[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)",
+    "medium": "[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)",
+    "hard": "[Minimum Total Cost to Make Arrays Unequal](https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/)",
+    "euler": "[Risky Moon](https://projecteuler.net/problem=353)<br>[Distances in a Bee's Honeycomb ](https://projecteuler.net/problem=354)"
   }
 ]
