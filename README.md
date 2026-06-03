@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 177 (Started Dec 8, 2025)
+### Daily Challenge - Day 178 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Prime Arrangements](https://leetcode.com/problems/prime-arrangements/) | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/) | [Minimum Total Cost to Make Arrays Unequal](https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/) | [Risky Moon](https://projecteuler.net/problem=353)<br>[Distances in a Bee's Honeycomb ](https://projecteuler.net/problem=354) | [NeetCode Practice](https://neetcode.io/practice) |
+| [DI String Match](https://leetcode.com/problems/di-string-match/) | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) | [Maximal Coprime Subset](https://projecteuler.net/problem=355)<br>[Largest Roots of Cubic Polynomials](https://projecteuler.net/problem=356) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 178** | 2026-06-03 | [DI String Match](https://leetcode.com/problems/di-string-match/) | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) | [Maximal Coprime Subset](https://projecteuler.net/problem=355)<br>[Largest Roots of Cubic Polynomials](https://projecteuler.net/problem=356) |
 | **Day 177** | 2026-06-02 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements/) | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/) | [Minimum Total Cost to Make Arrays Unequal](https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/) | [Risky Moon](https://projecteuler.net/problem=353)<br>[Distances in a Bee's Honeycomb ](https://projecteuler.net/problem=354) |
 | **Day 176** | 2026-06-01 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) | [Find the Minimum Cost Array Permutation](https://leetcode.com/problems/find-the-minimum-cost-array-permutation/) | [Hexagonal Orchards](https://projecteuler.net/problem=351)<br>[Blood Tests](https://projecteuler.net/problem=352) |
 | **Day 175** | 2026-05-31 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [Langton's Ant](https://projecteuler.net/problem=349)<br>[Constraining the Least Greatest and the Greatest Least](https://projecteuler.net/problem=350) |

@@ -1366,5 +1366,13 @@
     "medium": "[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)",
     "hard": "[Minimum Total Cost to Make Arrays Unequal](https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/)",
     "euler": "[Risky Moon](https://projecteuler.net/problem=353)<br>[Distances in a Bee's Honeycomb ](https://projecteuler.net/problem=354)"
+  },
+  {
+    "day": 178,
+    "date": "2026-06-03",
+    "easy": "[DI String Match](https://leetcode.com/problems/di-string-match/)",
+    "medium": "[Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)",
+    "hard": "[Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)",
+    "euler": "[Maximal Coprime Subset](https://projecteuler.net/problem=355)<br>[Largest Roots of Cubic Polynomials](https://projecteuler.net/problem=356)"
   }
 ]
