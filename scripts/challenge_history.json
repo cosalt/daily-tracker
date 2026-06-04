@@ -1374,5 +1374,13 @@
     "medium": "[Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)",
     "hard": "[Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)",
     "euler": "[Maximal Coprime Subset](https://projecteuler.net/problem=355)<br>[Largest Roots of Cubic Polynomials](https://projecteuler.net/problem=356)"
+  },
+  {
+    "day": 179,
+    "date": "2026-06-04",
+    "easy": "[Keyboard Row](https://leetcode.com/problems/keyboard-row/)",
+    "medium": "[Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class/)",
+    "hard": "[Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/)",
+    "euler": "[Prime Generating Integers](https://projecteuler.net/problem=357)<br>[Cyclic Numbers](https://projecteuler.net/problem=358)"
   }
 ]
