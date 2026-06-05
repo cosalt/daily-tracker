@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 179 (Started Dec 8, 2025)
+### Daily Challenge - Day 180 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class/) | [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | [Prime Generating Integers](https://projecteuler.net/problem=357)<br>[Cyclic Numbers](https://projecteuler.net/problem=358) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Find Minimum Cost to Remove Array Elements](https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements/) | [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/) | [Hilbert's New Hotel](https://projecteuler.net/problem=359)<br>[Scary Sphere](https://projecteuler.net/problem=360) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 180** | 2026-06-05 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Find Minimum Cost to Remove Array Elements](https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements/) | [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/) | [Hilbert's New Hotel](https://projecteuler.net/problem=359)<br>[Scary Sphere](https://projecteuler.net/problem=360) |
 | **Day 179** | 2026-06-04 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class/) | [Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | [Prime Generating Integers](https://projecteuler.net/problem=357)<br>[Cyclic Numbers](https://projecteuler.net/problem=358) |
 | **Day 178** | 2026-06-03 | [DI String Match](https://leetcode.com/problems/di-string-match/) | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) | [Maximal Coprime Subset](https://projecteuler.net/problem=355)<br>[Largest Roots of Cubic Polynomials](https://projecteuler.net/problem=356) |
 | **Day 177** | 2026-06-02 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements/) | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/) | [Minimum Total Cost to Make Arrays Unequal](https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/) | [Risky Moon](https://projecteuler.net/problem=353)<br>[Distances in a Bee's Honeycomb ](https://projecteuler.net/problem=354) |
