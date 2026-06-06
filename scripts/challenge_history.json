@@ -1390,5 +1390,13 @@
     "medium": "[Find Minimum Cost to Remove Array Elements](https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements/)",
     "hard": "[Stone Game VIII](https://leetcode.com/problems/stone-game-viii/)",
     "euler": "[Hilbert's New Hotel](https://projecteuler.net/problem=359)<br>[Scary Sphere](https://projecteuler.net/problem=360)"
+  },
+  {
+    "day": 181,
+    "date": "2026-06-06",
+    "easy": "[Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/)",
+    "medium": "[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)",
+    "hard": "[ Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/)",
+    "euler": "[Subsequence of Thue-Morse Sequence](https://projecteuler.net/problem=361)<br>[Squarefree Factors](https://projecteuler.net/problem=362)"
   }
 ]
