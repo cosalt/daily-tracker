@@ -1398,5 +1398,13 @@
     "medium": "[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)",
     "hard": "[ Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/)",
     "euler": "[Subsequence of Thue-Morse Sequence](https://projecteuler.net/problem=361)<br>[Squarefree Factors](https://projecteuler.net/problem=362)"
+  },
+  {
+    "day": 182,
+    "date": "2026-06-07",
+    "easy": "[Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)",
+    "medium": "[Make Array Non-decreasing](https://leetcode.com/problems/make-array-non-decreasing/)",
+    "hard": "[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)",
+    "euler": "[B\u00e9zier Curves](https://projecteuler.net/problem=363)<br>[Comfortable Distance](https://projecteuler.net/problem=364)"
   }
 ]
