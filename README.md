@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 182 (Started Dec 8, 2025)
+### Daily Challenge - Day 183 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/) | [Make Array Non-decreasing](https://leetcode.com/problems/make-array-non-decreasing/) | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Bézier Curves](https://projecteuler.net/problem=363)<br>[Comfortable Distance](https://projecteuler.net/problem=364) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Maximum Energy Boost From Two Drinks](https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/) | [Maximum Sum of M Non-Overlapping Subarrays II](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/) | [A Huge Binomial Coefficient](https://projecteuler.net/problem=365)<br>[Stone Game III](https://projecteuler.net/problem=366) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 183** | 2026-06-08 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Maximum Energy Boost From Two Drinks](https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/) | [Maximum Sum of M Non-Overlapping Subarrays II](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/) | [A Huge Binomial Coefficient](https://projecteuler.net/problem=365)<br>[Stone Game III](https://projecteuler.net/problem=366) |
 | **Day 182** | 2026-06-07 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/) | [Make Array Non-decreasing](https://leetcode.com/problems/make-array-non-decreasing/) | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Bézier Curves](https://projecteuler.net/problem=363)<br>[Comfortable Distance](https://projecteuler.net/problem=364) |
 | **Day 181** | 2026-06-06 | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [ Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [Subsequence of Thue-Morse Sequence](https://projecteuler.net/problem=361)<br>[Squarefree Factors](https://projecteuler.net/problem=362) |
 | **Day 180** | 2026-06-05 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Find Minimum Cost to Remove Array Elements](https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements/) | [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/) | [Hilbert's New Hotel](https://projecteuler.net/problem=359)<br>[Scary Sphere](https://projecteuler.net/problem=360) |

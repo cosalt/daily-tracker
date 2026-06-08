@@ -1406,5 +1406,13 @@
     "medium": "[Make Array Non-decreasing](https://leetcode.com/problems/make-array-non-decreasing/)",
     "hard": "[Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)",
     "euler": "[B\u00e9zier Curves](https://projecteuler.net/problem=363)<br>[Comfortable Distance](https://projecteuler.net/problem=364)"
+  },
+  {
+    "day": 183,
+    "date": "2026-06-08",
+    "easy": "[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)",
+    "medium": "[Maximum Energy Boost From Two Drinks](https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/)",
+    "hard": "[Maximum Sum of M Non-Overlapping Subarrays II](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/)",
+    "euler": "[A Huge Binomial Coefficient](https://projecteuler.net/problem=365)<br>[Stone Game III](https://projecteuler.net/problem=366)"
   }
 ]
