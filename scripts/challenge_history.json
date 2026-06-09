@@ -1414,5 +1414,13 @@
     "medium": "[Maximum Energy Boost From Two Drinks](https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/)",
     "hard": "[Maximum Sum of M Non-Overlapping Subarrays II](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/)",
     "euler": "[A Huge Binomial Coefficient](https://projecteuler.net/problem=365)<br>[Stone Game III](https://projecteuler.net/problem=366)"
+  },
+  {
+    "day": 184,
+    "date": "2026-06-09",
+    "easy": "[Count Dominant Indices](https://leetcode.com/problems/count-dominant-indices/)",
+    "medium": "[Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)",
+    "hard": "[Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/)",
+    "euler": "[Bozo Sort](https://projecteuler.net/problem=367)<br>[A Kempner-like Series](https://projecteuler.net/problem=368)"
   }
 ]

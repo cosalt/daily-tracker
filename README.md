@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 183 (Started Dec 8, 2025)
+### Daily Challenge - Day 184 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Maximum Energy Boost From Two Drinks](https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/) | [Maximum Sum of M Non-Overlapping Subarrays II](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/) | [A Huge Binomial Coefficient](https://projecteuler.net/problem=365)<br>[Stone Game III](https://projecteuler.net/problem=366) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Count Dominant Indices](https://leetcode.com/problems/count-dominant-indices/) | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/) | [Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/) | [Bozo Sort](https://projecteuler.net/problem=367)<br>[A Kempner-like Series](https://projecteuler.net/problem=368) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 184** | 2026-06-09 | [Count Dominant Indices](https://leetcode.com/problems/count-dominant-indices/) | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/) | [Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/) | [Bozo Sort](https://projecteuler.net/problem=367)<br>[A Kempner-like Series](https://projecteuler.net/problem=368) |
 | **Day 183** | 2026-06-08 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Maximum Energy Boost From Two Drinks](https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/) | [Maximum Sum of M Non-Overlapping Subarrays II](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/) | [A Huge Binomial Coefficient](https://projecteuler.net/problem=365)<br>[Stone Game III](https://projecteuler.net/problem=366) |
 | **Day 182** | 2026-06-07 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/) | [Make Array Non-decreasing](https://leetcode.com/problems/make-array-non-decreasing/) | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Bézier Curves](https://projecteuler.net/problem=363)<br>[Comfortable Distance](https://projecteuler.net/problem=364) |
 | **Day 181** | 2026-06-06 | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [ Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [Subsequence of Thue-Morse Sequence](https://projecteuler.net/problem=361)<br>[Squarefree Factors](https://projecteuler.net/problem=362) |
