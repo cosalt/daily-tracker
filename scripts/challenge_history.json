@@ -1422,5 +1422,13 @@
     "medium": "[Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)",
     "hard": "[Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/)",
     "euler": "[Bozo Sort](https://projecteuler.net/problem=367)<br>[A Kempner-like Series](https://projecteuler.net/problem=368)"
+  },
+  {
+    "day": 185,
+    "date": "2026-06-10",
+    "easy": "[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)",
+    "medium": "[Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)",
+    "hard": "[Maximize Subarray GCD Score](https://leetcode.com/problems/maximize-subarray-gcd-score/)",
+    "euler": "[Badugi](https://projecteuler.net/problem=369)<br>[Geometric Triangles](https://projecteuler.net/problem=370)"
   }
 ]
