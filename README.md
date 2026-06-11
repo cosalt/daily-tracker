@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 185 (Started Dec 8, 2025)
+### Daily Challenge - Day 186 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | [Maximize Subarray GCD Score](https://leetcode.com/problems/maximize-subarray-gcd-score/) | [Badugi](https://projecteuler.net/problem=369)<br>[Geometric Triangles](https://projecteuler.net/problem=370) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [First Letter Capitalization II](https://leetcode.com/problems/first-letter-capitalization-ii/) | [Licence Plates](https://projecteuler.net/problem=371)<br>[Pencils of Rays](https://projecteuler.net/problem=372) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 186** | 2026-06-11 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [First Letter Capitalization II](https://leetcode.com/problems/first-letter-capitalization-ii/) | [Licence Plates](https://projecteuler.net/problem=371)<br>[Pencils of Rays](https://projecteuler.net/problem=372) |
 | **Day 185** | 2026-06-10 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | [Maximize Subarray GCD Score](https://leetcode.com/problems/maximize-subarray-gcd-score/) | [Badugi](https://projecteuler.net/problem=369)<br>[Geometric Triangles](https://projecteuler.net/problem=370) |
 | **Day 184** | 2026-06-09 | [Count Dominant Indices](https://leetcode.com/problems/count-dominant-indices/) | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/) | [Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/) | [Bozo Sort](https://projecteuler.net/problem=367)<br>[A Kempner-like Series](https://projecteuler.net/problem=368) |
 | **Day 183** | 2026-06-08 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Maximum Energy Boost From Two Drinks](https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/) | [Maximum Sum of M Non-Overlapping Subarrays II](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/) | [A Huge Binomial Coefficient](https://projecteuler.net/problem=365)<br>[Stone Game III](https://projecteuler.net/problem=366) |

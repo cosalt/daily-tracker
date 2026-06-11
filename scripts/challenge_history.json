@@ -1430,5 +1430,13 @@
     "medium": "[Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)",
     "hard": "[Maximize Subarray GCD Score](https://leetcode.com/problems/maximize-subarray-gcd-score/)",
     "euler": "[Badugi](https://projecteuler.net/problem=369)<br>[Geometric Triangles](https://projecteuler.net/problem=370)"
+  },
+  {
+    "day": 186,
+    "date": "2026-06-11",
+    "easy": "[Set Mismatch](https://leetcode.com/problems/set-mismatch/)",
+    "medium": "[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)",
+    "hard": "[First Letter Capitalization II](https://leetcode.com/problems/first-letter-capitalization-ii/)",
+    "euler": "[Licence Plates](https://projecteuler.net/problem=371)<br>[Pencils of Rays](https://projecteuler.net/problem=372)"
   }
 ]
