@@ -1438,5 +1438,13 @@
     "medium": "[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)",
     "hard": "[First Letter Capitalization II](https://leetcode.com/problems/first-letter-capitalization-ii/)",
     "euler": "[Licence Plates](https://projecteuler.net/problem=371)<br>[Pencils of Rays](https://projecteuler.net/problem=372)"
+  },
+  {
+    "day": 187,
+    "date": "2026-06-12",
+    "easy": "[Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/)",
+    "medium": "[Stock Price Fluctuation ](https://leetcode.com/problems/stock-price-fluctuation/)",
+    "hard": "[Orderly Queue](https://leetcode.com/problems/orderly-queue/)",
+    "euler": "[Circumscribed Circles](https://projecteuler.net/problem=373)<br>[Maximum Integer Partition Product](https://projecteuler.net/problem=374)"
   }
 ]
