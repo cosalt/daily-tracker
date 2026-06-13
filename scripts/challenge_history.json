@@ -1446,5 +1446,13 @@
     "medium": "[Stock Price Fluctuation ](https://leetcode.com/problems/stock-price-fluctuation/)",
     "hard": "[Orderly Queue](https://leetcode.com/problems/orderly-queue/)",
     "euler": "[Circumscribed Circles](https://projecteuler.net/problem=373)<br>[Maximum Integer Partition Product](https://projecteuler.net/problem=374)"
+  },
+  {
+    "day": 188,
+    "date": "2026-06-13",
+    "easy": "[Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/)",
+    "medium": "[Combination Sum](https://leetcode.com/problems/combination-sum/)",
+    "hard": "[Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/)",
+    "euler": "[Minimum of Subsequences](https://projecteuler.net/problem=375)<br>[Nontransitive Sets of Dice](https://projecteuler.net/problem=376)"
   }
 ]
