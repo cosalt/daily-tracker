@@ -1454,5 +1454,13 @@
     "medium": "[Combination Sum](https://leetcode.com/problems/combination-sum/)",
     "hard": "[Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/)",
     "euler": "[Minimum of Subsequences](https://projecteuler.net/problem=375)<br>[Nontransitive Sets of Dice](https://projecteuler.net/problem=376)"
+  },
+  {
+    "day": 189,
+    "date": "2026-06-14",
+    "easy": "[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)",
+    "medium": "[Elimination Game](https://leetcode.com/problems/elimination-game/)",
+    "hard": "[Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/)",
+    "euler": "[Sum of Digits - Experience #13](https://projecteuler.net/problem=377)<br>[Triangle Triples](https://projecteuler.net/problem=378)"
   }
 ]

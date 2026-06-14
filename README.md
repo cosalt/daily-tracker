@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 188 (Started Dec 8, 2025)
+### Daily Challenge - Day 189 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [Minimum of Subsequences](https://projecteuler.net/problem=375)<br>[Nontransitive Sets of Dice](https://projecteuler.net/problem=376) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [Elimination Game](https://leetcode.com/problems/elimination-game/) | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | [Sum of Digits - Experience #13](https://projecteuler.net/problem=377)<br>[Triangle Triples](https://projecteuler.net/problem=378) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 189** | 2026-06-14 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [Elimination Game](https://leetcode.com/problems/elimination-game/) | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | [Sum of Digits - Experience #13](https://projecteuler.net/problem=377)<br>[Triangle Triples](https://projecteuler.net/problem=378) |
 | **Day 188** | 2026-06-13 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [Minimum of Subsequences](https://projecteuler.net/problem=375)<br>[Nontransitive Sets of Dice](https://projecteuler.net/problem=376) |
 | **Day 187** | 2026-06-12 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | [Stock Price Fluctuation ](https://leetcode.com/problems/stock-price-fluctuation/) | [Orderly Queue](https://leetcode.com/problems/orderly-queue/) | [Circumscribed Circles](https://projecteuler.net/problem=373)<br>[Maximum Integer Partition Product](https://projecteuler.net/problem=374) |
 | **Day 186** | 2026-06-11 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [First Letter Capitalization II](https://leetcode.com/problems/first-letter-capitalization-ii/) | [Licence Plates](https://projecteuler.net/problem=371)<br>[Pencils of Rays](https://projecteuler.net/problem=372) |
