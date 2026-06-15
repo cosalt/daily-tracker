@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 189 (Started Dec 8, 2025)
+### Daily Challenge - Day 190 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [Elimination Game](https://leetcode.com/problems/elimination-game/) | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | [Sum of Digits - Experience #13](https://projecteuler.net/problem=377)<br>[Triangle Triples](https://projecteuler.net/problem=378) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | [Least Common Multiple Count](https://projecteuler.net/problem=379)<br>[Amazing Mazes!](https://projecteuler.net/problem=380) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 190** | 2026-06-15 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | [Least Common Multiple Count](https://projecteuler.net/problem=379)<br>[Amazing Mazes!](https://projecteuler.net/problem=380) |
 | **Day 189** | 2026-06-14 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [Elimination Game](https://leetcode.com/problems/elimination-game/) | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | [Sum of Digits - Experience #13](https://projecteuler.net/problem=377)<br>[Triangle Triples](https://projecteuler.net/problem=378) |
 | **Day 188** | 2026-06-13 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [Minimum of Subsequences](https://projecteuler.net/problem=375)<br>[Nontransitive Sets of Dice](https://projecteuler.net/problem=376) |
 | **Day 187** | 2026-06-12 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | [Stock Price Fluctuation ](https://leetcode.com/problems/stock-price-fluctuation/) | [Orderly Queue](https://leetcode.com/problems/orderly-queue/) | [Circumscribed Circles](https://projecteuler.net/problem=373)<br>[Maximum Integer Partition Product](https://projecteuler.net/problem=374) |
