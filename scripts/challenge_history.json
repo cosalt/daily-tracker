@@ -1470,5 +1470,13 @@
     "medium": "[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)",
     "hard": "[Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/)",
     "euler": "[Least Common Multiple Count](https://projecteuler.net/problem=379)<br>[Amazing Mazes!](https://projecteuler.net/problem=380)"
+  },
+  {
+    "day": 191,
+    "date": "2026-06-16",
+    "easy": "[Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/)",
+    "medium": "[Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/)",
+    "hard": "[Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/)",
+    "euler": "[$(\\text{prime}-k)$ Factorial](https://projecteuler.net/problem=381)<br>[Generating Polygons](https://projecteuler.net/problem=382)"
   }
 ]
