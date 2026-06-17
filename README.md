@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 191 (Started Dec 8, 2025)
+### Daily Challenge - Day 192 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/) | [Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/) | [$(	ext{prime}-k)$ Factorial](https://projecteuler.net/problem=381)<br>[Generating Polygons](https://projecteuler.net/problem=382) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Maximum Sum of Three Numbers Divisible by Three](https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three/) | [Minimum Operations to Form Subsequence With Target Sum](https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/) | [Problem 383](https://projecteuler.net/problem=383)<br>[Problem 384](https://projecteuler.net/problem=384) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 192** | 2026-06-17 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Maximum Sum of Three Numbers Divisible by Three](https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three/) | [Minimum Operations to Form Subsequence With Target Sum](https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/) | [Problem 383](https://projecteuler.net/problem=383)<br>[Problem 384](https://projecteuler.net/problem=384) |
 | **Day 191** | 2026-06-16 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/) | [Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/) | [$(	ext{prime}-k)$ Factorial](https://projecteuler.net/problem=381)<br>[Generating Polygons](https://projecteuler.net/problem=382) |
 | **Day 190** | 2026-06-15 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | [Least Common Multiple Count](https://projecteuler.net/problem=379)<br>[Amazing Mazes!](https://projecteuler.net/problem=380) |
 | **Day 189** | 2026-06-14 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [Elimination Game](https://leetcode.com/problems/elimination-game/) | [Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) | [Sum of Digits - Experience #13](https://projecteuler.net/problem=377)<br>[Triangle Triples](https://projecteuler.net/problem=378) |
