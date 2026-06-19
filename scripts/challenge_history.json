@@ -1494,5 +1494,13 @@
     "medium": "[Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/)",
     "hard": "[Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/)",
     "euler": "[Ellipses Inside Triangles](https://projecteuler.net/problem=385)<br>[Maximum Length of an Antichain](https://projecteuler.net/problem=386)"
+  },
+  {
+    "day": 194,
+    "date": "2026-06-19",
+    "easy": "[Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/)",
+    "medium": "[Find Churn Risk Customers](https://leetcode.com/problems/find-churn-risk-customers/)",
+    "hard": "[Minimum Cost to Partition a Binary String](https://leetcode.com/problems/minimum-cost-to-partition-a-binary-string/)",
+    "euler": "[Harshad Numbers](https://projecteuler.net/problem=387)<br>[Distinct Lines](https://projecteuler.net/problem=388)"
   }
 ]

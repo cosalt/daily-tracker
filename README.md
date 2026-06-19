@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 193 (Started Dec 8, 2025)
+### Daily Challenge - Day 194 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | [Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/) | [Ellipses Inside Triangles](https://projecteuler.net/problem=385)<br>[Maximum Length of an Antichain](https://projecteuler.net/problem=386) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [Find Churn Risk Customers](https://leetcode.com/problems/find-churn-risk-customers/) | [Minimum Cost to Partition a Binary String](https://leetcode.com/problems/minimum-cost-to-partition-a-binary-string/) | [Harshad Numbers](https://projecteuler.net/problem=387)<br>[Distinct Lines](https://projecteuler.net/problem=388) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 194** | 2026-06-19 | [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [Find Churn Risk Customers](https://leetcode.com/problems/find-churn-risk-customers/) | [Minimum Cost to Partition a Binary String](https://leetcode.com/problems/minimum-cost-to-partition-a-binary-string/) | [Harshad Numbers](https://projecteuler.net/problem=387)<br>[Distinct Lines](https://projecteuler.net/problem=388) |
 | **Day 193** | 2026-06-18 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | [Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/) | [Ellipses Inside Triangles](https://projecteuler.net/problem=385)<br>[Maximum Length of an Antichain](https://projecteuler.net/problem=386) |
 | **Day 192** | 2026-06-17 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Maximum Sum of Three Numbers Divisible by Three](https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three/) | [Minimum Operations to Form Subsequence With Target Sum](https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/) | [Problem 383](https://projecteuler.net/problem=383)<br>[Problem 384](https://projecteuler.net/problem=384) |
 | **Day 191** | 2026-06-16 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/) | [Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/) | [$(	ext{prime}-k)$ Factorial](https://projecteuler.net/problem=381)<br>[Generating Polygons](https://projecteuler.net/problem=382) |
