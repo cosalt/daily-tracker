@@ -1502,5 +1502,13 @@
     "medium": "[Find Churn Risk Customers](https://leetcode.com/problems/find-churn-risk-customers/)",
     "hard": "[Minimum Cost to Partition a Binary String](https://leetcode.com/problems/minimum-cost-to-partition-a-binary-string/)",
     "euler": "[Harshad Numbers](https://projecteuler.net/problem=387)<br>[Distinct Lines](https://projecteuler.net/problem=388)"
+  },
+  {
+    "day": 195,
+    "date": "2026-06-20",
+    "easy": "[Add Binary](https://leetcode.com/problems/add-binary/)",
+    "medium": "[Minimum Flips to Make Binary String Coherent](https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/)",
+    "hard": "[Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/)",
+    "euler": "[Platonic Dice](https://projecteuler.net/problem=389)<br>[Triangles with Non Rational Sides and Integral Area](https://projecteuler.net/problem=390)"
   }
 ]

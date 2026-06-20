@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 194 (Started Dec 8, 2025)
+### Daily Challenge - Day 195 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [Find Churn Risk Customers](https://leetcode.com/problems/find-churn-risk-customers/) | [Minimum Cost to Partition a Binary String](https://leetcode.com/problems/minimum-cost-to-partition-a-binary-string/) | [Harshad Numbers](https://projecteuler.net/problem=387)<br>[Distinct Lines](https://projecteuler.net/problem=388) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Add Binary](https://leetcode.com/problems/add-binary/) | [Minimum Flips to Make Binary String Coherent](https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/) | [Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/) | [Platonic Dice](https://projecteuler.net/problem=389)<br>[Triangles with Non Rational Sides and Integral Area](https://projecteuler.net/problem=390) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 195** | 2026-06-20 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Minimum Flips to Make Binary String Coherent](https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/) | [Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/) | [Platonic Dice](https://projecteuler.net/problem=389)<br>[Triangles with Non Rational Sides and Integral Area](https://projecteuler.net/problem=390) |
 | **Day 194** | 2026-06-19 | [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [Find Churn Risk Customers](https://leetcode.com/problems/find-churn-risk-customers/) | [Minimum Cost to Partition a Binary String](https://leetcode.com/problems/minimum-cost-to-partition-a-binary-string/) | [Harshad Numbers](https://projecteuler.net/problem=387)<br>[Distinct Lines](https://projecteuler.net/problem=388) |
 | **Day 193** | 2026-06-18 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | [Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/) | [Ellipses Inside Triangles](https://projecteuler.net/problem=385)<br>[Maximum Length of an Antichain](https://projecteuler.net/problem=386) |
 | **Day 192** | 2026-06-17 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Maximum Sum of Three Numbers Divisible by Three](https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three/) | [Minimum Operations to Form Subsequence With Target Sum](https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/) | [Problem 383](https://projecteuler.net/problem=383)<br>[Problem 384](https://projecteuler.net/problem=384) |
