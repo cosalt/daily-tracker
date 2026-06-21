@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 195 (Started Dec 8, 2025)
+### Daily Challenge - Day 196 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Add Binary](https://leetcode.com/problems/add-binary/) | [Minimum Flips to Make Binary String Coherent](https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/) | [Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/) | [Platonic Dice](https://projecteuler.net/problem=389)<br>[Triangles with Non Rational Sides and Integral Area](https://projecteuler.net/problem=390) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | [Hopping Game](https://projecteuler.net/problem=391)<br>[Enmeshed Unit Circle](https://projecteuler.net/problem=392) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 196** | 2026-06-21 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | [Hopping Game](https://projecteuler.net/problem=391)<br>[Enmeshed Unit Circle](https://projecteuler.net/problem=392) |
 | **Day 195** | 2026-06-20 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Minimum Flips to Make Binary String Coherent](https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/) | [Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/) | [Platonic Dice](https://projecteuler.net/problem=389)<br>[Triangles with Non Rational Sides and Integral Area](https://projecteuler.net/problem=390) |
 | **Day 194** | 2026-06-19 | [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [Find Churn Risk Customers](https://leetcode.com/problems/find-churn-risk-customers/) | [Minimum Cost to Partition a Binary String](https://leetcode.com/problems/minimum-cost-to-partition-a-binary-string/) | [Harshad Numbers](https://projecteuler.net/problem=387)<br>[Distinct Lines](https://projecteuler.net/problem=388) |
 | **Day 193** | 2026-06-18 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | [Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/) | [Ellipses Inside Triangles](https://projecteuler.net/problem=385)<br>[Maximum Length of an Antichain](https://projecteuler.net/problem=386) |

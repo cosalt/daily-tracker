@@ -1510,5 +1510,13 @@
     "medium": "[Minimum Flips to Make Binary String Coherent](https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/)",
     "hard": "[Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/)",
     "euler": "[Platonic Dice](https://projecteuler.net/problem=389)<br>[Triangles with Non Rational Sides and Integral Area](https://projecteuler.net/problem=390)"
+  },
+  {
+    "day": 196,
+    "date": "2026-06-21",
+    "easy": "[Range Addition II](https://leetcode.com/problems/range-addition-ii/)",
+    "medium": "[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)",
+    "hard": "[Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/)",
+    "euler": "[Hopping Game](https://projecteuler.net/problem=391)<br>[Enmeshed Unit Circle](https://projecteuler.net/problem=392)"
   }
 ]
