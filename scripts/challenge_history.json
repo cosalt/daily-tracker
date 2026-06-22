@@ -1518,5 +1518,13 @@
     "medium": "[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)",
     "hard": "[Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/)",
     "euler": "[Hopping Game](https://projecteuler.net/problem=391)<br>[Enmeshed Unit Circle](https://projecteuler.net/problem=392)"
+  },
+  {
+    "day": 197,
+    "date": "2026-06-22",
+    "easy": "[Find Followers Count](https://leetcode.com/problems/find-followers-count/)",
+    "medium": "[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)",
+    "hard": "[Next Special Palindrome Number](https://leetcode.com/problems/next-special-palindrome-number/)",
+    "euler": "[Migrating Ants](https://projecteuler.net/problem=393)<br>[Eating Pie](https://projecteuler.net/problem=394)"
   }
 ]
