@@ -1526,5 +1526,13 @@
     "medium": "[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)",
     "hard": "[Next Special Palindrome Number](https://leetcode.com/problems/next-special-palindrome-number/)",
     "euler": "[Migrating Ants](https://projecteuler.net/problem=393)<br>[Eating Pie](https://projecteuler.net/problem=394)"
+  },
+  {
+    "day": 198,
+    "date": "2026-06-23",
+    "easy": "[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)",
+    "medium": "[Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/)",
+    "hard": "[Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/)",
+    "euler": "[Pythagorean Tree](https://projecteuler.net/problem=395)<br>[Weak Goodstein Sequence](https://projecteuler.net/problem=396)"
   }
 ]

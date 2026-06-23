@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 197 (Started Dec 8, 2025)
+### Daily Challenge - Day 198 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [Next Special Palindrome Number](https://leetcode.com/problems/next-special-palindrome-number/) | [Migrating Ants](https://projecteuler.net/problem=393)<br>[Eating Pie](https://projecteuler.net/problem=394) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/) | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) | [Pythagorean Tree](https://projecteuler.net/problem=395)<br>[Weak Goodstein Sequence](https://projecteuler.net/problem=396) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 198** | 2026-06-23 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/) | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) | [Pythagorean Tree](https://projecteuler.net/problem=395)<br>[Weak Goodstein Sequence](https://projecteuler.net/problem=396) |
 | **Day 197** | 2026-06-22 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [Next Special Palindrome Number](https://leetcode.com/problems/next-special-palindrome-number/) | [Migrating Ants](https://projecteuler.net/problem=393)<br>[Eating Pie](https://projecteuler.net/problem=394) |
 | **Day 196** | 2026-06-21 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | [Hopping Game](https://projecteuler.net/problem=391)<br>[Enmeshed Unit Circle](https://projecteuler.net/problem=392) |
 | **Day 195** | 2026-06-20 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Minimum Flips to Make Binary String Coherent](https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/) | [Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/) | [Platonic Dice](https://projecteuler.net/problem=389)<br>[Triangles with Non Rational Sides and Integral Area](https://projecteuler.net/problem=390) |
