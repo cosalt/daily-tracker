@@ -1534,5 +1534,13 @@
     "medium": "[Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/)",
     "hard": "[Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/)",
     "euler": "[Pythagorean Tree](https://projecteuler.net/problem=395)<br>[Weak Goodstein Sequence](https://projecteuler.net/problem=396)"
+  },
+  {
+    "day": 199,
+    "date": "2026-06-24",
+    "easy": "[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)",
+    "medium": "[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)",
+    "hard": "[Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes/)",
+    "euler": "[Triangle on Parabola](https://projecteuler.net/problem=397)<br>[Cutting Rope](https://projecteuler.net/problem=398)"
   }
 ]
