@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 199 (Started Dec 8, 2025)
+### Daily Challenge - Day 200 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes/) | [Triangle on Parabola](https://projecteuler.net/problem=397)<br>[Cutting Rope](https://projecteuler.net/problem=398) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/) | [Minimum Array Length After Pair Removals](https://leetcode.com/problems/minimum-array-length-after-pair-removals/) | [Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/) | [Squarefree Fibonacci Numbers](https://projecteuler.net/problem=399)<br>[Fibonacci Tree Game](https://projecteuler.net/problem=400) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 200** | 2026-06-25 | [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/) | [Minimum Array Length After Pair Removals](https://leetcode.com/problems/minimum-array-length-after-pair-removals/) | [Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/) | [Squarefree Fibonacci Numbers](https://projecteuler.net/problem=399)<br>[Fibonacci Tree Game](https://projecteuler.net/problem=400) |
 | **Day 199** | 2026-06-24 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes/) | [Triangle on Parabola](https://projecteuler.net/problem=397)<br>[Cutting Rope](https://projecteuler.net/problem=398) |
 | **Day 198** | 2026-06-23 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/) | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) | [Pythagorean Tree](https://projecteuler.net/problem=395)<br>[Weak Goodstein Sequence](https://projecteuler.net/problem=396) |
 | **Day 197** | 2026-06-22 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [Next Special Palindrome Number](https://leetcode.com/problems/next-special-palindrome-number/) | [Migrating Ants](https://projecteuler.net/problem=393)<br>[Eating Pie](https://projecteuler.net/problem=394) |

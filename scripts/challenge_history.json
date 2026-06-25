@@ -1542,5 +1542,13 @@
     "medium": "[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)",
     "hard": "[Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes/)",
     "euler": "[Triangle on Parabola](https://projecteuler.net/problem=397)<br>[Cutting Rope](https://projecteuler.net/problem=398)"
+  },
+  {
+    "day": 200,
+    "date": "2026-06-25",
+    "easy": "[Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/)",
+    "medium": "[Minimum Array Length After Pair Removals](https://leetcode.com/problems/minimum-array-length-after-pair-removals/)",
+    "hard": "[Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/)",
+    "euler": "[Squarefree Fibonacci Numbers](https://projecteuler.net/problem=399)<br>[Fibonacci Tree Game](https://projecteuler.net/problem=400)"
   }
 ]
