@@ -1550,5 +1550,13 @@
     "medium": "[Minimum Array Length After Pair Removals](https://leetcode.com/problems/minimum-array-length-after-pair-removals/)",
     "hard": "[Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/)",
     "euler": "[Squarefree Fibonacci Numbers](https://projecteuler.net/problem=399)<br>[Fibonacci Tree Game](https://projecteuler.net/problem=400)"
+  },
+  {
+    "day": 201,
+    "date": "2026-06-26",
+    "easy": "[Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)",
+    "medium": "[Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)",
+    "hard": "[Maximum Sum of Alternating Subsequence With Distance at Least K](https://leetcode.com/problems/maximum-sum-of-alternating-subsequence-with-distance-at-least-k/)",
+    "euler": "[Sum of Squares of Divisors](https://projecteuler.net/problem=401)<br>[Integer-valued Polynomials](https://projecteuler.net/problem=402)"
   }
 ]
