@@ -1558,5 +1558,13 @@
     "medium": "[Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)",
     "hard": "[Maximum Sum of Alternating Subsequence With Distance at Least K](https://leetcode.com/problems/maximum-sum-of-alternating-subsequence-with-distance-at-least-k/)",
     "euler": "[Sum of Squares of Divisors](https://projecteuler.net/problem=401)<br>[Integer-valued Polynomials](https://projecteuler.net/problem=402)"
+  },
+  {
+    "day": 202,
+    "date": "2026-06-27",
+    "easy": "[Add Digits](https://leetcode.com/problems/add-digits/)",
+    "medium": "[Valid Square](https://leetcode.com/problems/valid-square/)",
+    "hard": "[Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)",
+    "euler": "[Problem 403](https://projecteuler.net/problem=403)<br>[Problem 404](https://projecteuler.net/problem=404)"
   }
 ]

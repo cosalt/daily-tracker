@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 201 (Started Dec 8, 2025)
+### Daily Challenge - Day 202 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | [Maximum Sum of Alternating Subsequence With Distance at Least K](https://leetcode.com/problems/maximum-sum-of-alternating-subsequence-with-distance-at-least-k/) | [Sum of Squares of Divisors](https://projecteuler.net/problem=401)<br>[Integer-valued Polynomials](https://projecteuler.net/problem=402) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Add Digits](https://leetcode.com/problems/add-digits/) | [Valid Square](https://leetcode.com/problems/valid-square/) | [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/) | [Problem 403](https://projecteuler.net/problem=403)<br>[Problem 404](https://projecteuler.net/problem=404) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 202** | 2026-06-27 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Valid Square](https://leetcode.com/problems/valid-square/) | [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/) | [Problem 403](https://projecteuler.net/problem=403)<br>[Problem 404](https://projecteuler.net/problem=404) |
 | **Day 201** | 2026-06-26 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | [Maximum Sum of Alternating Subsequence With Distance at Least K](https://leetcode.com/problems/maximum-sum-of-alternating-subsequence-with-distance-at-least-k/) | [Sum of Squares of Divisors](https://projecteuler.net/problem=401)<br>[Integer-valued Polynomials](https://projecteuler.net/problem=402) |
 | **Day 200** | 2026-06-25 | [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/) | [Minimum Array Length After Pair Removals](https://leetcode.com/problems/minimum-array-length-after-pair-removals/) | [Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/) | [Squarefree Fibonacci Numbers](https://projecteuler.net/problem=399)<br>[Fibonacci Tree Game](https://projecteuler.net/problem=400) |
 | **Day 199** | 2026-06-24 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes/) | [Triangle on Parabola](https://projecteuler.net/problem=397)<br>[Cutting Rope](https://projecteuler.net/problem=398) |
