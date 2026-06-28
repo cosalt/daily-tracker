@@ -1566,5 +1566,13 @@
     "medium": "[Valid Square](https://leetcode.com/problems/valid-square/)",
     "hard": "[Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)",
     "euler": "[Problem 403](https://projecteuler.net/problem=403)<br>[Problem 404](https://projecteuler.net/problem=404)"
+  },
+  {
+    "day": 203,
+    "date": "2026-06-28",
+    "easy": "[Minimum Swaps to Move Zeros to End](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/)",
+    "medium": "[Partition String ](https://leetcode.com/problems/partition-string/)",
+    "hard": "[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)",
+    "euler": "[A Rectangular Tiling](https://projecteuler.net/problem=405)<br>[Guessing Game](https://projecteuler.net/problem=406)"
   }
 ]
