@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 203 (Started Dec 8, 2025)
+### Daily Challenge - Day 204 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Minimum Swaps to Move Zeros to End](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | [Partition String ](https://leetcode.com/problems/partition-string/) | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [A Rectangular Tiling](https://projecteuler.net/problem=405)<br>[Guessing Game](https://projecteuler.net/problem=406) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | [Maximum and Minimum Sums of at Most Size K Subsequences](https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | [Idempotents](https://projecteuler.net/problem=407)<br>[Admissible Paths Through a Grid](https://projecteuler.net/problem=408) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 204** | 2026-06-29 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | [Maximum and Minimum Sums of at Most Size K Subsequences](https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | [Idempotents](https://projecteuler.net/problem=407)<br>[Admissible Paths Through a Grid](https://projecteuler.net/problem=408) |
 | **Day 203** | 2026-06-28 | [Minimum Swaps to Move Zeros to End](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | [Partition String ](https://leetcode.com/problems/partition-string/) | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [A Rectangular Tiling](https://projecteuler.net/problem=405)<br>[Guessing Game](https://projecteuler.net/problem=406) |
 | **Day 202** | 2026-06-27 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Valid Square](https://leetcode.com/problems/valid-square/) | [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/) | [Problem 403](https://projecteuler.net/problem=403)<br>[Problem 404](https://projecteuler.net/problem=404) |
 | **Day 201** | 2026-06-26 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | [Maximum Sum of Alternating Subsequence With Distance at Least K](https://leetcode.com/problems/maximum-sum-of-alternating-subsequence-with-distance-at-least-k/) | [Sum of Squares of Divisors](https://projecteuler.net/problem=401)<br>[Integer-valued Polynomials](https://projecteuler.net/problem=402) |
