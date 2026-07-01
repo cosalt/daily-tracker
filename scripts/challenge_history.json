@@ -1590,5 +1590,13 @@
     "medium": "[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)",
     "hard": "[Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/)",
     "euler": "[Nim Extreme](https://projecteuler.net/problem=409)<br>[Circle and Tangent Line](https://projecteuler.net/problem=410)"
+  },
+  {
+    "day": 206,
+    "date": "2026-07-01",
+    "easy": "[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)",
+    "medium": "[Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/)",
+    "hard": "[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)",
+    "euler": "[Uphill Paths](https://projecteuler.net/problem=411)<br>[Gnomon Numbering](https://projecteuler.net/problem=412)"
   }
 ]
