@@ -1598,5 +1598,13 @@
     "medium": "[Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/)",
     "hard": "[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)",
     "euler": "[Uphill Paths](https://projecteuler.net/problem=411)<br>[Gnomon Numbering](https://projecteuler.net/problem=412)"
+  },
+  {
+    "day": 207,
+    "date": "2026-07-02",
+    "easy": "[Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/)",
+    "medium": "[Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/)",
+    "hard": "[Count the Number of Inversions](https://leetcode.com/problems/count-the-number-of-inversions/)",
+    "euler": "[One-child Numbers](https://projecteuler.net/problem=413)<br>[Kaprekar Constant](https://projecteuler.net/problem=414)"
   }
 ]

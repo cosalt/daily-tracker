@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 206 (Started Dec 8, 2025)
+### Daily Challenge - Day 207 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/) | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Uphill Paths](https://projecteuler.net/problem=411)<br>[Gnomon Numbering](https://projecteuler.net/problem=412) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/) | [Count the Number of Inversions](https://leetcode.com/problems/count-the-number-of-inversions/) | [One-child Numbers](https://projecteuler.net/problem=413)<br>[Kaprekar Constant](https://projecteuler.net/problem=414) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 207** | 2026-07-02 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/) | [Count the Number of Inversions](https://leetcode.com/problems/count-the-number-of-inversions/) | [One-child Numbers](https://projecteuler.net/problem=413)<br>[Kaprekar Constant](https://projecteuler.net/problem=414) |
 | **Day 206** | 2026-07-01 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/) | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Uphill Paths](https://projecteuler.net/problem=411)<br>[Gnomon Numbering](https://projecteuler.net/problem=412) |
 | **Day 205** | 2026-06-30 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/) | [Nim Extreme](https://projecteuler.net/problem=409)<br>[Circle and Tangent Line](https://projecteuler.net/problem=410) |
 | **Day 204** | 2026-06-29 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | [Maximum and Minimum Sums of at Most Size K Subsequences](https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subsequences/) | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | [Idempotents](https://projecteuler.net/problem=407)<br>[Admissible Paths Through a Grid](https://projecteuler.net/problem=408) |
