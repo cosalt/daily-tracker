@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 207 (Started Dec 8, 2025)
+### Daily Challenge - Day 208 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/) | [Count the Number of Inversions](https://leetcode.com/problems/count-the-number-of-inversions/) | [One-child Numbers](https://projecteuler.net/problem=413)<br>[Kaprekar Constant](https://projecteuler.net/problem=414) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/) | [Titanic Sets](https://projecteuler.net/problem=415)<br>[A Frog's Trip](https://projecteuler.net/problem=416) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 208** | 2026-07-03 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/) | [Titanic Sets](https://projecteuler.net/problem=415)<br>[A Frog's Trip](https://projecteuler.net/problem=416) |
 | **Day 207** | 2026-07-02 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/) | [Count the Number of Inversions](https://leetcode.com/problems/count-the-number-of-inversions/) | [One-child Numbers](https://projecteuler.net/problem=413)<br>[Kaprekar Constant](https://projecteuler.net/problem=414) |
 | **Day 206** | 2026-07-01 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/) | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Uphill Paths](https://projecteuler.net/problem=411)<br>[Gnomon Numbering](https://projecteuler.net/problem=412) |
 | **Day 205** | 2026-06-30 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/) | [Nim Extreme](https://projecteuler.net/problem=409)<br>[Circle and Tangent Line](https://projecteuler.net/problem=410) |
