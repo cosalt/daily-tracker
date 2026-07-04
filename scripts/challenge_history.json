@@ -1614,5 +1614,13 @@
     "medium": "[Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/)",
     "hard": "[Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/)",
     "euler": "[Titanic Sets](https://projecteuler.net/problem=415)<br>[A Frog's Trip](https://projecteuler.net/problem=416)"
+  },
+  {
+    "day": 209,
+    "date": "2026-07-04",
+    "easy": "[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)",
+    "medium": "[Clone Graph](https://leetcode.com/problems/clone-graph/)",
+    "hard": "[Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)",
+    "euler": "[Reciprocal Cycles II](https://projecteuler.net/problem=417)<br>[Factorisation Triples](https://projecteuler.net/problem=418)"
   }
 ]
