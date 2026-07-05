@@ -1622,5 +1622,13 @@
     "medium": "[Clone Graph](https://leetcode.com/problems/clone-graph/)",
     "hard": "[Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)",
     "euler": "[Reciprocal Cycles II](https://projecteuler.net/problem=417)<br>[Factorisation Triples](https://projecteuler.net/problem=418)"
+  },
+  {
+    "day": 210,
+    "date": "2026-07-05",
+    "easy": "[Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/)",
+    "medium": "[Minimum Sensors to Cover Grid](https://leetcode.com/problems/minimum-sensors-to-cover-grid/)",
+    "hard": "[Minimum Stability Factor of Array](https://leetcode.com/problems/minimum-stability-factor-of-array/)",
+    "euler": "[Look and Say Sequence](https://projecteuler.net/problem=419)<br>[$2 \\times 2$ Positive Integer Matrix](https://projecteuler.net/problem=420)"
   }
 ]
