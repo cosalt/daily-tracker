@@ -1630,5 +1630,13 @@
     "medium": "[Minimum Sensors to Cover Grid](https://leetcode.com/problems/minimum-sensors-to-cover-grid/)",
     "hard": "[Minimum Stability Factor of Array](https://leetcode.com/problems/minimum-stability-factor-of-array/)",
     "euler": "[Look and Say Sequence](https://projecteuler.net/problem=419)<br>[$2 \\times 2$ Positive Integer Matrix](https://projecteuler.net/problem=420)"
+  },
+  {
+    "day": 211,
+    "date": "2026-07-06",
+    "easy": "[Reformat The String](https://leetcode.com/problems/reformat-the-string/)",
+    "medium": "[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)",
+    "hard": "[Count Numbers with Non-Decreasing Digits ](https://leetcode.com/problems/count-numbers-with-non-decreasing-digits/)",
+    "euler": "[Prime Factors of $n^{15}+1$](https://projecteuler.net/problem=421)<br>[Sequence of Points on a Hyperbola](https://projecteuler.net/problem=422)"
   }
 ]
