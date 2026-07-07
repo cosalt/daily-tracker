@@ -1638,5 +1638,13 @@
     "medium": "[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)",
     "hard": "[Count Numbers with Non-Decreasing Digits ](https://leetcode.com/problems/count-numbers-with-non-decreasing-digits/)",
     "euler": "[Prime Factors of $n^{15}+1$](https://projecteuler.net/problem=421)<br>[Sequence of Points on a Hyperbola](https://projecteuler.net/problem=422)"
+  },
+  {
+    "day": 212,
+    "date": "2026-07-07",
+    "easy": "[Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/)",
+    "medium": "[Stable Subarrays With Equal Boundary and Interior Sum](https://leetcode.com/problems/stable-subarrays-with-equal-boundary-and-interior-sum/)",
+    "hard": "[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)",
+    "euler": "[Consecutive Die Throws](https://projecteuler.net/problem=423)<br>[Kakuro](https://projecteuler.net/problem=424)"
   }
 ]

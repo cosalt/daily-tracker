@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 211 (Started Dec 8, 2025)
+### Daily Challenge - Day 212 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [Count Numbers with Non-Decreasing Digits ](https://leetcode.com/problems/count-numbers-with-non-decreasing-digits/) | [Prime Factors of $n^{15}+1$](https://projecteuler.net/problem=421)<br>[Sequence of Points on a Hyperbola](https://projecteuler.net/problem=422) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Stable Subarrays With Equal Boundary and Interior Sum](https://leetcode.com/problems/stable-subarrays-with-equal-boundary-and-interior-sum/) | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Consecutive Die Throws](https://projecteuler.net/problem=423)<br>[Kakuro](https://projecteuler.net/problem=424) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 212** | 2026-07-07 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Stable Subarrays With Equal Boundary and Interior Sum](https://leetcode.com/problems/stable-subarrays-with-equal-boundary-and-interior-sum/) | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Consecutive Die Throws](https://projecteuler.net/problem=423)<br>[Kakuro](https://projecteuler.net/problem=424) |
 | **Day 211** | 2026-07-06 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [Count Numbers with Non-Decreasing Digits ](https://leetcode.com/problems/count-numbers-with-non-decreasing-digits/) | [Prime Factors of $n^{15}+1$](https://projecteuler.net/problem=421)<br>[Sequence of Points on a Hyperbola](https://projecteuler.net/problem=422) |
 | **Day 210** | 2026-07-05 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Minimum Sensors to Cover Grid](https://leetcode.com/problems/minimum-sensors-to-cover-grid/) | [Minimum Stability Factor of Array](https://leetcode.com/problems/minimum-stability-factor-of-array/) | [Look and Say Sequence](https://projecteuler.net/problem=419)<br>[$2 	imes 2$ Positive Integer Matrix](https://projecteuler.net/problem=420) |
 | **Day 209** | 2026-07-04 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) | [Reciprocal Cycles II](https://projecteuler.net/problem=417)<br>[Factorisation Triples](https://projecteuler.net/problem=418) |
