@@ -1646,5 +1646,13 @@
     "medium": "[Stable Subarrays With Equal Boundary and Interior Sum](https://leetcode.com/problems/stable-subarrays-with-equal-boundary-and-interior-sum/)",
     "hard": "[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)",
     "euler": "[Consecutive Die Throws](https://projecteuler.net/problem=423)<br>[Kakuro](https://projecteuler.net/problem=424)"
+  },
+  {
+    "day": 213,
+    "date": "2026-07-08",
+    "easy": "[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)",
+    "medium": "[Random Pick Index](https://leetcode.com/problems/random-pick-index/)",
+    "hard": "[Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/)",
+    "euler": "[Prime Connection](https://projecteuler.net/problem=425)<br>[Box-Ball System](https://projecteuler.net/problem=426)"
   }
 ]
