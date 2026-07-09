@@ -1654,5 +1654,13 @@
     "medium": "[Random Pick Index](https://leetcode.com/problems/random-pick-index/)",
     "hard": "[Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/)",
     "euler": "[Prime Connection](https://projecteuler.net/problem=425)<br>[Box-Ball System](https://projecteuler.net/problem=426)"
+  },
+  {
+    "day": 214,
+    "date": "2026-07-09",
+    "easy": "[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)",
+    "medium": "[Design Underground System](https://leetcode.com/problems/design-underground-system/)",
+    "hard": "[Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/)",
+    "euler": "[$n$-sequences](https://projecteuler.net/problem=427)<br>[Necklace of Circles](https://projecteuler.net/problem=428)"
   }
 ]
