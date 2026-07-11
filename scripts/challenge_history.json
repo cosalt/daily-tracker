@@ -1670,5 +1670,13 @@
     "medium": "[Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)",
     "hard": "[Count Good Integers in a Range](https://leetcode.com/problems/count-good-integers-in-a-range/)",
     "euler": "[Sum of Squares of Unitary Divisors](https://projecteuler.net/problem=429)<br>[Range Flips](https://projecteuler.net/problem=430)"
+  },
+  {
+    "day": 216,
+    "date": "2026-07-11",
+    "easy": "[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)",
+    "medium": "[Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/)",
+    "hard": "[Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/)",
+    "euler": "[Square Space Silo](https://projecteuler.net/problem=431)<br>[Totient Sum](https://projecteuler.net/problem=432)"
   }
 ]
