@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 216 (Started Dec 8, 2025)
+### Daily Challenge - Day 217 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [Square Space Silo](https://projecteuler.net/problem=431)<br>[Totient Sum](https://projecteuler.net/problem=432) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Race Car](https://leetcode.com/problems/race-car/) | [Steps in Euclid's Algorithm](https://projecteuler.net/problem=433)<br>[Rigid Graphs](https://projecteuler.net/problem=434) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 217** | 2026-07-12 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Race Car](https://leetcode.com/problems/race-car/) | [Steps in Euclid's Algorithm](https://projecteuler.net/problem=433)<br>[Rigid Graphs](https://projecteuler.net/problem=434) |
 | **Day 216** | 2026-07-11 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [Square Space Silo](https://projecteuler.net/problem=431)<br>[Totient Sum](https://projecteuler.net/problem=432) |
 | **Day 215** | 2026-07-10 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | [Count Good Integers in a Range](https://leetcode.com/problems/count-good-integers-in-a-range/) | [Sum of Squares of Unitary Divisors](https://projecteuler.net/problem=429)<br>[Range Flips](https://projecteuler.net/problem=430) |
 | **Day 214** | 2026-07-09 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [$n$-sequences](https://projecteuler.net/problem=427)<br>[Necklace of Circles](https://projecteuler.net/problem=428) |

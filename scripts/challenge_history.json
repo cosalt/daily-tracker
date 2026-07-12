@@ -1678,5 +1678,13 @@
     "medium": "[Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/)",
     "hard": "[Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/)",
     "euler": "[Square Space Silo](https://projecteuler.net/problem=431)<br>[Totient Sum](https://projecteuler.net/problem=432)"
+  },
+  {
+    "day": 217,
+    "date": "2026-07-12",
+    "easy": "[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)",
+    "medium": "[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)",
+    "hard": "[Race Car](https://leetcode.com/problems/race-car/)",
+    "euler": "[Steps in Euclid's Algorithm](https://projecteuler.net/problem=433)<br>[Rigid Graphs](https://projecteuler.net/problem=434)"
   }
 ]
