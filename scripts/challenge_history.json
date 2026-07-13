@@ -1686,5 +1686,13 @@
     "medium": "[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)",
     "hard": "[Race Car](https://leetcode.com/problems/race-car/)",
     "euler": "[Steps in Euclid's Algorithm](https://projecteuler.net/problem=433)<br>[Rigid Graphs](https://projecteuler.net/problem=434)"
+  },
+  {
+    "day": 218,
+    "date": "2026-07-13",
+    "easy": "[Minimum Number of Flips to Reverse Binary String](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/)",
+    "medium": "[Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)",
+    "hard": "[Find the Maximum Sequence Value of Array](https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/)",
+    "euler": "[Polynomials of Fibonacci Numbers](https://projecteuler.net/problem=435)<br>[Unfair Wager](https://projecteuler.net/problem=436)"
   }
 ]

@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 217 (Started Dec 8, 2025)
+### Daily Challenge - Day 218 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Race Car](https://leetcode.com/problems/race-car/) | [Steps in Euclid's Algorithm](https://projecteuler.net/problem=433)<br>[Rigid Graphs](https://projecteuler.net/problem=434) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Minimum Number of Flips to Reverse Binary String](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/) | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | [Find the Maximum Sequence Value of Array](https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/) | [Polynomials of Fibonacci Numbers](https://projecteuler.net/problem=435)<br>[Unfair Wager](https://projecteuler.net/problem=436) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 218** | 2026-07-13 | [Minimum Number of Flips to Reverse Binary String](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/) | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | [Find the Maximum Sequence Value of Array](https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/) | [Polynomials of Fibonacci Numbers](https://projecteuler.net/problem=435)<br>[Unfair Wager](https://projecteuler.net/problem=436) |
 | **Day 217** | 2026-07-12 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Race Car](https://leetcode.com/problems/race-car/) | [Steps in Euclid's Algorithm](https://projecteuler.net/problem=433)<br>[Rigid Graphs](https://projecteuler.net/problem=434) |
 | **Day 216** | 2026-07-11 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [Square Space Silo](https://projecteuler.net/problem=431)<br>[Totient Sum](https://projecteuler.net/problem=432) |
 | **Day 215** | 2026-07-10 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | [Count Good Integers in a Range](https://leetcode.com/problems/count-good-integers-in-a-range/) | [Sum of Squares of Unitary Divisors](https://projecteuler.net/problem=429)<br>[Range Flips](https://projecteuler.net/problem=430) |
