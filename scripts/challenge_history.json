@@ -1694,5 +1694,13 @@
     "medium": "[Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)",
     "hard": "[Find the Maximum Sequence Value of Array](https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/)",
     "euler": "[Polynomials of Fibonacci Numbers](https://projecteuler.net/problem=435)<br>[Unfair Wager](https://projecteuler.net/problem=436)"
+  },
+  {
+    "day": 219,
+    "date": "2026-07-14",
+    "easy": "[Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/)",
+    "medium": "[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)",
+    "hard": "[Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/)",
+    "euler": "[Fibonacci Primitive Roots](https://projecteuler.net/problem=437)<br>[Integer Part of Polynomial Equation's Solutions](https://projecteuler.net/problem=438)"
   }
 ]
