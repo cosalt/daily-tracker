@@ -1702,5 +1702,13 @@
     "medium": "[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)",
     "hard": "[Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/)",
     "euler": "[Fibonacci Primitive Roots](https://projecteuler.net/problem=437)<br>[Integer Part of Polynomial Equation's Solutions](https://projecteuler.net/problem=438)"
+  },
+  {
+    "day": 220,
+    "date": "2026-07-15",
+    "easy": "[Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/)",
+    "medium": "[K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)",
+    "hard": "[Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/)",
+    "euler": "[Sum of Sum of Divisors](https://projecteuler.net/problem=439)<br>[GCD and Tiling](https://projecteuler.net/problem=440)"
   }
 ]
