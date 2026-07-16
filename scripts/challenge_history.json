@@ -1710,5 +1710,13 @@
     "medium": "[K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)",
     "hard": "[Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/)",
     "euler": "[Sum of Sum of Divisors](https://projecteuler.net/problem=439)<br>[GCD and Tiling](https://projecteuler.net/problem=440)"
+  },
+  {
+    "day": 221,
+    "date": "2026-07-16",
+    "easy": "[Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/)",
+    "medium": "[Gas Station](https://leetcode.com/problems/gas-station/)",
+    "hard": "[Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)",
+    "euler": "[The Inverse Summation of Coprime Couples](https://projecteuler.net/problem=441)<br>[Eleven-free Integers](https://projecteuler.net/problem=442)"
   }
 ]

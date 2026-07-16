@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 220 (Started Dec 8, 2025)
+### Daily Challenge - Day 221 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/) | [Sum of Sum of Divisors](https://projecteuler.net/problem=439)<br>[GCD and Tiling](https://projecteuler.net/problem=440) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | [Gas Station](https://leetcode.com/problems/gas-station/) | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [The Inverse Summation of Coprime Couples](https://projecteuler.net/problem=441)<br>[Eleven-free Integers](https://projecteuler.net/problem=442) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 221** | 2026-07-16 | [Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | [Gas Station](https://leetcode.com/problems/gas-station/) | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [The Inverse Summation of Coprime Couples](https://projecteuler.net/problem=441)<br>[Eleven-free Integers](https://projecteuler.net/problem=442) |
 | **Day 220** | 2026-07-15 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/) | [Sum of Sum of Divisors](https://projecteuler.net/problem=439)<br>[GCD and Tiling](https://projecteuler.net/problem=440) |
 | **Day 219** | 2026-07-14 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | [Fibonacci Primitive Roots](https://projecteuler.net/problem=437)<br>[Integer Part of Polynomial Equation's Solutions](https://projecteuler.net/problem=438) |
 | **Day 218** | 2026-07-13 | [Minimum Number of Flips to Reverse Binary String](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/) | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | [Find the Maximum Sequence Value of Array](https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/) | [Polynomials of Fibonacci Numbers](https://projecteuler.net/problem=435)<br>[Unfair Wager](https://projecteuler.net/problem=436) |
