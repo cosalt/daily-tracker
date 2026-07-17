@@ -1718,5 +1718,13 @@
     "medium": "[Gas Station](https://leetcode.com/problems/gas-station/)",
     "hard": "[Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)",
     "euler": "[The Inverse Summation of Coprime Couples](https://projecteuler.net/problem=441)<br>[Eleven-free Integers](https://projecteuler.net/problem=442)"
+  },
+  {
+    "day": 222,
+    "date": "2026-07-17",
+    "easy": "[Majority Element](https://leetcode.com/problems/majority-element/)",
+    "medium": "[Minimum String Length After Balanced Removals](https://leetcode.com/problems/minimum-string-length-after-balanced-removals/)",
+    "hard": "[Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/)",
+    "euler": "[GCD Sequence](https://projecteuler.net/problem=443)<br>[The Roundtable Lottery](https://projecteuler.net/problem=444)"
   }
 ]
