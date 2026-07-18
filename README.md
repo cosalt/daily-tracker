@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 222 (Started Dec 8, 2025)
+### Daily Challenge - Day 223 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Majority Element](https://leetcode.com/problems/majority-element/) | [Minimum String Length After Balanced Removals](https://leetcode.com/problems/minimum-string-length-after-balanced-removals/) | [Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | [GCD Sequence](https://projecteuler.net/problem=443)<br>[The Roundtable Lottery](https://projecteuler.net/problem=444) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [Find Loyal Customers](https://leetcode.com/problems/find-loyal-customers/) | [Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/) | [Retractions A](https://projecteuler.net/problem=445)<br>[Retractions B](https://projecteuler.net/problem=446) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 223** | 2026-07-18 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [Find Loyal Customers](https://leetcode.com/problems/find-loyal-customers/) | [Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/) | [Retractions A](https://projecteuler.net/problem=445)<br>[Retractions B](https://projecteuler.net/problem=446) |
 | **Day 222** | 2026-07-17 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Minimum String Length After Balanced Removals](https://leetcode.com/problems/minimum-string-length-after-balanced-removals/) | [Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | [GCD Sequence](https://projecteuler.net/problem=443)<br>[The Roundtable Lottery](https://projecteuler.net/problem=444) |
 | **Day 221** | 2026-07-16 | [Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | [Gas Station](https://leetcode.com/problems/gas-station/) | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [The Inverse Summation of Coprime Couples](https://projecteuler.net/problem=441)<br>[Eleven-free Integers](https://projecteuler.net/problem=442) |
 | **Day 220** | 2026-07-15 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/) | [Sum of Sum of Divisors](https://projecteuler.net/problem=439)<br>[GCD and Tiling](https://projecteuler.net/problem=440) |

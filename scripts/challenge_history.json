@@ -1726,5 +1726,13 @@
     "medium": "[Minimum String Length After Balanced Removals](https://leetcode.com/problems/minimum-string-length-after-balanced-removals/)",
     "hard": "[Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/)",
     "euler": "[GCD Sequence](https://projecteuler.net/problem=443)<br>[The Roundtable Lottery](https://projecteuler.net/problem=444)"
+  },
+  {
+    "day": 223,
+    "date": "2026-07-18",
+    "easy": "[Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)",
+    "medium": "[Find Loyal Customers](https://leetcode.com/problems/find-loyal-customers/)",
+    "hard": "[Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/)",
+    "euler": "[Retractions A](https://projecteuler.net/problem=445)<br>[Retractions B](https://projecteuler.net/problem=446)"
   }
 ]
