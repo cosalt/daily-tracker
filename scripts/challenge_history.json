@@ -1734,5 +1734,13 @@
     "medium": "[Find Loyal Customers](https://leetcode.com/problems/find-loyal-customers/)",
     "hard": "[Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/)",
     "euler": "[Retractions A](https://projecteuler.net/problem=445)<br>[Retractions B](https://projecteuler.net/problem=446)"
+  },
+  {
+    "day": 224,
+    "date": "2026-07-19",
+    "easy": "[Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/)",
+    "medium": "[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)",
+    "hard": "[Count Increasing Quadruplets](https://leetcode.com/problems/count-increasing-quadruplets/)",
+    "euler": "[Retractions C](https://projecteuler.net/problem=447)<br>[Average Least Common Multiple](https://projecteuler.net/problem=448)"
   }
 ]

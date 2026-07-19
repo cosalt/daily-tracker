@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 223 (Started Dec 8, 2025)
+### Daily Challenge - Day 224 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [Find Loyal Customers](https://leetcode.com/problems/find-loyal-customers/) | [Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/) | [Retractions A](https://projecteuler.net/problem=445)<br>[Retractions B](https://projecteuler.net/problem=446) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [Count Increasing Quadruplets](https://leetcode.com/problems/count-increasing-quadruplets/) | [Retractions C](https://projecteuler.net/problem=447)<br>[Average Least Common Multiple](https://projecteuler.net/problem=448) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 224** | 2026-07-19 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [Count Increasing Quadruplets](https://leetcode.com/problems/count-increasing-quadruplets/) | [Retractions C](https://projecteuler.net/problem=447)<br>[Average Least Common Multiple](https://projecteuler.net/problem=448) |
 | **Day 223** | 2026-07-18 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [Find Loyal Customers](https://leetcode.com/problems/find-loyal-customers/) | [Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/) | [Retractions A](https://projecteuler.net/problem=445)<br>[Retractions B](https://projecteuler.net/problem=446) |
 | **Day 222** | 2026-07-17 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Minimum String Length After Balanced Removals](https://leetcode.com/problems/minimum-string-length-after-balanced-removals/) | [Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | [GCD Sequence](https://projecteuler.net/problem=443)<br>[The Roundtable Lottery](https://projecteuler.net/problem=444) |
 | **Day 221** | 2026-07-16 | [Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | [Gas Station](https://leetcode.com/problems/gas-station/) | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [The Inverse Summation of Coprime Couples](https://projecteuler.net/problem=441)<br>[Eleven-free Integers](https://projecteuler.net/problem=442) |
