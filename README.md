@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 224 (Started Dec 8, 2025)
+### Daily Challenge - Day 225 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [Count Increasing Quadruplets](https://leetcode.com/problems/count-increasing-quadruplets/) | [Retractions C](https://projecteuler.net/problem=447)<br>[Average Least Common Multiple](https://projecteuler.net/problem=448) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/) | [24 Game](https://leetcode.com/problems/24-game/) | [Chocolate Covered Candy](https://projecteuler.net/problem=449)<br>[Hypocycloid and Lattice Points](https://projecteuler.net/problem=450) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 225** | 2026-07-20 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/) | [24 Game](https://leetcode.com/problems/24-game/) | [Chocolate Covered Candy](https://projecteuler.net/problem=449)<br>[Hypocycloid and Lattice Points](https://projecteuler.net/problem=450) |
 | **Day 224** | 2026-07-19 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [Count Increasing Quadruplets](https://leetcode.com/problems/count-increasing-quadruplets/) | [Retractions C](https://projecteuler.net/problem=447)<br>[Average Least Common Multiple](https://projecteuler.net/problem=448) |
 | **Day 223** | 2026-07-18 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [Find Loyal Customers](https://leetcode.com/problems/find-loyal-customers/) | [Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/) | [Retractions A](https://projecteuler.net/problem=445)<br>[Retractions B](https://projecteuler.net/problem=446) |
 | **Day 222** | 2026-07-17 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Minimum String Length After Balanced Removals](https://leetcode.com/problems/minimum-string-length-after-balanced-removals/) | [Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | [GCD Sequence](https://projecteuler.net/problem=443)<br>[The Roundtable Lottery](https://projecteuler.net/problem=444) |

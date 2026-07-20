@@ -1742,5 +1742,13 @@
     "medium": "[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)",
     "hard": "[Count Increasing Quadruplets](https://leetcode.com/problems/count-increasing-quadruplets/)",
     "euler": "[Retractions C](https://projecteuler.net/problem=447)<br>[Average Least Common Multiple](https://projecteuler.net/problem=448)"
+  },
+  {
+    "day": 225,
+    "date": "2026-07-20",
+    "easy": "[Distribute Candies](https://leetcode.com/problems/distribute-candies/)",
+    "medium": "[Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/)",
+    "hard": "[24 Game](https://leetcode.com/problems/24-game/)",
+    "euler": "[Chocolate Covered Candy](https://projecteuler.net/problem=449)<br>[Hypocycloid and Lattice Points](https://projecteuler.net/problem=450)"
   }
 ]
