@@ -1750,5 +1750,13 @@
     "medium": "[Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/)",
     "hard": "[24 Game](https://leetcode.com/problems/24-game/)",
     "euler": "[Chocolate Covered Candy](https://projecteuler.net/problem=449)<br>[Hypocycloid and Lattice Points](https://projecteuler.net/problem=450)"
+  },
+  {
+    "day": 226,
+    "date": "2026-07-21",
+    "easy": "[Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/)",
+    "medium": "[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)",
+    "hard": "[Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/)",
+    "euler": "[Modular Inverses](https://projecteuler.net/problem=451)<br>[Long Products](https://projecteuler.net/problem=452)"
   }
 ]
