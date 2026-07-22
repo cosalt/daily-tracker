@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 226 (Started Dec 8, 2025)
+### Daily Challenge - Day 227 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | [Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/) | [Modular Inverses](https://projecteuler.net/problem=451)<br>[Long Products](https://projecteuler.net/problem=452) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | [Lattice Quadrilaterals](https://projecteuler.net/problem=453)<br>[Diophantine Reciprocals III](https://projecteuler.net/problem=454) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 227** | 2026-07-22 | [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | [Lattice Quadrilaterals](https://projecteuler.net/problem=453)<br>[Diophantine Reciprocals III](https://projecteuler.net/problem=454) |
 | **Day 226** | 2026-07-21 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | [Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/) | [Modular Inverses](https://projecteuler.net/problem=451)<br>[Long Products](https://projecteuler.net/problem=452) |
 | **Day 225** | 2026-07-20 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/) | [24 Game](https://leetcode.com/problems/24-game/) | [Chocolate Covered Candy](https://projecteuler.net/problem=449)<br>[Hypocycloid and Lattice Points](https://projecteuler.net/problem=450) |
 | **Day 224** | 2026-07-19 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [Count Increasing Quadruplets](https://leetcode.com/problems/count-increasing-quadruplets/) | [Retractions C](https://projecteuler.net/problem=447)<br>[Average Least Common Multiple](https://projecteuler.net/problem=448) |

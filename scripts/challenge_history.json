@@ -1758,5 +1758,13 @@
     "medium": "[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)",
     "hard": "[Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/)",
     "euler": "[Modular Inverses](https://projecteuler.net/problem=451)<br>[Long Products](https://projecteuler.net/problem=452)"
+  },
+  {
+    "day": 227,
+    "date": "2026-07-22",
+    "easy": "[Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/)",
+    "medium": "[Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/)",
+    "hard": "[Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/)",
+    "euler": "[Lattice Quadrilaterals](https://projecteuler.net/problem=453)<br>[Diophantine Reciprocals III](https://projecteuler.net/problem=454)"
   }
 ]
