@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 227 (Started Dec 8, 2025)
+### Daily Challenge - Day 228 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | [Lattice Quadrilaterals](https://projecteuler.net/problem=453)<br>[Diophantine Reciprocals III](https://projecteuler.net/problem=454) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/) | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [Powers with Trailing Digits](https://projecteuler.net/problem=455)<br>[Triangles Containing the Origin II](https://projecteuler.net/problem=456) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 228** | 2026-07-23 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/) | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [Powers with Trailing Digits](https://projecteuler.net/problem=455)<br>[Triangles Containing the Origin II](https://projecteuler.net/problem=456) |
 | **Day 227** | 2026-07-22 | [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | [Lattice Quadrilaterals](https://projecteuler.net/problem=453)<br>[Diophantine Reciprocals III](https://projecteuler.net/problem=454) |
 | **Day 226** | 2026-07-21 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | [Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/) | [Modular Inverses](https://projecteuler.net/problem=451)<br>[Long Products](https://projecteuler.net/problem=452) |
 | **Day 225** | 2026-07-20 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/) | [24 Game](https://leetcode.com/problems/24-game/) | [Chocolate Covered Candy](https://projecteuler.net/problem=449)<br>[Hypocycloid and Lattice Points](https://projecteuler.net/problem=450) |

@@ -1766,5 +1766,13 @@
     "medium": "[Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/)",
     "hard": "[Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/)",
     "euler": "[Lattice Quadrilaterals](https://projecteuler.net/problem=453)<br>[Diophantine Reciprocals III](https://projecteuler.net/problem=454)"
+  },
+  {
+    "day": 228,
+    "date": "2026-07-23",
+    "easy": "[Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)",
+    "medium": "[Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/)",
+    "hard": "[Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/)",
+    "euler": "[Powers with Trailing Digits](https://projecteuler.net/problem=455)<br>[Triangles Containing the Origin II](https://projecteuler.net/problem=456)"
   }
 ]
