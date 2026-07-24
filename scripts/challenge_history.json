@@ -1774,5 +1774,13 @@
     "medium": "[Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/)",
     "hard": "[Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/)",
     "euler": "[Powers with Trailing Digits](https://projecteuler.net/problem=455)<br>[Triangles Containing the Origin II](https://projecteuler.net/problem=456)"
+  },
+  {
+    "day": 229,
+    "date": "2026-07-24",
+    "easy": "[Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/)",
+    "medium": "[Reorganize String](https://leetcode.com/problems/reorganize-string/)",
+    "hard": "[Minimum Cost to Divide Array Into Subarrays](https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays/)",
+    "euler": "[A Polynomial Modulo the Square of a Prime](https://projecteuler.net/problem=457)<br>[Permutations of Project](https://projecteuler.net/problem=458)"
   }
 ]
