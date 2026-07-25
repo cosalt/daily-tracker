@@ -1782,5 +1782,13 @@
     "medium": "[Reorganize String](https://leetcode.com/problems/reorganize-string/)",
     "hard": "[Minimum Cost to Divide Array Into Subarrays](https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays/)",
     "euler": "[A Polynomial Modulo the Square of a Prime](https://projecteuler.net/problem=457)<br>[Permutations of Project](https://projecteuler.net/problem=458)"
+  },
+  {
+    "day": 230,
+    "date": "2026-07-25",
+    "easy": "[Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/)",
+    "medium": "[Minimum Time to Visit Disappearing Nodes](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/)",
+    "hard": "[Stone Game III](https://leetcode.com/problems/stone-game-iii/)",
+    "euler": "[Flipping Game](https://projecteuler.net/problem=459)<br>[An Ant on the Move](https://projecteuler.net/problem=460)"
   }
 ]

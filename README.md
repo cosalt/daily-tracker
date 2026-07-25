@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 229 (Started Dec 8, 2025)
+### Daily Challenge - Day 230 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/) | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Minimum Cost to Divide Array Into Subarrays](https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays/) | [A Polynomial Modulo the Square of a Prime](https://projecteuler.net/problem=457)<br>[Permutations of Project](https://projecteuler.net/problem=458) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [Minimum Time to Visit Disappearing Nodes](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/) | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [Flipping Game](https://projecteuler.net/problem=459)<br>[An Ant on the Move](https://projecteuler.net/problem=460) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 230** | 2026-07-25 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [Minimum Time to Visit Disappearing Nodes](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/) | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [Flipping Game](https://projecteuler.net/problem=459)<br>[An Ant on the Move](https://projecteuler.net/problem=460) |
 | **Day 229** | 2026-07-24 | [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/) | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [Minimum Cost to Divide Array Into Subarrays](https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays/) | [A Polynomial Modulo the Square of a Prime](https://projecteuler.net/problem=457)<br>[Permutations of Project](https://projecteuler.net/problem=458) |
 | **Day 228** | 2026-07-23 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/) | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [Powers with Trailing Digits](https://projecteuler.net/problem=455)<br>[Triangles Containing the Origin II](https://projecteuler.net/problem=456) |
 | **Day 227** | 2026-07-22 | [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | [Lattice Quadrilaterals](https://projecteuler.net/problem=453)<br>[Diophantine Reciprocals III](https://projecteuler.net/problem=454) |
