@@ -1790,5 +1790,13 @@
     "medium": "[Minimum Time to Visit Disappearing Nodes](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/)",
     "hard": "[Stone Game III](https://leetcode.com/problems/stone-game-iii/)",
     "euler": "[Flipping Game](https://projecteuler.net/problem=459)<br>[An Ant on the Move](https://projecteuler.net/problem=460)"
+  },
+  {
+    "day": 231,
+    "date": "2026-07-26",
+    "easy": "[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)",
+    "medium": "[3Sum Closest](https://leetcode.com/problems/3sum-closest/)",
+    "hard": "[Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/)",
+    "euler": "[Almost Pi](https://projecteuler.net/problem=461)<br>[Permutation of 3-smooth Numbers](https://projecteuler.net/problem=462)"
   }
 ]
