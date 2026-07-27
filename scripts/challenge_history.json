@@ -1798,5 +1798,13 @@
     "medium": "[3Sum Closest](https://leetcode.com/problems/3sum-closest/)",
     "hard": "[Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/)",
     "euler": "[Almost Pi](https://projecteuler.net/problem=461)<br>[Permutation of 3-smooth Numbers](https://projecteuler.net/problem=462)"
+  },
+  {
+    "day": 232,
+    "date": "2026-07-27",
+    "easy": "[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)",
+    "medium": "[Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/)",
+    "hard": "[Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)",
+    "euler": "[A Weird Recurrence Relation](https://projecteuler.net/problem=463)<br>[M\u00f6bius Function and Intervals](https://projecteuler.net/problem=464)"
   }
 ]
