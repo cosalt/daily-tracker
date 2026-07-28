@@ -1806,5 +1806,13 @@
     "medium": "[Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/)",
     "hard": "[Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)",
     "euler": "[A Weird Recurrence Relation](https://projecteuler.net/problem=463)<br>[M\u00f6bius Function and Intervals](https://projecteuler.net/problem=464)"
+  },
+  {
+    "day": 233,
+    "date": "2026-07-28",
+    "easy": "[Missing Number](https://leetcode.com/problems/missing-number/)",
+    "medium": "[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)",
+    "hard": "[Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)",
+    "euler": "[Polar Polygons](https://projecteuler.net/problem=465)<br>[Distinct Terms in a Multiplication Table](https://projecteuler.net/problem=466)"
   }
 ]

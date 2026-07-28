@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 232 (Started Dec 8, 2025)
+### Daily Challenge - Day 233 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [A Weird Recurrence Relation](https://projecteuler.net/problem=463)<br>[Möbius Function and Intervals](https://projecteuler.net/problem=464) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Missing Number](https://leetcode.com/problems/missing-number/) | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | [Polar Polygons](https://projecteuler.net/problem=465)<br>[Distinct Terms in a Multiplication Table](https://projecteuler.net/problem=466) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 233** | 2026-07-28 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | [Polar Polygons](https://projecteuler.net/problem=465)<br>[Distinct Terms in a Multiplication Table](https://projecteuler.net/problem=466) |
 | **Day 232** | 2026-07-27 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [A Weird Recurrence Relation](https://projecteuler.net/problem=463)<br>[Möbius Function and Intervals](https://projecteuler.net/problem=464) |
 | **Day 231** | 2026-07-26 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/) | [Almost Pi](https://projecteuler.net/problem=461)<br>[Permutation of 3-smooth Numbers](https://projecteuler.net/problem=462) |
 | **Day 230** | 2026-07-25 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [Minimum Time to Visit Disappearing Nodes](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/) | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [Flipping Game](https://projecteuler.net/problem=459)<br>[An Ant on the Move](https://projecteuler.net/problem=460) |
