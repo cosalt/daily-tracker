@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 233 (Started Dec 8, 2025)
+### Daily Challenge - Day 234 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Missing Number](https://leetcode.com/problems/missing-number/) | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | [Polar Polygons](https://projecteuler.net/problem=465)<br>[Distinct Terms in a Multiplication Table](https://projecteuler.net/problem=466) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | [Count Special Integers](https://leetcode.com/problems/count-special-integers/) | [Superinteger](https://projecteuler.net/problem=467)<br>[Smooth Divisors of Binomial Coefficients](https://projecteuler.net/problem=468) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 234** | 2026-07-29 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | [Count Special Integers](https://leetcode.com/problems/count-special-integers/) | [Superinteger](https://projecteuler.net/problem=467)<br>[Smooth Divisors of Binomial Coefficients](https://projecteuler.net/problem=468) |
 | **Day 233** | 2026-07-28 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | [Polar Polygons](https://projecteuler.net/problem=465)<br>[Distinct Terms in a Multiplication Table](https://projecteuler.net/problem=466) |
 | **Day 232** | 2026-07-27 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [A Weird Recurrence Relation](https://projecteuler.net/problem=463)<br>[Möbius Function and Intervals](https://projecteuler.net/problem=464) |
 | **Day 231** | 2026-07-26 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/) | [Almost Pi](https://projecteuler.net/problem=461)<br>[Permutation of 3-smooth Numbers](https://projecteuler.net/problem=462) |

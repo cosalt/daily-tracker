@@ -1814,5 +1814,13 @@
     "medium": "[Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)",
     "hard": "[Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)",
     "euler": "[Polar Polygons](https://projecteuler.net/problem=465)<br>[Distinct Terms in a Multiplication Table](https://projecteuler.net/problem=466)"
+  },
+  {
+    "day": 234,
+    "date": "2026-07-29",
+    "easy": "[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)",
+    "medium": "[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/)",
+    "hard": "[Count Special Integers](https://leetcode.com/problems/count-special-integers/)",
+    "euler": "[Superinteger](https://projecteuler.net/problem=467)<br>[Smooth Divisors of Binomial Coefficients](https://projecteuler.net/problem=468)"
   }
 ]
