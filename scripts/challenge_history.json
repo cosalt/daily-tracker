@@ -1822,5 +1822,13 @@
     "medium": "[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/)",
     "hard": "[Count Special Integers](https://leetcode.com/problems/count-special-integers/)",
     "euler": "[Superinteger](https://projecteuler.net/problem=467)<br>[Smooth Divisors of Binomial Coefficients](https://projecteuler.net/problem=468)"
+  },
+  {
+    "day": 235,
+    "date": "2026-07-30",
+    "easy": "[Water Bottles](https://leetcode.com/problems/water-bottles/)",
+    "medium": "[Redundant Connection](https://leetcode.com/problems/redundant-connection/)",
+    "hard": "[Count Distinct Ways to Form Target from Two Strings](https://leetcode.com/problems/count-distinct-ways-to-form-target-from-two-strings/)",
+    "euler": "[Empty Chairs](https://projecteuler.net/problem=469)<br>[Super Ramvok](https://projecteuler.net/problem=470)"
   }
 ]
