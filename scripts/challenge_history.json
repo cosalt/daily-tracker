@@ -1830,5 +1830,13 @@
     "medium": "[Redundant Connection](https://leetcode.com/problems/redundant-connection/)",
     "hard": "[Count Distinct Ways to Form Target from Two Strings](https://leetcode.com/problems/count-distinct-ways-to-form-target-from-two-strings/)",
     "euler": "[Empty Chairs](https://projecteuler.net/problem=469)<br>[Super Ramvok](https://projecteuler.net/problem=470)"
+  },
+  {
+    "day": 236,
+    "date": "2026-07-31",
+    "easy": "[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)",
+    "medium": "[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)",
+    "hard": "[Count Ways to Make Array With Product](https://leetcode.com/problems/count-ways-to-make-array-with-product/)",
+    "euler": "[Triangle Inscribed in Ellipse](https://projecteuler.net/problem=471)<br>[Comfortable Distance II](https://projecteuler.net/problem=472)"
   }
 ]
