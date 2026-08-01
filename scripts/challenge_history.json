@@ -1838,5 +1838,13 @@
     "medium": "[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)",
     "hard": "[Count Ways to Make Array With Product](https://leetcode.com/problems/count-ways-to-make-array-with-product/)",
     "euler": "[Triangle Inscribed in Ellipse](https://projecteuler.net/problem=471)<br>[Comfortable Distance II](https://projecteuler.net/problem=472)"
+  },
+  {
+    "day": 237,
+    "date": "2026-08-01",
+    "easy": "[Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)",
+    "medium": "[Best Reachable Tower](https://leetcode.com/problems/best-reachable-tower/)",
+    "hard": "[Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/)",
+    "euler": "[Phigital Number Base](https://projecteuler.net/problem=473)<br>[Last Digits of Divisors](https://projecteuler.net/problem=474)"
   }
 ]
