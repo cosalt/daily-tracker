@@ -1846,5 +1846,13 @@
     "medium": "[Best Reachable Tower](https://leetcode.com/problems/best-reachable-tower/)",
     "hard": "[Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/)",
     "euler": "[Phigital Number Base](https://projecteuler.net/problem=473)<br>[Last Digits of Divisors](https://projecteuler.net/problem=474)"
+  },
+  {
+    "day": 238,
+    "date": "2026-08-02",
+    "easy": "[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)",
+    "medium": "[People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/)",
+    "hard": "[Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/)",
+    "euler": "[Music Festival](https://projecteuler.net/problem=475)<br>[Circle Packing II](https://projecteuler.net/problem=476)"
   }
 ]

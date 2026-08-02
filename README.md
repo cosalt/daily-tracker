@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 237 (Started Dec 8, 2025)
+### Daily Challenge - Day 238 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [Best Reachable Tower](https://leetcode.com/problems/best-reachable-tower/) | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [Phigital Number Base](https://projecteuler.net/problem=473)<br>[Last Digits of Divisors](https://projecteuler.net/problem=474) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Music Festival](https://projecteuler.net/problem=475)<br>[Circle Packing II](https://projecteuler.net/problem=476) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 238** | 2026-08-02 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Music Festival](https://projecteuler.net/problem=475)<br>[Circle Packing II](https://projecteuler.net/problem=476) |
 | **Day 237** | 2026-08-01 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [Best Reachable Tower](https://leetcode.com/problems/best-reachable-tower/) | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [Phigital Number Base](https://projecteuler.net/problem=473)<br>[Last Digits of Divisors](https://projecteuler.net/problem=474) |
 | **Day 236** | 2026-07-31 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Count Ways to Make Array With Product](https://leetcode.com/problems/count-ways-to-make-array-with-product/) | [Triangle Inscribed in Ellipse](https://projecteuler.net/problem=471)<br>[Comfortable Distance II](https://projecteuler.net/problem=472) |
 | **Day 235** | 2026-07-30 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Count Distinct Ways to Form Target from Two Strings](https://leetcode.com/problems/count-distinct-ways-to-form-target-from-two-strings/) | [Empty Chairs](https://projecteuler.net/problem=469)<br>[Super Ramvok](https://projecteuler.net/problem=470) |
