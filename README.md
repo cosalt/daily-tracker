@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 239 (Started Dec 8, 2025)
+### Daily Challenge - Day 240 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Lexicographically Smallest String After Substring Operation](https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/) | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | [Number Sequence Game](https://projecteuler.net/problem=477)<br>[Mixtures](https://projecteuler.net/problem=478) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) | [Number of Subarrays That Match a Pattern I](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/) | [Find Number of Ways to Reach the K-th Stair](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/) | [Roots on the Rise](https://projecteuler.net/problem=479)<br>[The Last Question](https://projecteuler.net/problem=480) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 240** | 2026-08-04 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) | [Number of Subarrays That Match a Pattern I](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/) | [Find Number of Ways to Reach the K-th Stair](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/) | [Roots on the Rise](https://projecteuler.net/problem=479)<br>[The Last Question](https://projecteuler.net/problem=480) |
 | **Day 239** | 2026-08-03 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Lexicographically Smallest String After Substring Operation](https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/) | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | [Number Sequence Game](https://projecteuler.net/problem=477)<br>[Mixtures](https://projecteuler.net/problem=478) |
 | **Day 238** | 2026-08-02 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Music Festival](https://projecteuler.net/problem=475)<br>[Circle Packing II](https://projecteuler.net/problem=476) |
 | **Day 237** | 2026-08-01 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [Best Reachable Tower](https://leetcode.com/problems/best-reachable-tower/) | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [Phigital Number Base](https://projecteuler.net/problem=473)<br>[Last Digits of Divisors](https://projecteuler.net/problem=474) |

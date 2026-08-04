@@ -1862,5 +1862,13 @@
     "medium": "[Lexicographically Smallest String After Substring Operation](https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/)",
     "hard": "[Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/)",
     "euler": "[Number Sequence Game](https://projecteuler.net/problem=477)<br>[Mixtures](https://projecteuler.net/problem=478)"
+  },
+  {
+    "day": 240,
+    "date": "2026-08-04",
+    "easy": "[Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)",
+    "medium": "[Number of Subarrays That Match a Pattern I](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/)",
+    "hard": "[Find Number of Ways to Reach the K-th Stair](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/)",
+    "euler": "[Roots on the Rise](https://projecteuler.net/problem=479)<br>[The Last Question](https://projecteuler.net/problem=480)"
   }
 ]
