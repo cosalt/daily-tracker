@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 241 (Started Dec 8, 2025)
+### Daily Challenge - Day 242 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [Maximum Possible Number by Binary Concatenation](https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation/) | [Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | [Chef Showdown](https://projecteuler.net/problem=481)<br>[The Incenter of a Triangle](https://projecteuler.net/problem=482) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Lexicographically Smallest String After a Swap](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/) | [4Sum II](https://leetcode.com/problems/4sum-ii/) | [Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/) | [Repeated Permutation](https://projecteuler.net/problem=483)<br>[Arithmetic Derivative](https://projecteuler.net/problem=484) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 242** | 2026-08-06 | [Lexicographically Smallest String After a Swap](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/) | [4Sum II](https://leetcode.com/problems/4sum-ii/) | [Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/) | [Repeated Permutation](https://projecteuler.net/problem=483)<br>[Arithmetic Derivative](https://projecteuler.net/problem=484) |
 | **Day 241** | 2026-08-05 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [Maximum Possible Number by Binary Concatenation](https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation/) | [Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | [Chef Showdown](https://projecteuler.net/problem=481)<br>[The Incenter of a Triangle](https://projecteuler.net/problem=482) |
 | **Day 240** | 2026-08-04 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) | [Number of Subarrays That Match a Pattern I](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/) | [Find Number of Ways to Reach the K-th Stair](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/) | [Roots on the Rise](https://projecteuler.net/problem=479)<br>[The Last Question](https://projecteuler.net/problem=480) |
 | **Day 239** | 2026-08-03 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Lexicographically Smallest String After Substring Operation](https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/) | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | [Number Sequence Game](https://projecteuler.net/problem=477)<br>[Mixtures](https://projecteuler.net/problem=478) |

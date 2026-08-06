@@ -1878,5 +1878,13 @@
     "medium": "[Maximum Possible Number by Binary Concatenation](https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation/)",
     "hard": "[Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/)",
     "euler": "[Chef Showdown](https://projecteuler.net/problem=481)<br>[The Incenter of a Triangle](https://projecteuler.net/problem=482)"
+  },
+  {
+    "day": 242,
+    "date": "2026-08-06",
+    "easy": "[Lexicographically Smallest String After a Swap](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/)",
+    "medium": "[4Sum II](https://leetcode.com/problems/4sum-ii/)",
+    "hard": "[Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/)",
+    "euler": "[Repeated Permutation](https://projecteuler.net/problem=483)<br>[Arithmetic Derivative](https://projecteuler.net/problem=484)"
   }
 ]
