@@ -1886,5 +1886,13 @@
     "medium": "[4Sum II](https://leetcode.com/problems/4sum-ii/)",
     "hard": "[Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/)",
     "euler": "[Repeated Permutation](https://projecteuler.net/problem=483)<br>[Arithmetic Derivative](https://projecteuler.net/problem=484)"
+  },
+  {
+    "day": 243,
+    "date": "2026-08-07",
+    "easy": "[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)",
+    "medium": "[Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/)",
+    "hard": "[Subtree Inversion Sum](https://leetcode.com/problems/subtree-inversion-sum/)",
+    "euler": "[Maximum Number of Divisors](https://projecteuler.net/problem=485)<br>[Palindrome-containing Strings](https://projecteuler.net/problem=486)"
   }
 ]
