@@ -1894,5 +1894,13 @@
     "medium": "[Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/)",
     "hard": "[Subtree Inversion Sum](https://leetcode.com/problems/subtree-inversion-sum/)",
     "euler": "[Maximum Number of Divisors](https://projecteuler.net/problem=485)<br>[Palindrome-containing Strings](https://projecteuler.net/problem=486)"
+  },
+  {
+    "day": 244,
+    "date": "2026-08-08",
+    "easy": "[Type of Triangle](https://leetcode.com/problems/type-of-triangle/)",
+    "medium": "[Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/)",
+    "hard": "[Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)",
+    "euler": "[Sums of Power Sums](https://projecteuler.net/problem=487)<br>[Unbalanced Nim](https://projecteuler.net/problem=488)"
   }
 ]

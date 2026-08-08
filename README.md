@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 243 (Started Dec 8, 2025)
+### Daily Challenge - Day 244 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/) | [Subtree Inversion Sum](https://leetcode.com/problems/subtree-inversion-sum/) | [Maximum Number of Divisors](https://projecteuler.net/problem=485)<br>[Palindrome-containing Strings](https://projecteuler.net/problem=486) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | [Sums of Power Sums](https://projecteuler.net/problem=487)<br>[Unbalanced Nim](https://projecteuler.net/problem=488) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 244** | 2026-08-08 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | [Sums of Power Sums](https://projecteuler.net/problem=487)<br>[Unbalanced Nim](https://projecteuler.net/problem=488) |
 | **Day 243** | 2026-08-07 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/) | [Subtree Inversion Sum](https://leetcode.com/problems/subtree-inversion-sum/) | [Maximum Number of Divisors](https://projecteuler.net/problem=485)<br>[Palindrome-containing Strings](https://projecteuler.net/problem=486) |
 | **Day 242** | 2026-08-06 | [Lexicographically Smallest String After a Swap](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/) | [4Sum II](https://leetcode.com/problems/4sum-ii/) | [Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/) | [Repeated Permutation](https://projecteuler.net/problem=483)<br>[Arithmetic Derivative](https://projecteuler.net/problem=484) |
 | **Day 241** | 2026-08-05 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [Maximum Possible Number by Binary Concatenation](https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation/) | [Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | [Chef Showdown](https://projecteuler.net/problem=481)<br>[The Incenter of a Triangle](https://projecteuler.net/problem=482) |
