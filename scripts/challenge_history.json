@@ -1902,5 +1902,13 @@
     "medium": "[Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/)",
     "hard": "[Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)",
     "euler": "[Sums of Power Sums](https://projecteuler.net/problem=487)<br>[Unbalanced Nim](https://projecteuler.net/problem=488)"
+  },
+  {
+    "day": 245,
+    "date": "2026-08-09",
+    "easy": "[Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)",
+    "medium": "[Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/)",
+    "hard": "[Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/)",
+    "euler": "[Common Factors Between Two Sequences](https://projecteuler.net/problem=489)<br>[Jumping Frog](https://projecteuler.net/problem=490)"
   }
 ]
