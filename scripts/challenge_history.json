@@ -1910,5 +1910,13 @@
     "medium": "[Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/)",
     "hard": "[Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/)",
     "euler": "[Common Factors Between Two Sequences](https://projecteuler.net/problem=489)<br>[Jumping Frog](https://projecteuler.net/problem=490)"
+  },
+  {
+    "day": 246,
+    "date": "2026-08-10",
+    "easy": "[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)",
+    "medium": "[Remove K-Balanced Substrings](https://leetcode.com/problems/remove-k-balanced-substrings/)",
+    "hard": "[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)",
+    "euler": "[Double Pandigital Number Divisible by $11$](https://projecteuler.net/problem=491)<br>[Exploding Sequence](https://projecteuler.net/problem=492)"
   }
 ]

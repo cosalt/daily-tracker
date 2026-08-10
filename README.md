@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 245 (Started Dec 8, 2025)
+### Daily Challenge - Day 246 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | [Common Factors Between Two Sequences](https://projecteuler.net/problem=489)<br>[Jumping Frog](https://projecteuler.net/problem=490) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Remove K-Balanced Substrings](https://leetcode.com/problems/remove-k-balanced-substrings/) | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [Double Pandigital Number Divisible by $11$](https://projecteuler.net/problem=491)<br>[Exploding Sequence](https://projecteuler.net/problem=492) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 246** | 2026-08-10 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Remove K-Balanced Substrings](https://leetcode.com/problems/remove-k-balanced-substrings/) | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [Double Pandigital Number Divisible by $11$](https://projecteuler.net/problem=491)<br>[Exploding Sequence](https://projecteuler.net/problem=492) |
 | **Day 245** | 2026-08-09 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | [Common Factors Between Two Sequences](https://projecteuler.net/problem=489)<br>[Jumping Frog](https://projecteuler.net/problem=490) |
 | **Day 244** | 2026-08-08 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | [Sums of Power Sums](https://projecteuler.net/problem=487)<br>[Unbalanced Nim](https://projecteuler.net/problem=488) |
 | **Day 243** | 2026-08-07 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/) | [Subtree Inversion Sum](https://leetcode.com/problems/subtree-inversion-sum/) | [Maximum Number of Divisors](https://projecteuler.net/problem=485)<br>[Palindrome-containing Strings](https://projecteuler.net/problem=486) |
