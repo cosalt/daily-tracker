@@ -1926,5 +1926,13 @@
     "medium": "[Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)",
     "hard": "[Smallest K-Length Subsequence With Occurrences of a Letter](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/)",
     "euler": "[Under the Rainbow](https://projecteuler.net/problem=493)<br>[Collatz Prefix Families](https://projecteuler.net/problem=494)"
+  },
+  {
+    "day": 248,
+    "date": "2026-08-12",
+    "easy": "[Sum Multiples](https://leetcode.com/problems/sum-multiples/)",
+    "medium": "[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)",
+    "hard": "[Smallest Substring With Identical Characters I](https://leetcode.com/problems/smallest-substring-with-identical-characters-i/)",
+    "euler": "[Writing $n$ as the Product of $k$ Distinct Positive Integers](https://projecteuler.net/problem=495)<br>[Incenter and Circumcenter of Triangle](https://projecteuler.net/problem=496)"
   }
 ]
