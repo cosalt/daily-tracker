@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 248 (Started Dec 8, 2025)
+### Daily Challenge - Day 249 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | [Smallest Substring With Identical Characters I](https://leetcode.com/problems/smallest-substring-with-identical-characters-i/) | [Writing $n$ as the Product of $k$ Distinct Positive Integers](https://projecteuler.net/problem=495)<br>[Incenter and Circumcenter of Triangle](https://projecteuler.net/problem=496) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Compare Sums of Bitonic Parts](https://leetcode.com/problems/compare-sums-of-bitonic-parts/) | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | [Drunken Tower of Hanoi](https://projecteuler.net/problem=497)<br>[Remainder of Polynomial Division](https://projecteuler.net/problem=498) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 249** | 2026-08-13 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Compare Sums of Bitonic Parts](https://leetcode.com/problems/compare-sums-of-bitonic-parts/) | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | [Drunken Tower of Hanoi](https://projecteuler.net/problem=497)<br>[Remainder of Polynomial Division](https://projecteuler.net/problem=498) |
 | **Day 248** | 2026-08-12 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | [Smallest Substring With Identical Characters I](https://leetcode.com/problems/smallest-substring-with-identical-characters-i/) | [Writing $n$ as the Product of $k$ Distinct Positive Integers](https://projecteuler.net/problem=495)<br>[Incenter and Circumcenter of Triangle](https://projecteuler.net/problem=496) |
 | **Day 247** | 2026-08-11 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | [Smallest K-Length Subsequence With Occurrences of a Letter](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/) | [Under the Rainbow](https://projecteuler.net/problem=493)<br>[Collatz Prefix Families](https://projecteuler.net/problem=494) |
 | **Day 246** | 2026-08-10 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Remove K-Balanced Substrings](https://leetcode.com/problems/remove-k-balanced-substrings/) | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [Double Pandigital Number Divisible by $11$](https://projecteuler.net/problem=491)<br>[Exploding Sequence](https://projecteuler.net/problem=492) |

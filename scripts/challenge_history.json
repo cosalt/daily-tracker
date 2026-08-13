@@ -1934,5 +1934,13 @@
     "medium": "[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)",
     "hard": "[Smallest Substring With Identical Characters I](https://leetcode.com/problems/smallest-substring-with-identical-characters-i/)",
     "euler": "[Writing $n$ as the Product of $k$ Distinct Positive Integers](https://projecteuler.net/problem=495)<br>[Incenter and Circumcenter of Triangle](https://projecteuler.net/problem=496)"
+  },
+  {
+    "day": 249,
+    "date": "2026-08-13",
+    "easy": "[Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/)",
+    "medium": "[Compare Sums of Bitonic Parts](https://leetcode.com/problems/compare-sums-of-bitonic-parts/)",
+    "hard": "[Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/)",
+    "euler": "[Drunken Tower of Hanoi](https://projecteuler.net/problem=497)<br>[Remainder of Polynomial Division](https://projecteuler.net/problem=498)"
   }
 ]
