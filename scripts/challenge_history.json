@@ -1942,5 +1942,13 @@
     "medium": "[Compare Sums of Bitonic Parts](https://leetcode.com/problems/compare-sums-of-bitonic-parts/)",
     "hard": "[Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/)",
     "euler": "[Drunken Tower of Hanoi](https://projecteuler.net/problem=497)<br>[Remainder of Polynomial Division](https://projecteuler.net/problem=498)"
+  },
+  {
+    "day": 250,
+    "date": "2026-08-14",
+    "easy": "[Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/)",
+    "medium": "[Minimum Total Space Wasted With K Resizing Operations](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/)",
+    "hard": "[Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)",
+    "euler": "[St. Petersburg Lottery](https://projecteuler.net/problem=499)<br>[Problem 500!!!](https://projecteuler.net/problem=500)"
   }
 ]
