@@ -1950,5 +1950,13 @@
     "medium": "[Minimum Total Space Wasted With K Resizing Operations](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/)",
     "hard": "[Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)",
     "euler": "[St. Petersburg Lottery](https://projecteuler.net/problem=499)<br>[Problem 500!!!](https://projecteuler.net/problem=500)"
+  },
+  {
+    "day": 251,
+    "date": "2026-08-15",
+    "easy": "[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)",
+    "medium": "[Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/)",
+    "hard": "[Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/)",
+    "euler": "[Eight Divisors](https://projecteuler.net/problem=501)<br>[Counting Castles](https://projecteuler.net/problem=502)"
   }
 ]
