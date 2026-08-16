@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 251 (Started Dec 8, 2025)
+### Daily Challenge - Day 252 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/) | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Eight Divisors](https://projecteuler.net/problem=501)<br>[Counting Castles](https://projecteuler.net/problem=502) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | [Robot Collisions](https://leetcode.com/problems/robot-collisions/) | [Compromise or Persist](https://projecteuler.net/problem=503)<br>[Square on the Inside](https://projecteuler.net/problem=504) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 252** | 2026-08-16 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | [Robot Collisions](https://leetcode.com/problems/robot-collisions/) | [Compromise or Persist](https://projecteuler.net/problem=503)<br>[Square on the Inside](https://projecteuler.net/problem=504) |
 | **Day 251** | 2026-08-15 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/) | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Eight Divisors](https://projecteuler.net/problem=501)<br>[Counting Castles](https://projecteuler.net/problem=502) |
 | **Day 250** | 2026-08-14 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Minimum Total Space Wasted With K Resizing Operations](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/) | [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) | [St. Petersburg Lottery](https://projecteuler.net/problem=499)<br>[Problem 500!!!](https://projecteuler.net/problem=500) |
 | **Day 249** | 2026-08-13 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Compare Sums of Bitonic Parts](https://leetcode.com/problems/compare-sums-of-bitonic-parts/) | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | [Drunken Tower of Hanoi](https://projecteuler.net/problem=497)<br>[Remainder of Polynomial Division](https://projecteuler.net/problem=498) |

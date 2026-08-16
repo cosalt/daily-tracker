@@ -1958,5 +1958,13 @@
     "medium": "[Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/)",
     "hard": "[Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/)",
     "euler": "[Eight Divisors](https://projecteuler.net/problem=501)<br>[Counting Castles](https://projecteuler.net/problem=502)"
+  },
+  {
+    "day": 252,
+    "date": "2026-08-16",
+    "easy": "[Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/)",
+    "medium": "[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)",
+    "hard": "[Robot Collisions](https://leetcode.com/problems/robot-collisions/)",
+    "euler": "[Compromise or Persist](https://projecteuler.net/problem=503)<br>[Square on the Inside](https://projecteuler.net/problem=504)"
   }
 ]
