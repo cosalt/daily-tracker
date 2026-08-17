@@ -1966,5 +1966,13 @@
     "medium": "[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)",
     "hard": "[Robot Collisions](https://leetcode.com/problems/robot-collisions/)",
     "euler": "[Compromise or Persist](https://projecteuler.net/problem=503)<br>[Square on the Inside](https://projecteuler.net/problem=504)"
+  },
+  {
+    "day": 253,
+    "date": "2026-08-17",
+    "easy": "[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)",
+    "medium": "[Reorder List](https://leetcode.com/problems/reorder-list/)",
+    "hard": "[Maximum AND Sum of Array](https://leetcode.com/problems/maximum-and-sum-of-array/)",
+    "euler": "[Bidirectional Recurrence](https://projecteuler.net/problem=505)<br>[Clock Sequence](https://projecteuler.net/problem=506)"
   }
 ]
