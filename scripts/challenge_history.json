@@ -1982,5 +1982,13 @@
     "medium": "[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)",
     "hard": "[Count Substrings Divisible By Last Digit](https://leetcode.com/problems/count-substrings-divisible-by-last-digit/)",
     "euler": "[Shortest Lattice Vector](https://projecteuler.net/problem=507)<br>[Integers in Base $i-1$](https://projecteuler.net/problem=508)"
+  },
+  {
+    "day": 255,
+    "date": "2026-08-19",
+    "easy": "[Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/)",
+    "medium": "[Find Consistently Improving Employees](https://leetcode.com/problems/find-consistently-improving-employees/)",
+    "hard": "[Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/)",
+    "euler": "[Divisor Nim](https://projecteuler.net/problem=509)<br>[Tangent Circles](https://projecteuler.net/problem=510)"
   }
 ]

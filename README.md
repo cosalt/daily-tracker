@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 254 (Started Dec 8, 2025)
+### Daily Challenge - Day 255 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [Count Substrings Divisible By Last Digit](https://leetcode.com/problems/count-substrings-divisible-by-last-digit/) | [Shortest Lattice Vector](https://projecteuler.net/problem=507)<br>[Integers in Base $i-1$](https://projecteuler.net/problem=508) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [Find Consistently Improving Employees](https://leetcode.com/problems/find-consistently-improving-employees/) | [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [Divisor Nim](https://projecteuler.net/problem=509)<br>[Tangent Circles](https://projecteuler.net/problem=510) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 255** | 2026-08-19 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [Find Consistently Improving Employees](https://leetcode.com/problems/find-consistently-improving-employees/) | [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [Divisor Nim](https://projecteuler.net/problem=509)<br>[Tangent Circles](https://projecteuler.net/problem=510) |
 | **Day 254** | 2026-08-18 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [Count Substrings Divisible By Last Digit](https://leetcode.com/problems/count-substrings-divisible-by-last-digit/) | [Shortest Lattice Vector](https://projecteuler.net/problem=507)<br>[Integers in Base $i-1$](https://projecteuler.net/problem=508) |
 | **Day 253** | 2026-08-17 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Maximum AND Sum of Array](https://leetcode.com/problems/maximum-and-sum-of-array/) | [Bidirectional Recurrence](https://projecteuler.net/problem=505)<br>[Clock Sequence](https://projecteuler.net/problem=506) |
 | **Day 252** | 2026-08-16 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | [Robot Collisions](https://leetcode.com/problems/robot-collisions/) | [Compromise or Persist](https://projecteuler.net/problem=503)<br>[Square on the Inside](https://projecteuler.net/problem=504) |
