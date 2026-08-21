@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 256 (Started Dec 8, 2025)
+### Daily Challenge - Day 257 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Subsequence After One Replacement](https://leetcode.com/problems/subsequence-after-one-replacement/) | [Find Edges in Shortest Paths](https://leetcode.com/problems/find-edges-in-shortest-paths/) | [Sequences with Nice Divisibility Properties](https://projecteuler.net/problem=511)<br>[Sums of Totients of Powers](https://projecteuler.net/problem=512) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | [Count Array Pairs Divisible by K](https://leetcode.com/problems/count-array-pairs-divisible-by-k/) | [Integral Median](https://projecteuler.net/problem=513)<br>[Geoboard Shapes](https://projecteuler.net/problem=514) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 257** | 2026-08-21 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | [Count Array Pairs Divisible by K](https://leetcode.com/problems/count-array-pairs-divisible-by-k/) | [Integral Median](https://projecteuler.net/problem=513)<br>[Geoboard Shapes](https://projecteuler.net/problem=514) |
 | **Day 256** | 2026-08-20 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Subsequence After One Replacement](https://leetcode.com/problems/subsequence-after-one-replacement/) | [Find Edges in Shortest Paths](https://leetcode.com/problems/find-edges-in-shortest-paths/) | [Sequences with Nice Divisibility Properties](https://projecteuler.net/problem=511)<br>[Sums of Totients of Powers](https://projecteuler.net/problem=512) |
 | **Day 255** | 2026-08-19 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [Find Consistently Improving Employees](https://leetcode.com/problems/find-consistently-improving-employees/) | [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [Divisor Nim](https://projecteuler.net/problem=509)<br>[Tangent Circles](https://projecteuler.net/problem=510) |
 | **Day 254** | 2026-08-18 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [Count Substrings Divisible By Last Digit](https://leetcode.com/problems/count-substrings-divisible-by-last-digit/) | [Shortest Lattice Vector](https://projecteuler.net/problem=507)<br>[Integers in Base $i-1$](https://projecteuler.net/problem=508) |

@@ -1998,5 +1998,13 @@
     "medium": "[Subsequence After One Replacement](https://leetcode.com/problems/subsequence-after-one-replacement/)",
     "hard": "[Find Edges in Shortest Paths](https://leetcode.com/problems/find-edges-in-shortest-paths/)",
     "euler": "[Sequences with Nice Divisibility Properties](https://projecteuler.net/problem=511)<br>[Sums of Totients of Powers](https://projecteuler.net/problem=512)"
+  },
+  {
+    "day": 257,
+    "date": "2026-08-21",
+    "easy": "[Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)",
+    "medium": "[Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)",
+    "hard": "[Count Array Pairs Divisible by K](https://leetcode.com/problems/count-array-pairs-divisible-by-k/)",
+    "euler": "[Integral Median](https://projecteuler.net/problem=513)<br>[Geoboard Shapes](https://projecteuler.net/problem=514)"
   }
 ]
