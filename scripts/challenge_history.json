@@ -2006,5 +2006,13 @@
     "medium": "[Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)",
     "hard": "[Count Array Pairs Divisible by K](https://leetcode.com/problems/count-array-pairs-divisible-by-k/)",
     "euler": "[Integral Median](https://projecteuler.net/problem=513)<br>[Geoboard Shapes](https://projecteuler.net/problem=514)"
+  },
+  {
+    "day": 258,
+    "date": "2026-08-22",
+    "easy": "[Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/)",
+    "medium": "[Valid Binary Strings With Cost Limit](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/)",
+    "hard": "[Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)",
+    "euler": "[Dissonant Numbers](https://projecteuler.net/problem=515)<br>[$5$-smooth Totients](https://projecteuler.net/problem=516)"
   }
 ]
