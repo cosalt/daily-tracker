@@ -2014,5 +2014,13 @@
     "medium": "[Valid Binary Strings With Cost Limit](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/)",
     "hard": "[Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)",
     "euler": "[Dissonant Numbers](https://projecteuler.net/problem=515)<br>[$5$-smooth Totients](https://projecteuler.net/problem=516)"
+  },
+  {
+    "day": 259,
+    "date": "2026-08-23",
+    "easy": "[Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/)",
+    "medium": "[Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/)",
+    "hard": "[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)",
+    "euler": "[A Real Recursion](https://projecteuler.net/problem=517)<br>[Prime Triples and Geometric Sequences](https://projecteuler.net/problem=518)"
   }
 ]
