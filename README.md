@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 260 (Started Dec 8, 2025)
+### Daily Challenge - Day 261 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [Most Frequent IDs](https://leetcode.com/problems/most-frequent-ids/) | [Maximum Frequency of an Element After Performing Operations II](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/) | [Tricoloured Coin Fountains](https://projecteuler.net/problem=519)<br>[Simbers](https://projecteuler.net/problem=520) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/) | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [Smallest Prime Factor](https://projecteuler.net/problem=521)<br>[Hilbert's Blackout](https://projecteuler.net/problem=522) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 261** | 2026-08-25 | [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/) | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [Smallest Prime Factor](https://projecteuler.net/problem=521)<br>[Hilbert's Blackout](https://projecteuler.net/problem=522) |
 | **Day 260** | 2026-08-24 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [Most Frequent IDs](https://leetcode.com/problems/most-frequent-ids/) | [Maximum Frequency of an Element After Performing Operations II](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/) | [Tricoloured Coin Fountains](https://projecteuler.net/problem=519)<br>[Simbers](https://projecteuler.net/problem=520) |
 | **Day 259** | 2026-08-23 | [Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [A Real Recursion](https://projecteuler.net/problem=517)<br>[Prime Triples and Geometric Sequences](https://projecteuler.net/problem=518) |
 | **Day 258** | 2026-08-22 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/) | [Valid Binary Strings With Cost Limit](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/) | [Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/) | [Dissonant Numbers](https://projecteuler.net/problem=515)<br>[$5$-smooth Totients](https://projecteuler.net/problem=516) |

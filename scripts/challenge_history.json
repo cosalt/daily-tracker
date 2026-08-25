@@ -2030,5 +2030,13 @@
     "medium": "[Most Frequent IDs](https://leetcode.com/problems/most-frequent-ids/)",
     "hard": "[Maximum Frequency of an Element After Performing Operations II](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/)",
     "euler": "[Tricoloured Coin Fountains](https://projecteuler.net/problem=519)<br>[Simbers](https://projecteuler.net/problem=520)"
+  },
+  {
+    "day": 261,
+    "date": "2026-08-25",
+    "easy": "[Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/)",
+    "medium": "[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)",
+    "hard": "[Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)",
+    "euler": "[Smallest Prime Factor](https://projecteuler.net/problem=521)<br>[Hilbert's Blackout](https://projecteuler.net/problem=522)"
   }
 ]
