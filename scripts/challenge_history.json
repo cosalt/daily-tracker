@@ -2038,5 +2038,13 @@
     "medium": "[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)",
     "hard": "[Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)",
     "euler": "[Smallest Prime Factor](https://projecteuler.net/problem=521)<br>[Hilbert's Blackout](https://projecteuler.net/problem=522)"
+  },
+  {
+    "day": 262,
+    "date": "2026-08-26",
+    "easy": "[Button with Longest Push Time](https://leetcode.com/problems/button-with-longest-push-time/)",
+    "medium": "[Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/)",
+    "hard": "[Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/)",
+    "euler": "[First Sort I](https://projecteuler.net/problem=523)<br>[First Sort II](https://projecteuler.net/problem=524)"
   }
 ]

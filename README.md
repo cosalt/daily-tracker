@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 261 (Started Dec 8, 2025)
+### Daily Challenge - Day 262 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/) | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [Smallest Prime Factor](https://projecteuler.net/problem=521)<br>[Hilbert's Blackout](https://projecteuler.net/problem=522) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Button with Longest Push Time](https://leetcode.com/problems/button-with-longest-push-time/) | [Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/) | [Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [First Sort I](https://projecteuler.net/problem=523)<br>[First Sort II](https://projecteuler.net/problem=524) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 262** | 2026-08-26 | [Button with Longest Push Time](https://leetcode.com/problems/button-with-longest-push-time/) | [Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/) | [Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [First Sort I](https://projecteuler.net/problem=523)<br>[First Sort II](https://projecteuler.net/problem=524) |
 | **Day 261** | 2026-08-25 | [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/) | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [Smallest Prime Factor](https://projecteuler.net/problem=521)<br>[Hilbert's Blackout](https://projecteuler.net/problem=522) |
 | **Day 260** | 2026-08-24 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [Most Frequent IDs](https://leetcode.com/problems/most-frequent-ids/) | [Maximum Frequency of an Element After Performing Operations II](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/) | [Tricoloured Coin Fountains](https://projecteuler.net/problem=519)<br>[Simbers](https://projecteuler.net/problem=520) |
 | **Day 259** | 2026-08-23 | [Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [A Real Recursion](https://projecteuler.net/problem=517)<br>[Prime Triples and Geometric Sequences](https://projecteuler.net/problem=518) |
