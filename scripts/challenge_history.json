@@ -2046,5 +2046,13 @@
     "medium": "[Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/)",
     "hard": "[Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/)",
     "euler": "[First Sort I](https://projecteuler.net/problem=523)<br>[First Sort II](https://projecteuler.net/problem=524)"
+  },
+  {
+    "day": 263,
+    "date": "2026-08-27",
+    "easy": "[Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)",
+    "medium": "[Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/)",
+    "hard": "[Maximum Product of the Length of Two Palindromic Substrings](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/)",
+    "euler": "[Rolling Ellipse](https://projecteuler.net/problem=525)<br>[Largest Prime Factors of Consecutive Numbers](https://projecteuler.net/problem=526)"
   }
 ]
