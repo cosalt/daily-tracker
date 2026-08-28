@@ -2054,5 +2054,13 @@
     "medium": "[Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/)",
     "hard": "[Maximum Product of the Length of Two Palindromic Substrings](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/)",
     "euler": "[Rolling Ellipse](https://projecteuler.net/problem=525)<br>[Largest Prime Factors of Consecutive Numbers](https://projecteuler.net/problem=526)"
+  },
+  {
+    "day": 264,
+    "date": "2026-08-28",
+    "easy": "[Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)",
+    "medium": "[Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)",
+    "hard": "[Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)",
+    "euler": "[Randomized Binary Search](https://projecteuler.net/problem=527)<br>[Constrained Sums](https://projecteuler.net/problem=528)"
   }
 ]

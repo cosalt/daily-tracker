@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 263 (Started Dec 8, 2025)
+### Daily Challenge - Day 264 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/) | [Maximum Product of the Length of Two Palindromic Substrings](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/) | [Rolling Ellipse](https://projecteuler.net/problem=525)<br>[Largest Prime Factors of Consecutive Numbers](https://projecteuler.net/problem=526) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [Randomized Binary Search](https://projecteuler.net/problem=527)<br>[Constrained Sums](https://projecteuler.net/problem=528) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 264** | 2026-08-28 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [Randomized Binary Search](https://projecteuler.net/problem=527)<br>[Constrained Sums](https://projecteuler.net/problem=528) |
 | **Day 263** | 2026-08-27 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/) | [Maximum Product of the Length of Two Palindromic Substrings](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/) | [Rolling Ellipse](https://projecteuler.net/problem=525)<br>[Largest Prime Factors of Consecutive Numbers](https://projecteuler.net/problem=526) |
 | **Day 262** | 2026-08-26 | [Button with Longest Push Time](https://leetcode.com/problems/button-with-longest-push-time/) | [Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/) | [Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [First Sort I](https://projecteuler.net/problem=523)<br>[First Sort II](https://projecteuler.net/problem=524) |
 | **Day 261** | 2026-08-25 | [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/) | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [Smallest Prime Factor](https://projecteuler.net/problem=521)<br>[Hilbert's Blackout](https://projecteuler.net/problem=522) |
