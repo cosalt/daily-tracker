@@ -2062,5 +2062,13 @@
     "medium": "[Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)",
     "hard": "[Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)",
     "euler": "[Randomized Binary Search](https://projecteuler.net/problem=527)<br>[Constrained Sums](https://projecteuler.net/problem=528)"
+  },
+  {
+    "day": 265,
+    "date": "2026-08-29",
+    "easy": "[Maximum Number of Operations With the Same Score I](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/)",
+    "medium": "[Count Good Meals](https://leetcode.com/problems/count-good-meals/)",
+    "hard": "[Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/)",
+    "euler": "[$10$-substrings](https://projecteuler.net/problem=529)<br>[GCD of Divisors](https://projecteuler.net/problem=530)"
   }
 ]
