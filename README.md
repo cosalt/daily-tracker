@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 265 (Started Dec 8, 2025)
+### Daily Challenge - Day 266 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Maximum Number of Operations With the Same Score I](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/) | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | [$10$-substrings](https://projecteuler.net/problem=529)<br>[GCD of Divisors](https://projecteuler.net/problem=530) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Chinese Leftovers](https://projecteuler.net/problem=531)<br>[Nanobots on Geodesics](https://projecteuler.net/problem=532) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 266** | 2026-08-30 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Chinese Leftovers](https://projecteuler.net/problem=531)<br>[Nanobots on Geodesics](https://projecteuler.net/problem=532) |
 | **Day 265** | 2026-08-29 | [Maximum Number of Operations With the Same Score I](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/) | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | [$10$-substrings](https://projecteuler.net/problem=529)<br>[GCD of Divisors](https://projecteuler.net/problem=530) |
 | **Day 264** | 2026-08-28 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [Randomized Binary Search](https://projecteuler.net/problem=527)<br>[Constrained Sums](https://projecteuler.net/problem=528) |
 | **Day 263** | 2026-08-27 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/) | [Maximum Product of the Length of Two Palindromic Substrings](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/) | [Rolling Ellipse](https://projecteuler.net/problem=525)<br>[Largest Prime Factors of Consecutive Numbers](https://projecteuler.net/problem=526) |
