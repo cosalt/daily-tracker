@@ -2078,5 +2078,13 @@
     "medium": "[Reverse Integer](https://leetcode.com/problems/reverse-integer/)",
     "hard": "[Word Ladder](https://leetcode.com/problems/word-ladder/)",
     "euler": "[Chinese Leftovers](https://projecteuler.net/problem=531)<br>[Nanobots on Geodesics](https://projecteuler.net/problem=532)"
+  },
+  {
+    "day": 267,
+    "date": "2026-08-31",
+    "easy": "[Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)",
+    "medium": "[Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/)",
+    "hard": "[Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/)",
+    "euler": "[Minimum Values of the Carmichael Function](https://projecteuler.net/problem=533)<br>[Weak Queens](https://projecteuler.net/problem=534)"
   }
 ]

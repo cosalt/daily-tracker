@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 266 (Started Dec 8, 2025)
+### Daily Challenge - Day 267 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Chinese Leftovers](https://projecteuler.net/problem=531)<br>[Nanobots on Geodesics](https://projecteuler.net/problem=532) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) | [Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/) | [Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) | [Minimum Values of the Carmichael Function](https://projecteuler.net/problem=533)<br>[Weak Queens](https://projecteuler.net/problem=534) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 267** | 2026-08-31 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) | [Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/) | [Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) | [Minimum Values of the Carmichael Function](https://projecteuler.net/problem=533)<br>[Weak Queens](https://projecteuler.net/problem=534) |
 | **Day 266** | 2026-08-30 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Chinese Leftovers](https://projecteuler.net/problem=531)<br>[Nanobots on Geodesics](https://projecteuler.net/problem=532) |
 | **Day 265** | 2026-08-29 | [Maximum Number of Operations With the Same Score I](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/) | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | [$10$-substrings](https://projecteuler.net/problem=529)<br>[GCD of Divisors](https://projecteuler.net/problem=530) |
 | **Day 264** | 2026-08-28 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [Randomized Binary Search](https://projecteuler.net/problem=527)<br>[Constrained Sums](https://projecteuler.net/problem=528) |
