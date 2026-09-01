@@ -2086,5 +2086,13 @@
     "medium": "[Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/)",
     "hard": "[Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/)",
     "euler": "[Minimum Values of the Carmichael Function](https://projecteuler.net/problem=533)<br>[Weak Queens](https://projecteuler.net/problem=534)"
+  },
+  {
+    "day": 268,
+    "date": "2026-09-01",
+    "easy": "[Limit Occurrences in Sorted Array](https://leetcode.com/problems/limit-occurrences-in-sorted-array/)",
+    "medium": "[Find Champion II](https://leetcode.com/problems/find-champion-ii/)",
+    "hard": "[Count Number of Possible Root Nodes](https://leetcode.com/problems/count-number-of-possible-root-nodes/)",
+    "euler": "[Fractal Sequence](https://projecteuler.net/problem=535)<br>[Modulo Power Identity ](https://projecteuler.net/problem=536)"
   }
 ]
