@@ -2094,5 +2094,13 @@
     "medium": "[Find Champion II](https://leetcode.com/problems/find-champion-ii/)",
     "hard": "[Count Number of Possible Root Nodes](https://leetcode.com/problems/count-number-of-possible-root-nodes/)",
     "euler": "[Fractal Sequence](https://projecteuler.net/problem=535)<br>[Modulo Power Identity ](https://projecteuler.net/problem=536)"
+  },
+  {
+    "day": 269,
+    "date": "2026-09-02",
+    "easy": "[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)",
+    "medium": "[Minimum Cost to Equalize Arrays Using Swaps](https://leetcode.com/problems/minimum-cost-to-equalize-arrays-using-swaps/)",
+    "hard": "[Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/)",
+    "euler": "[Counting Tuples](https://projecteuler.net/problem=537)<br>[Maximum Quadrilaterals](https://projecteuler.net/problem=538)"
   }
 ]
