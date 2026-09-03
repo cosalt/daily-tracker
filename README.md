@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 269 (Started Dec 8, 2025)
+### Daily Challenge - Day 270 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Minimum Cost to Equalize Arrays Using Swaps](https://leetcode.com/problems/minimum-cost-to-equalize-arrays-using-swaps/) | [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/) | [Counting Tuples](https://projecteuler.net/problem=537)<br>[Maximum Quadrilaterals](https://projecteuler.net/problem=538) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Odd Elimination](https://projecteuler.net/problem=539)<br>[Counting Primitive Pythagorean Triples](https://projecteuler.net/problem=540) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 270** | 2026-09-03 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Odd Elimination](https://projecteuler.net/problem=539)<br>[Counting Primitive Pythagorean Triples](https://projecteuler.net/problem=540) |
 | **Day 269** | 2026-09-02 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Minimum Cost to Equalize Arrays Using Swaps](https://leetcode.com/problems/minimum-cost-to-equalize-arrays-using-swaps/) | [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/) | [Counting Tuples](https://projecteuler.net/problem=537)<br>[Maximum Quadrilaterals](https://projecteuler.net/problem=538) |
 | **Day 268** | 2026-09-01 | [Limit Occurrences in Sorted Array](https://leetcode.com/problems/limit-occurrences-in-sorted-array/) | [Find Champion II](https://leetcode.com/problems/find-champion-ii/) | [Count Number of Possible Root Nodes](https://leetcode.com/problems/count-number-of-possible-root-nodes/) | [Fractal Sequence](https://projecteuler.net/problem=535)<br>[Modulo Power Identity ](https://projecteuler.net/problem=536) |
 | **Day 267** | 2026-08-31 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) | [Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/) | [Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) | [Minimum Values of the Carmichael Function](https://projecteuler.net/problem=533)<br>[Weak Queens](https://projecteuler.net/problem=534) |
