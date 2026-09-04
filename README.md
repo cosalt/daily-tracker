@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 270 (Started Dec 8, 2025)
+### Daily Challenge - Day 271 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Odd Elimination](https://projecteuler.net/problem=539)<br>[Counting Primitive Pythagorean Triples](https://projecteuler.net/problem=540) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/) | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [Divisibility of Harmonic Number Denominators](https://projecteuler.net/problem=541)<br>[Geometric Progression with Maximum Sum](https://projecteuler.net/problem=542) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 271** | 2026-09-04 | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/) | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [Divisibility of Harmonic Number Denominators](https://projecteuler.net/problem=541)<br>[Geometric Progression with Maximum Sum](https://projecteuler.net/problem=542) |
 | **Day 270** | 2026-09-03 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Odd Elimination](https://projecteuler.net/problem=539)<br>[Counting Primitive Pythagorean Triples](https://projecteuler.net/problem=540) |
 | **Day 269** | 2026-09-02 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Minimum Cost to Equalize Arrays Using Swaps](https://leetcode.com/problems/minimum-cost-to-equalize-arrays-using-swaps/) | [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/) | [Counting Tuples](https://projecteuler.net/problem=537)<br>[Maximum Quadrilaterals](https://projecteuler.net/problem=538) |
 | **Day 268** | 2026-09-01 | [Limit Occurrences in Sorted Array](https://leetcode.com/problems/limit-occurrences-in-sorted-array/) | [Find Champion II](https://leetcode.com/problems/find-champion-ii/) | [Count Number of Possible Root Nodes](https://leetcode.com/problems/count-number-of-possible-root-nodes/) | [Fractal Sequence](https://projecteuler.net/problem=535)<br>[Modulo Power Identity ](https://projecteuler.net/problem=536) |
