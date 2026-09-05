@@ -2118,5 +2118,13 @@
     "medium": "[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)",
     "hard": "[Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/)",
     "euler": "[Divisibility of Harmonic Number Denominators](https://projecteuler.net/problem=541)<br>[Geometric Progression with Maximum Sum](https://projecteuler.net/problem=542)"
+  },
+  {
+    "day": 272,
+    "date": "2026-09-05",
+    "easy": "[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)",
+    "medium": "[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)",
+    "hard": "[Number of Unique Good Subsequences](https://leetcode.com/problems/number-of-unique-good-subsequences/)",
+    "euler": "[Prime-Sum Numbers](https://projecteuler.net/problem=543)<br>[Chromatic Conundrum](https://projecteuler.net/problem=544)"
   }
 ]
