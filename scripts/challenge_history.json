@@ -2126,5 +2126,13 @@
     "medium": "[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)",
     "hard": "[Number of Unique Good Subsequences](https://leetcode.com/problems/number-of-unique-good-subsequences/)",
     "euler": "[Prime-Sum Numbers](https://projecteuler.net/problem=543)<br>[Chromatic Conundrum](https://projecteuler.net/problem=544)"
+  },
+  {
+    "day": 273,
+    "date": "2026-09-06",
+    "easy": "[Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/)",
+    "medium": "[Invalid Transactions](https://leetcode.com/problems/invalid-transactions/)",
+    "hard": "[Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/)",
+    "euler": "[Faulhaber's Formulas](https://projecteuler.net/problem=545)<br>[The Floor's Revenge](https://projecteuler.net/problem=546)"
   }
 ]
