@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 273 (Started Dec 8, 2025)
+### Daily Challenge - Day 274 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [Faulhaber's Formulas](https://projecteuler.net/problem=545)<br>[The Floor's Revenge](https://projecteuler.net/problem=546) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/) | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Distance of Random Points Within Hollow Square Laminae](https://projecteuler.net/problem=547)<br>[Gozinta Chains](https://projecteuler.net/problem=548) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 274** | 2026-09-07 | [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/) | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Distance of Random Points Within Hollow Square Laminae](https://projecteuler.net/problem=547)<br>[Gozinta Chains](https://projecteuler.net/problem=548) |
 | **Day 273** | 2026-09-06 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [Faulhaber's Formulas](https://projecteuler.net/problem=545)<br>[The Floor's Revenge](https://projecteuler.net/problem=546) |
 | **Day 272** | 2026-09-05 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Number of Unique Good Subsequences](https://leetcode.com/problems/number-of-unique-good-subsequences/) | [Prime-Sum Numbers](https://projecteuler.net/problem=543)<br>[Chromatic Conundrum](https://projecteuler.net/problem=544) |
 | **Day 271** | 2026-09-04 | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/) | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [Divisibility of Harmonic Number Denominators](https://projecteuler.net/problem=541)<br>[Geometric Progression with Maximum Sum](https://projecteuler.net/problem=542) |

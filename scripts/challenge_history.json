@@ -2134,5 +2134,13 @@
     "medium": "[Invalid Transactions](https://leetcode.com/problems/invalid-transactions/)",
     "hard": "[Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/)",
     "euler": "[Faulhaber's Formulas](https://projecteuler.net/problem=545)<br>[The Floor's Revenge](https://projecteuler.net/problem=546)"
+  },
+  {
+    "day": 274,
+    "date": "2026-09-07",
+    "easy": "[Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/)",
+    "medium": "[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)",
+    "hard": "[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)",
+    "euler": "[Distance of Random Points Within Hollow Square Laminae](https://projecteuler.net/problem=547)<br>[Gozinta Chains](https://projecteuler.net/problem=548)"
   }
 ]
