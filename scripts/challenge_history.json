@@ -2142,5 +2142,13 @@
     "medium": "[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)",
     "hard": "[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)",
     "euler": "[Distance of Random Points Within Hollow Square Laminae](https://projecteuler.net/problem=547)<br>[Gozinta Chains](https://projecteuler.net/problem=548)"
+  },
+  {
+    "day": 275,
+    "date": "2026-09-08",
+    "easy": "[Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays/)",
+    "medium": "[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)",
+    "hard": "[Find the Number of Possible Ways for an Event](https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event/)",
+    "euler": "[Divisibility of Factorials](https://projecteuler.net/problem=549)<br>[Divisor Game](https://projecteuler.net/problem=550)"
   }
 ]
