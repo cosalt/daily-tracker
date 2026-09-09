@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 275 (Started Dec 8, 2025)
+### Daily Challenge - Day 276 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays/) | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [Find the Number of Possible Ways for an Event](https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event/) | [Divisibility of Factorials](https://projecteuler.net/problem=549)<br>[Divisor Game](https://projecteuler.net/problem=550) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/) | [Sum of Digits Sequence](https://projecteuler.net/problem=551)<br>[Chinese Leftovers II](https://projecteuler.net/problem=552) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 276** | 2026-09-09 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/) | [Sum of Digits Sequence](https://projecteuler.net/problem=551)<br>[Chinese Leftovers II](https://projecteuler.net/problem=552) |
 | **Day 275** | 2026-09-08 | [Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays/) | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [Find the Number of Possible Ways for an Event](https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event/) | [Divisibility of Factorials](https://projecteuler.net/problem=549)<br>[Divisor Game](https://projecteuler.net/problem=550) |
 | **Day 274** | 2026-09-07 | [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/) | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Distance of Random Points Within Hollow Square Laminae](https://projecteuler.net/problem=547)<br>[Gozinta Chains](https://projecteuler.net/problem=548) |
 | **Day 273** | 2026-09-06 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [Faulhaber's Formulas](https://projecteuler.net/problem=545)<br>[The Floor's Revenge](https://projecteuler.net/problem=546) |
