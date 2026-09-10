@@ -2158,5 +2158,13 @@
     "medium": "[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)",
     "hard": "[Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/)",
     "euler": "[Sum of Digits Sequence](https://projecteuler.net/problem=551)<br>[Chinese Leftovers II](https://projecteuler.net/problem=552)"
+  },
+  {
+    "day": 277,
+    "date": "2026-09-10",
+    "easy": "[Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)",
+    "medium": "[Additive Number](https://leetcode.com/problems/additive-number/)",
+    "hard": "[Similar String Groups](https://leetcode.com/problems/similar-string-groups/)",
+    "euler": "[Power Sets of Power Sets](https://projecteuler.net/problem=553)<br>[Centaurs on a Chess Board](https://projecteuler.net/problem=554)"
   }
 ]
