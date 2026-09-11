@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 277 (Started Dec 8, 2025)
+### Daily Challenge - Day 278 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | [Additive Number](https://leetcode.com/problems/additive-number/) | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | [Power Sets of Power Sets](https://projecteuler.net/problem=553)<br>[Centaurs on a Chess Board](https://projecteuler.net/problem=554) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | [Number of Strings Which Can Be Rearranged to Contain Substring](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/) | [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | [McCarthy 91 Function](https://projecteuler.net/problem=555)<br>[Squarefree Gaussian Integers](https://projecteuler.net/problem=556) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 278** | 2026-09-11 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | [Number of Strings Which Can Be Rearranged to Contain Substring](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/) | [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | [McCarthy 91 Function](https://projecteuler.net/problem=555)<br>[Squarefree Gaussian Integers](https://projecteuler.net/problem=556) |
 | **Day 277** | 2026-09-10 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | [Additive Number](https://leetcode.com/problems/additive-number/) | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | [Power Sets of Power Sets](https://projecteuler.net/problem=553)<br>[Centaurs on a Chess Board](https://projecteuler.net/problem=554) |
 | **Day 276** | 2026-09-09 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/) | [Sum of Digits Sequence](https://projecteuler.net/problem=551)<br>[Chinese Leftovers II](https://projecteuler.net/problem=552) |
 | **Day 275** | 2026-09-08 | [Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays/) | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [Find the Number of Possible Ways for an Event](https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event/) | [Divisibility of Factorials](https://projecteuler.net/problem=549)<br>[Divisor Game](https://projecteuler.net/problem=550) |

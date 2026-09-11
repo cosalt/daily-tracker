@@ -2166,5 +2166,13 @@
     "medium": "[Additive Number](https://leetcode.com/problems/additive-number/)",
     "hard": "[Similar String Groups](https://leetcode.com/problems/similar-string-groups/)",
     "euler": "[Power Sets of Power Sets](https://projecteuler.net/problem=553)<br>[Centaurs on a Chess Board](https://projecteuler.net/problem=554)"
+  },
+  {
+    "day": 278,
+    "date": "2026-09-11",
+    "easy": "[Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/)",
+    "medium": "[Number of Strings Which Can Be Rearranged to Contain Substring](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/)",
+    "hard": "[Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/)",
+    "euler": "[McCarthy 91 Function](https://projecteuler.net/problem=555)<br>[Squarefree Gaussian Integers](https://projecteuler.net/problem=556)"
   }
 ]
