@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 279 (Started Dec 8, 2025)
+### Daily Challenge - Day 280 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [Image Overlap](https://leetcode.com/problems/image-overlap/) | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [Cutting Triangles](https://projecteuler.net/problem=557)<br>[Irrational Base](https://projecteuler.net/problem=558) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | [Minimum Sum of Values by Dividing Array](https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/) | [Permuted Matrices](https://projecteuler.net/problem=559)<br>[Coprime Nim](https://projecteuler.net/problem=560) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 280** | 2026-09-13 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | [Minimum Sum of Values by Dividing Array](https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/) | [Permuted Matrices](https://projecteuler.net/problem=559)<br>[Coprime Nim](https://projecteuler.net/problem=560) |
 | **Day 279** | 2026-09-12 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [Image Overlap](https://leetcode.com/problems/image-overlap/) | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [Cutting Triangles](https://projecteuler.net/problem=557)<br>[Irrational Base](https://projecteuler.net/problem=558) |
 | **Day 278** | 2026-09-11 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | [Number of Strings Which Can Be Rearranged to Contain Substring](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/) | [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | [McCarthy 91 Function](https://projecteuler.net/problem=555)<br>[Squarefree Gaussian Integers](https://projecteuler.net/problem=556) |
 | **Day 277** | 2026-09-10 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | [Additive Number](https://leetcode.com/problems/additive-number/) | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | [Power Sets of Power Sets](https://projecteuler.net/problem=553)<br>[Centaurs on a Chess Board](https://projecteuler.net/problem=554) |

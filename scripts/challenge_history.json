@@ -2182,5 +2182,13 @@
     "medium": "[Image Overlap](https://leetcode.com/problems/image-overlap/)",
     "hard": "[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)",
     "euler": "[Cutting Triangles](https://projecteuler.net/problem=557)<br>[Irrational Base](https://projecteuler.net/problem=558)"
+  },
+  {
+    "day": 280,
+    "date": "2026-09-13",
+    "easy": "[Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/)",
+    "medium": "[Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/)",
+    "hard": "[Minimum Sum of Values by Dividing Array](https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/)",
+    "euler": "[Permuted Matrices](https://projecteuler.net/problem=559)<br>[Coprime Nim](https://projecteuler.net/problem=560)"
   }
 ]
