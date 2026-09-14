@@ -2190,5 +2190,13 @@
     "medium": "[Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/)",
     "hard": "[Minimum Sum of Values by Dividing Array](https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/)",
     "euler": "[Permuted Matrices](https://projecteuler.net/problem=559)<br>[Coprime Nim](https://projecteuler.net/problem=560)"
+  },
+  {
+    "day": 281,
+    "date": "2026-09-14",
+    "easy": "[Semi-Ordered Permutation](https://leetcode.com/problems/semi-ordered-permutation/)",
+    "medium": "[Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/)",
+    "hard": "[Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/)",
+    "euler": "[Divisor Pairs](https://projecteuler.net/problem=561)<br>[Maximal Perimeter](https://projecteuler.net/problem=562)"
   }
 ]
