@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 282 (Started Dec 8, 2025)
+### Daily Challenge - Day 283 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | [Number of Stable Subsequences](https://leetcode.com/problems/number-of-stable-subsequences/) | [Robot Welders](https://projecteuler.net/problem=563)<br>[Maximal Polygons](https://projecteuler.net/problem=564) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/) | [Number of Pairs After Increment](https://leetcode.com/problems/number-of-pairs-after-increment/) | [Divisibility of Sum of Divisors](https://projecteuler.net/problem=565)<br>[Cake Icing Puzzle](https://projecteuler.net/problem=566) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 283** | 2026-09-16 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/) | [Number of Pairs After Increment](https://leetcode.com/problems/number-of-pairs-after-increment/) | [Divisibility of Sum of Divisors](https://projecteuler.net/problem=565)<br>[Cake Icing Puzzle](https://projecteuler.net/problem=566) |
 | **Day 282** | 2026-09-15 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | [Number of Stable Subsequences](https://leetcode.com/problems/number-of-stable-subsequences/) | [Robot Welders](https://projecteuler.net/problem=563)<br>[Maximal Polygons](https://projecteuler.net/problem=564) |
 | **Day 281** | 2026-09-14 | [Semi-Ordered Permutation](https://leetcode.com/problems/semi-ordered-permutation/) | [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/) | [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | [Divisor Pairs](https://projecteuler.net/problem=561)<br>[Maximal Perimeter](https://projecteuler.net/problem=562) |
 | **Day 280** | 2026-09-13 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | [Minimum Sum of Values by Dividing Array](https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/) | [Permuted Matrices](https://projecteuler.net/problem=559)<br>[Coprime Nim](https://projecteuler.net/problem=560) |

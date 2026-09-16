@@ -2206,5 +2206,13 @@
     "medium": "[Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/)",
     "hard": "[Number of Stable Subsequences](https://leetcode.com/problems/number-of-stable-subsequences/)",
     "euler": "[Robot Welders](https://projecteuler.net/problem=563)<br>[Maximal Polygons](https://projecteuler.net/problem=564)"
+  },
+  {
+    "day": 283,
+    "date": "2026-09-16",
+    "easy": "[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)",
+    "medium": "[Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/)",
+    "hard": "[Number of Pairs After Increment](https://leetcode.com/problems/number-of-pairs-after-increment/)",
+    "euler": "[Divisibility of Sum of Divisors](https://projecteuler.net/problem=565)<br>[Cake Icing Puzzle](https://projecteuler.net/problem=566)"
   }
 ]
