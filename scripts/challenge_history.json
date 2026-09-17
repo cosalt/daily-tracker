@@ -2214,5 +2214,13 @@
     "medium": "[Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/)",
     "hard": "[Number of Pairs After Increment](https://leetcode.com/problems/number-of-pairs-after-increment/)",
     "euler": "[Divisibility of Sum of Divisors](https://projecteuler.net/problem=565)<br>[Cake Icing Puzzle](https://projecteuler.net/problem=566)"
+  },
+  {
+    "day": 284,
+    "date": "2026-09-17",
+    "easy": "[Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)",
+    "medium": "[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)",
+    "hard": "[Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/)",
+    "euler": "[Reciprocal Games I](https://projecteuler.net/problem=567)<br>[Reciprocal Games II](https://projecteuler.net/problem=568)"
   }
 ]
