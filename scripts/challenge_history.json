@@ -2222,5 +2222,13 @@
     "medium": "[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)",
     "hard": "[Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/)",
     "euler": "[Reciprocal Games I](https://projecteuler.net/problem=567)<br>[Reciprocal Games II](https://projecteuler.net/problem=568)"
+  },
+  {
+    "day": 285,
+    "date": "2026-09-18",
+    "easy": "[Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/)",
+    "medium": "[Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/)",
+    "hard": "[Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/)",
+    "euler": "[Prime Mountain Range](https://projecteuler.net/problem=569)<br>[Snowflakes](https://projecteuler.net/problem=570)"
   }
 ]
