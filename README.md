@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 285 (Started Dec 8, 2025)
+### Daily Challenge - Day 286 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) | [Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/) | [Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) | [Prime Mountain Range](https://projecteuler.net/problem=569)<br>[Snowflakes](https://projecteuler.net/problem=570) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) | [Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/) | [Super Pandigital Numbers](https://projecteuler.net/problem=571)<br>[Idempotent Matrices](https://projecteuler.net/problem=572) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 286** | 2026-09-19 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) | [Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/) | [Super Pandigital Numbers](https://projecteuler.net/problem=571)<br>[Idempotent Matrices](https://projecteuler.net/problem=572) |
 | **Day 285** | 2026-09-18 | [Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) | [Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/) | [Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) | [Prime Mountain Range](https://projecteuler.net/problem=569)<br>[Snowflakes](https://projecteuler.net/problem=570) |
 | **Day 284** | 2026-09-17 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/) | [Reciprocal Games I](https://projecteuler.net/problem=567)<br>[Reciprocal Games II](https://projecteuler.net/problem=568) |
 | **Day 283** | 2026-09-16 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/) | [Number of Pairs After Increment](https://leetcode.com/problems/number-of-pairs-after-increment/) | [Divisibility of Sum of Divisors](https://projecteuler.net/problem=565)<br>[Cake Icing Puzzle](https://projecteuler.net/problem=566) |

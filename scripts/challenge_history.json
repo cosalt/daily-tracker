@@ -2230,5 +2230,13 @@
     "medium": "[Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/)",
     "hard": "[Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/)",
     "euler": "[Prime Mountain Range](https://projecteuler.net/problem=569)<br>[Snowflakes](https://projecteuler.net/problem=570)"
+  },
+  {
+    "day": 286,
+    "date": "2026-09-19",
+    "easy": "[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)",
+    "medium": "[Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/)",
+    "hard": "[Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/)",
+    "euler": "[Super Pandigital Numbers](https://projecteuler.net/problem=571)<br>[Idempotent Matrices](https://projecteuler.net/problem=572)"
   }
 ]
