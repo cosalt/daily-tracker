@@ -2238,5 +2238,13 @@
     "medium": "[Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/)",
     "hard": "[Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/)",
     "euler": "[Super Pandigital Numbers](https://projecteuler.net/problem=571)<br>[Idempotent Matrices](https://projecteuler.net/problem=572)"
+  },
+  {
+    "day": 287,
+    "date": "2026-09-20",
+    "easy": "[Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)",
+    "medium": "[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)",
+    "hard": "[Count Beautiful Substrings II](https://leetcode.com/problems/count-beautiful-substrings-ii/)",
+    "euler": "[Unfair Race](https://projecteuler.net/problem=573)<br>[Verifying Primes](https://projecteuler.net/problem=574)"
   }
 ]
