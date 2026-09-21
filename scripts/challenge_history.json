@@ -2246,5 +2246,13 @@
     "medium": "[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)",
     "hard": "[Count Beautiful Substrings II](https://leetcode.com/problems/count-beautiful-substrings-ii/)",
     "euler": "[Unfair Race](https://projecteuler.net/problem=573)<br>[Verifying Primes](https://projecteuler.net/problem=574)"
+  },
+  {
+    "day": 288,
+    "date": "2026-09-21",
+    "easy": "[Find Books with No Available Copies](https://leetcode.com/problems/find-books-with-no-available-copies/)",
+    "medium": "[Count K-th Roots in a Range](https://leetcode.com/problems/count-k-th-roots-in-a-range/)",
+    "hard": "[Longest Special Path](https://leetcode.com/problems/longest-special-path/)",
+    "euler": "[Wandering Robots](https://projecteuler.net/problem=575)<br>[Irrational Jumps](https://projecteuler.net/problem=576)"
   }
 ]

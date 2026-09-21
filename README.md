@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 287 (Started Dec 8, 2025)
+### Daily Challenge - Day 288 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Count Beautiful Substrings II](https://leetcode.com/problems/count-beautiful-substrings-ii/) | [Unfair Race](https://projecteuler.net/problem=573)<br>[Verifying Primes](https://projecteuler.net/problem=574) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Find Books with No Available Copies](https://leetcode.com/problems/find-books-with-no-available-copies/) | [Count K-th Roots in a Range](https://leetcode.com/problems/count-k-th-roots-in-a-range/) | [Longest Special Path](https://leetcode.com/problems/longest-special-path/) | [Wandering Robots](https://projecteuler.net/problem=575)<br>[Irrational Jumps](https://projecteuler.net/problem=576) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 288** | 2026-09-21 | [Find Books with No Available Copies](https://leetcode.com/problems/find-books-with-no-available-copies/) | [Count K-th Roots in a Range](https://leetcode.com/problems/count-k-th-roots-in-a-range/) | [Longest Special Path](https://leetcode.com/problems/longest-special-path/) | [Wandering Robots](https://projecteuler.net/problem=575)<br>[Irrational Jumps](https://projecteuler.net/problem=576) |
 | **Day 287** | 2026-09-20 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Count Beautiful Substrings II](https://leetcode.com/problems/count-beautiful-substrings-ii/) | [Unfair Race](https://projecteuler.net/problem=573)<br>[Verifying Primes](https://projecteuler.net/problem=574) |
 | **Day 286** | 2026-09-19 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) | [Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/) | [Super Pandigital Numbers](https://projecteuler.net/problem=571)<br>[Idempotent Matrices](https://projecteuler.net/problem=572) |
 | **Day 285** | 2026-09-18 | [Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) | [Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/) | [Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) | [Prime Mountain Range](https://projecteuler.net/problem=569)<br>[Snowflakes](https://projecteuler.net/problem=570) |
