@@ -2254,5 +2254,13 @@
     "medium": "[Count K-th Roots in a Range](https://leetcode.com/problems/count-k-th-roots-in-a-range/)",
     "hard": "[Longest Special Path](https://leetcode.com/problems/longest-special-path/)",
     "euler": "[Wandering Robots](https://projecteuler.net/problem=575)<br>[Irrational Jumps](https://projecteuler.net/problem=576)"
+  },
+  {
+    "day": 289,
+    "date": "2026-09-22",
+    "easy": "[Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/)",
+    "medium": "[Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/)",
+    "hard": "[Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/)",
+    "euler": "[Counting Hexagons](https://projecteuler.net/problem=577)<br>[Integers with Decreasing Prime Powers](https://projecteuler.net/problem=578)"
   }
 ]
