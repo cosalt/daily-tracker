@@ -2262,5 +2262,13 @@
     "medium": "[Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/)",
     "hard": "[Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/)",
     "euler": "[Counting Hexagons](https://projecteuler.net/problem=577)<br>[Integers with Decreasing Prime Powers](https://projecteuler.net/problem=578)"
+  },
+  {
+    "day": 290,
+    "date": "2026-09-23",
+    "easy": "[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)",
+    "medium": "[Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/)",
+    "hard": "[Valid K-Unique Subarrays I](https://leetcode.com/problems/valid-k-unique-subarrays-i/)",
+    "euler": "[Lattice Points in Lattice Cubes](https://projecteuler.net/problem=579)<br>[Squarefree Hilbert Numbers](https://projecteuler.net/problem=580)"
   }
 ]

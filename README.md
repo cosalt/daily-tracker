@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 289 (Started Dec 8, 2025)
+### Daily Challenge - Day 290 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | [Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/) | [Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/) | [Counting Hexagons](https://projecteuler.net/problem=577)<br>[Integers with Decreasing Prime Powers](https://projecteuler.net/problem=578) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/) | [Valid K-Unique Subarrays I](https://leetcode.com/problems/valid-k-unique-subarrays-i/) | [Lattice Points in Lattice Cubes](https://projecteuler.net/problem=579)<br>[Squarefree Hilbert Numbers](https://projecteuler.net/problem=580) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 290** | 2026-09-23 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/) | [Valid K-Unique Subarrays I](https://leetcode.com/problems/valid-k-unique-subarrays-i/) | [Lattice Points in Lattice Cubes](https://projecteuler.net/problem=579)<br>[Squarefree Hilbert Numbers](https://projecteuler.net/problem=580) |
 | **Day 289** | 2026-09-22 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | [Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/) | [Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/) | [Counting Hexagons](https://projecteuler.net/problem=577)<br>[Integers with Decreasing Prime Powers](https://projecteuler.net/problem=578) |
 | **Day 288** | 2026-09-21 | [Find Books with No Available Copies](https://leetcode.com/problems/find-books-with-no-available-copies/) | [Count K-th Roots in a Range](https://leetcode.com/problems/count-k-th-roots-in-a-range/) | [Longest Special Path](https://leetcode.com/problems/longest-special-path/) | [Wandering Robots](https://projecteuler.net/problem=575)<br>[Irrational Jumps](https://projecteuler.net/problem=576) |
 | **Day 287** | 2026-09-20 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Count Beautiful Substrings II](https://leetcode.com/problems/count-beautiful-substrings-ii/) | [Unfair Race](https://projecteuler.net/problem=573)<br>[Verifying Primes](https://projecteuler.net/problem=574) |
