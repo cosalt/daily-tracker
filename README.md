@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 290 (Started Dec 8, 2025)
+### Daily Challenge - Day 291 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/) | [Valid K-Unique Subarrays I](https://leetcode.com/problems/valid-k-unique-subarrays-i/) | [Lattice Points in Lattice Cubes](https://projecteuler.net/problem=579)<br>[Squarefree Hilbert Numbers](https://projecteuler.net/problem=580) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/) | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [$47$-smooth Triangular Numbers](https://projecteuler.net/problem=581)<br>[Nearly Isosceles $120$ Degree Triangles](https://projecteuler.net/problem=582) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 291** | 2026-09-24 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/) | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [$47$-smooth Triangular Numbers](https://projecteuler.net/problem=581)<br>[Nearly Isosceles $120$ Degree Triangles](https://projecteuler.net/problem=582) |
 | **Day 290** | 2026-09-23 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/) | [Valid K-Unique Subarrays I](https://leetcode.com/problems/valid-k-unique-subarrays-i/) | [Lattice Points in Lattice Cubes](https://projecteuler.net/problem=579)<br>[Squarefree Hilbert Numbers](https://projecteuler.net/problem=580) |
 | **Day 289** | 2026-09-22 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | [Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/) | [Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/) | [Counting Hexagons](https://projecteuler.net/problem=577)<br>[Integers with Decreasing Prime Powers](https://projecteuler.net/problem=578) |
 | **Day 288** | 2026-09-21 | [Find Books with No Available Copies](https://leetcode.com/problems/find-books-with-no-available-copies/) | [Count K-th Roots in a Range](https://leetcode.com/problems/count-k-th-roots-in-a-range/) | [Longest Special Path](https://leetcode.com/problems/longest-special-path/) | [Wandering Robots](https://projecteuler.net/problem=575)<br>[Irrational Jumps](https://projecteuler.net/problem=576) |

@@ -2270,5 +2270,13 @@
     "medium": "[Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/)",
     "hard": "[Valid K-Unique Subarrays I](https://leetcode.com/problems/valid-k-unique-subarrays-i/)",
     "euler": "[Lattice Points in Lattice Cubes](https://projecteuler.net/problem=579)<br>[Squarefree Hilbert Numbers](https://projecteuler.net/problem=580)"
+  },
+  {
+    "day": 291,
+    "date": "2026-09-24",
+    "easy": "[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)",
+    "medium": "[Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/)",
+    "hard": "[Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/)",
+    "euler": "[$47$-smooth Triangular Numbers](https://projecteuler.net/problem=581)<br>[Nearly Isosceles $120$ Degree Triangles](https://projecteuler.net/problem=582)"
   }
 ]
