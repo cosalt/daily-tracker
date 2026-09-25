@@ -2278,5 +2278,13 @@
     "medium": "[Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/)",
     "hard": "[Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/)",
     "euler": "[$47$-smooth Triangular Numbers](https://projecteuler.net/problem=581)<br>[Nearly Isosceles $120$ Degree Triangles](https://projecteuler.net/problem=582)"
+  },
+  {
+    "day": 292,
+    "date": "2026-09-25",
+    "easy": "[Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/)",
+    "medium": "[Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)",
+    "hard": "[Count Anagrams](https://leetcode.com/problems/count-anagrams/)",
+    "euler": "[Heron Envelopes](https://projecteuler.net/problem=583)<br>[Birthday Problem Revisited](https://projecteuler.net/problem=584)"
   }
 ]
