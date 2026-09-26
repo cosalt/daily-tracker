@@ -2286,5 +2286,13 @@
     "medium": "[Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)",
     "hard": "[Count Anagrams](https://leetcode.com/problems/count-anagrams/)",
     "euler": "[Heron Envelopes](https://projecteuler.net/problem=583)<br>[Birthday Problem Revisited](https://projecteuler.net/problem=584)"
+  },
+  {
+    "day": 293,
+    "date": "2026-09-26",
+    "easy": "[Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/)",
+    "medium": "[Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/)",
+    "hard": "[Count Paths That Can Form a Palindrome in a Tree](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/)",
+    "euler": "[Nested Square Roots](https://projecteuler.net/problem=585)<br>[Binary Quadratic Form](https://projecteuler.net/problem=586)"
   }
 ]

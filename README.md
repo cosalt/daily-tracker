@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 292 (Started Dec 8, 2025)
+### Daily Challenge - Day 293 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | [Count Anagrams](https://leetcode.com/problems/count-anagrams/) | [Heron Envelopes](https://projecteuler.net/problem=583)<br>[Birthday Problem Revisited](https://projecteuler.net/problem=584) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | [Count Paths That Can Form a Palindrome in a Tree](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) | [Nested Square Roots](https://projecteuler.net/problem=585)<br>[Binary Quadratic Form](https://projecteuler.net/problem=586) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 293** | 2026-09-26 | [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | [Count Paths That Can Form a Palindrome in a Tree](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) | [Nested Square Roots](https://projecteuler.net/problem=585)<br>[Binary Quadratic Form](https://projecteuler.net/problem=586) |
 | **Day 292** | 2026-09-25 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | [Count Anagrams](https://leetcode.com/problems/count-anagrams/) | [Heron Envelopes](https://projecteuler.net/problem=583)<br>[Birthday Problem Revisited](https://projecteuler.net/problem=584) |
 | **Day 291** | 2026-09-24 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/) | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [$47$-smooth Triangular Numbers](https://projecteuler.net/problem=581)<br>[Nearly Isosceles $120$ Degree Triangles](https://projecteuler.net/problem=582) |
 | **Day 290** | 2026-09-23 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/) | [Valid K-Unique Subarrays I](https://leetcode.com/problems/valid-k-unique-subarrays-i/) | [Lattice Points in Lattice Cubes](https://projecteuler.net/problem=579)<br>[Squarefree Hilbert Numbers](https://projecteuler.net/problem=580) |
