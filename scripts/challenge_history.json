@@ -2294,5 +2294,13 @@
     "medium": "[Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/)",
     "hard": "[Count Paths That Can Form a Palindrome in a Tree](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/)",
     "euler": "[Nested Square Roots](https://projecteuler.net/problem=585)<br>[Binary Quadratic Form](https://projecteuler.net/problem=586)"
+  },
+  {
+    "day": 294,
+    "date": "2026-09-27",
+    "easy": "[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)",
+    "medium": "[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)",
+    "hard": "[Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/)",
+    "euler": "[Concave Triangle](https://projecteuler.net/problem=587)<br>[Quintinomial Coefficients](https://projecteuler.net/problem=588)"
   }
 ]

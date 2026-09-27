@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 293 (Started Dec 8, 2025)
+### Daily Challenge - Day 294 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | [Count Paths That Can Form a Palindrome in a Tree](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) | [Nested Square Roots](https://projecteuler.net/problem=585)<br>[Binary Quadratic Form](https://projecteuler.net/problem=586) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | [Concave Triangle](https://projecteuler.net/problem=587)<br>[Quintinomial Coefficients](https://projecteuler.net/problem=588) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 294** | 2026-09-27 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | [Concave Triangle](https://projecteuler.net/problem=587)<br>[Quintinomial Coefficients](https://projecteuler.net/problem=588) |
 | **Day 293** | 2026-09-26 | [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | [Count Paths That Can Form a Palindrome in a Tree](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) | [Nested Square Roots](https://projecteuler.net/problem=585)<br>[Binary Quadratic Form](https://projecteuler.net/problem=586) |
 | **Day 292** | 2026-09-25 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | [Count Anagrams](https://leetcode.com/problems/count-anagrams/) | [Heron Envelopes](https://projecteuler.net/problem=583)<br>[Birthday Problem Revisited](https://projecteuler.net/problem=584) |
 | **Day 291** | 2026-09-24 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/) | [Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [$47$-smooth Triangular Numbers](https://projecteuler.net/problem=581)<br>[Nearly Isosceles $120$ Degree Triangles](https://projecteuler.net/problem=582) |
