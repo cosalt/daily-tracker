@@ -2302,5 +2302,13 @@
     "medium": "[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)",
     "hard": "[Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/)",
     "euler": "[Concave Triangle](https://projecteuler.net/problem=587)<br>[Quintinomial Coefficients](https://projecteuler.net/problem=588)"
+  },
+  {
+    "day": 295,
+    "date": "2026-09-28",
+    "easy": "[Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/)",
+    "medium": "[Path Sum II](https://leetcode.com/problems/path-sum-ii/)",
+    "hard": "[String Compression II](https://leetcode.com/problems/string-compression-ii/)",
+    "euler": "[Poohsticks Marathon](https://projecteuler.net/problem=589)<br>[Sets with a Given Least Common Multiple](https://projecteuler.net/problem=590)"
   }
 ]
