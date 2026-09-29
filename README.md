@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 295 (Started Dec 8, 2025)
+### Daily Challenge - Day 296 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [String Compression II](https://leetcode.com/problems/string-compression-ii/) | [Poohsticks Marathon](https://projecteuler.net/problem=589)<br>[Sets with a Given Least Common Multiple](https://projecteuler.net/problem=590) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Decode the Message](https://leetcode.com/problems/decode-the-message/) | [Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | [Range Module](https://leetcode.com/problems/range-module/) | [Best Approximations by Quadratic Integers](https://projecteuler.net/problem=591)<br>[Factorial Trailing Digits 2](https://projecteuler.net/problem=592) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 296** | 2026-09-29 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | [Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | [Range Module](https://leetcode.com/problems/range-module/) | [Best Approximations by Quadratic Integers](https://projecteuler.net/problem=591)<br>[Factorial Trailing Digits 2](https://projecteuler.net/problem=592) |
 | **Day 295** | 2026-09-28 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [String Compression II](https://leetcode.com/problems/string-compression-ii/) | [Poohsticks Marathon](https://projecteuler.net/problem=589)<br>[Sets with a Given Least Common Multiple](https://projecteuler.net/problem=590) |
 | **Day 294** | 2026-09-27 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Make the XOR of All Segments Equal to Zero](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | [Concave Triangle](https://projecteuler.net/problem=587)<br>[Quintinomial Coefficients](https://projecteuler.net/problem=588) |
 | **Day 293** | 2026-09-26 | [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | [Count Paths That Can Form a Palindrome in a Tree](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) | [Nested Square Roots](https://projecteuler.net/problem=585)<br>[Binary Quadratic Form](https://projecteuler.net/problem=586) |
