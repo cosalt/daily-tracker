@@ -2318,5 +2318,13 @@
     "medium": "[Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/)",
     "hard": "[Range Module](https://leetcode.com/problems/range-module/)",
     "euler": "[Best Approximations by Quadratic Integers](https://projecteuler.net/problem=591)<br>[Factorial Trailing Digits 2](https://projecteuler.net/problem=592)"
+  },
+  {
+    "day": 297,
+    "date": "2026-09-30",
+    "easy": "[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)",
+    "medium": "[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)",
+    "hard": "[Number of Integers With Popcount-Depth Equal to K I](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-i/)",
+    "euler": "[Fleeting Medians](https://projecteuler.net/problem=593)<br>[Rhombus Tilings](https://projecteuler.net/problem=594)"
   }
 ]
