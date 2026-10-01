@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 297 (Started Dec 8, 2025)
+### Daily Challenge - Day 298 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Number of Integers With Popcount-Depth Equal to K I](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-i/) | [Fleeting Medians](https://projecteuler.net/problem=593)<br>[Rhombus Tilings](https://projecteuler.net/problem=594) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | [Count Shadow Pairs I](https://leetcode.com/problems/count-shadow-pairs-i/) | [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | [Incremental Random Sort](https://projecteuler.net/problem=595)<br>[Number of Lattice Points in a Hyperball](https://projecteuler.net/problem=596) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 298** | 2026-10-01 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | [Count Shadow Pairs I](https://leetcode.com/problems/count-shadow-pairs-i/) | [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | [Incremental Random Sort](https://projecteuler.net/problem=595)<br>[Number of Lattice Points in a Hyperball](https://projecteuler.net/problem=596) |
 | **Day 297** | 2026-09-30 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Number of Integers With Popcount-Depth Equal to K I](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-i/) | [Fleeting Medians](https://projecteuler.net/problem=593)<br>[Rhombus Tilings](https://projecteuler.net/problem=594) |
 | **Day 296** | 2026-09-29 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | [Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | [Range Module](https://leetcode.com/problems/range-module/) | [Best Approximations by Quadratic Integers](https://projecteuler.net/problem=591)<br>[Factorial Trailing Digits 2](https://projecteuler.net/problem=592) |
 | **Day 295** | 2026-09-28 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [String Compression II](https://leetcode.com/problems/string-compression-ii/) | [Poohsticks Marathon](https://projecteuler.net/problem=589)<br>[Sets with a Given Least Common Multiple](https://projecteuler.net/problem=590) |

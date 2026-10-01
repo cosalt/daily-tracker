@@ -2326,5 +2326,13 @@
     "medium": "[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)",
     "hard": "[Number of Integers With Popcount-Depth Equal to K I](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-i/)",
     "euler": "[Fleeting Medians](https://projecteuler.net/problem=593)<br>[Rhombus Tilings](https://projecteuler.net/problem=594)"
+  },
+  {
+    "day": 298,
+    "date": "2026-10-01",
+    "easy": "[Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)",
+    "medium": "[Count Shadow Pairs I](https://leetcode.com/problems/count-shadow-pairs-i/)",
+    "hard": "[Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/)",
+    "euler": "[Incremental Random Sort](https://projecteuler.net/problem=595)<br>[Number of Lattice Points in a Hyperball](https://projecteuler.net/problem=596)"
   }
 ]
