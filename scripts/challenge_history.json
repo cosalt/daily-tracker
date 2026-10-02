@@ -2334,5 +2334,13 @@
     "medium": "[Count Shadow Pairs I](https://leetcode.com/problems/count-shadow-pairs-i/)",
     "hard": "[Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/)",
     "euler": "[Incremental Random Sort](https://projecteuler.net/problem=595)<br>[Number of Lattice Points in a Hyperball](https://projecteuler.net/problem=596)"
+  },
+  {
+    "day": 299,
+    "date": "2026-10-02",
+    "easy": "[Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)",
+    "medium": "[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)",
+    "hard": "[Number of Atoms](https://leetcode.com/problems/number-of-atoms/)",
+    "euler": "[Torpids](https://projecteuler.net/problem=597)<br>[Split Divisibilities](https://projecteuler.net/problem=598)"
   }
 ]
