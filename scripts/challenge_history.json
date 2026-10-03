@@ -2342,5 +2342,13 @@
     "medium": "[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)",
     "hard": "[Number of Atoms](https://leetcode.com/problems/number-of-atoms/)",
     "euler": "[Torpids](https://projecteuler.net/problem=597)<br>[Split Divisibilities](https://projecteuler.net/problem=598)"
+  },
+  {
+    "day": 300,
+    "date": "2026-10-03",
+    "easy": "[Base 7](https://leetcode.com/problems/base-7/)",
+    "medium": "[Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/)",
+    "hard": "[Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)",
+    "euler": "[Distinct Colourings of a Rubik's Cube](https://projecteuler.net/problem=599)<br>[Integer Sided Equiangular Hexagons](https://projecteuler.net/problem=600)"
   }
 ]
