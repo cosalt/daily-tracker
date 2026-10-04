@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 300 (Started Dec 8, 2025)
+### Daily Challenge - Day 301 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Base 7](https://leetcode.com/problems/base-7/) | [Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/) | [Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | [Distinct Colourings of a Rubik's Cube](https://projecteuler.net/problem=599)<br>[Integer Sided Equiangular Hexagons](https://projecteuler.net/problem=600) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Divisibility Streaks](https://projecteuler.net/problem=601)<br>[Product of Head Counts](https://projecteuler.net/problem=602) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 301** | 2026-10-04 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Divisibility Streaks](https://projecteuler.net/problem=601)<br>[Product of Head Counts](https://projecteuler.net/problem=602) |
 | **Day 300** | 2026-10-03 | [Base 7](https://leetcode.com/problems/base-7/) | [Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/) | [Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | [Distinct Colourings of a Rubik's Cube](https://projecteuler.net/problem=599)<br>[Integer Sided Equiangular Hexagons](https://projecteuler.net/problem=600) |
 | **Day 299** | 2026-10-02 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/) | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | [Torpids](https://projecteuler.net/problem=597)<br>[Split Divisibilities](https://projecteuler.net/problem=598) |
 | **Day 298** | 2026-10-01 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | [Count Shadow Pairs I](https://leetcode.com/problems/count-shadow-pairs-i/) | [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | [Incremental Random Sort](https://projecteuler.net/problem=595)<br>[Number of Lattice Points in a Hyperball](https://projecteuler.net/problem=596) |

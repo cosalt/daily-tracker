@@ -2350,5 +2350,13 @@
     "medium": "[Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/)",
     "hard": "[Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)",
     "euler": "[Distinct Colourings of a Rubik's Cube](https://projecteuler.net/problem=599)<br>[Integer Sided Equiangular Hexagons](https://projecteuler.net/problem=600)"
+  },
+  {
+    "day": 301,
+    "date": "2026-10-04",
+    "easy": "[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)",
+    "medium": "[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)",
+    "hard": "[Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)",
+    "euler": "[Divisibility Streaks](https://projecteuler.net/problem=601)<br>[Product of Head Counts](https://projecteuler.net/problem=602)"
   }
 ]
