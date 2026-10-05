@@ -2358,5 +2358,13 @@
     "medium": "[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)",
     "hard": "[Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)",
     "euler": "[Divisibility Streaks](https://projecteuler.net/problem=601)<br>[Product of Head Counts](https://projecteuler.net/problem=602)"
+  },
+  {
+    "day": 302,
+    "date": "2026-10-05",
+    "easy": "[Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)",
+    "medium": "[Transpose File](https://leetcode.com/problems/transpose-file/)",
+    "hard": "[Incremental Even-Weighted Cycle Queries](https://leetcode.com/problems/incremental-even-weighted-cycle-queries/)",
+    "euler": "[Substring Sums of Prime Concatenations](https://projecteuler.net/problem=603)<br>[Convex Path in Square](https://projecteuler.net/problem=604)"
   }
 ]
