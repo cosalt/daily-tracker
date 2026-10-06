@@ -2366,5 +2366,13 @@
     "medium": "[Transpose File](https://leetcode.com/problems/transpose-file/)",
     "hard": "[Incremental Even-Weighted Cycle Queries](https://leetcode.com/problems/incremental-even-weighted-cycle-queries/)",
     "euler": "[Substring Sums of Prime Concatenations](https://projecteuler.net/problem=603)<br>[Convex Path in Square](https://projecteuler.net/problem=604)"
+  },
+  {
+    "day": 303,
+    "date": "2026-10-06",
+    "easy": "[Sum of Compatible Numbers in Range I](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/)",
+    "medium": "[Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/)",
+    "hard": "[Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points/)",
+    "euler": "[Pairwise Coin-Tossing Game](https://projecteuler.net/problem=605)<br>[Gozinta Chains II](https://projecteuler.net/problem=606)"
   }
 ]
