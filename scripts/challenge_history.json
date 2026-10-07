@@ -2374,5 +2374,13 @@
     "medium": "[Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/)",
     "hard": "[Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points/)",
     "euler": "[Pairwise Coin-Tossing Game](https://projecteuler.net/problem=605)<br>[Gozinta Chains II](https://projecteuler.net/problem=606)"
+  },
+  {
+    "day": 304,
+    "date": "2026-10-07",
+    "easy": "[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)",
+    "medium": "[Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/)",
+    "hard": "[Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs/)",
+    "euler": "[Marsh Crossing](https://projecteuler.net/problem=607)<br>[Divisor Sums](https://projecteuler.net/problem=608)"
   }
 ]

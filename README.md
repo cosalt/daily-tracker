@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 303 (Started Dec 8, 2025)
+### Daily Challenge - Day 304 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Sum of Compatible Numbers in Range I](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/) | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | [Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points/) | [Pairwise Coin-Tossing Game](https://projecteuler.net/problem=605)<br>[Gozinta Chains II](https://projecteuler.net/problem=606) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | [Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs/) | [Marsh Crossing](https://projecteuler.net/problem=607)<br>[Divisor Sums](https://projecteuler.net/problem=608) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 304** | 2026-10-07 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | [Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs/) | [Marsh Crossing](https://projecteuler.net/problem=607)<br>[Divisor Sums](https://projecteuler.net/problem=608) |
 | **Day 303** | 2026-10-06 | [Sum of Compatible Numbers in Range I](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/) | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | [Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points/) | [Pairwise Coin-Tossing Game](https://projecteuler.net/problem=605)<br>[Gozinta Chains II](https://projecteuler.net/problem=606) |
 | **Day 302** | 2026-10-05 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | [Transpose File](https://leetcode.com/problems/transpose-file/) | [Incremental Even-Weighted Cycle Queries](https://leetcode.com/problems/incremental-even-weighted-cycle-queries/) | [Substring Sums of Prime Concatenations](https://projecteuler.net/problem=603)<br>[Convex Path in Square](https://projecteuler.net/problem=604) |
 | **Day 301** | 2026-10-04 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Divisibility Streaks](https://projecteuler.net/problem=601)<br>[Product of Head Counts](https://projecteuler.net/problem=602) |
