@@ -2382,5 +2382,13 @@
     "medium": "[Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/)",
     "hard": "[Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs/)",
     "euler": "[Marsh Crossing](https://projecteuler.net/problem=607)<br>[Divisor Sums](https://projecteuler.net/problem=608)"
+  },
+  {
+    "day": 306,
+    "date": "2026-10-09",
+    "easy": "[Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/)",
+    "medium": "[Jump Game III](https://leetcode.com/problems/jump-game-iii/)",
+    "hard": "[Minimize the Maximum Adjacent Element Difference](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/)",
+    "euler": "[Hallway of Square Steps](https://projecteuler.net/problem=611)<br>[Friend Numbers](https://projecteuler.net/problem=612)"
   }
 ]
