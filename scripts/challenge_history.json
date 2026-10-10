@@ -2390,5 +2390,13 @@
     "medium": "[Jump Game III](https://leetcode.com/problems/jump-game-iii/)",
     "hard": "[Minimize the Maximum Adjacent Element Difference](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/)",
     "euler": "[Hallway of Square Steps](https://projecteuler.net/problem=611)<br>[Friend Numbers](https://projecteuler.net/problem=612)"
+  },
+  {
+    "day": 307,
+    "date": "2026-10-10",
+    "easy": "[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)",
+    "medium": "[Design Auction System](https://leetcode.com/problems/design-auction-system/)",
+    "hard": "[Count Sequences to K](https://leetcode.com/problems/count-sequences-to-k/)",
+    "euler": "[Pythagorean Ant](https://projecteuler.net/problem=613)<br>[Special Partitions 2](https://projecteuler.net/problem=614)"
   }
 ]

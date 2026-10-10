@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 306 (Started Dec 8, 2025)
+### Daily Challenge - Day 307 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/) | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Minimize the Maximum Adjacent Element Difference](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/) | [Hallway of Square Steps](https://projecteuler.net/problem=611)<br>[Friend Numbers](https://projecteuler.net/problem=612) | [NeetCode Practice](https://neetcode.io/practice) |
+| [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Design Auction System](https://leetcode.com/problems/design-auction-system/) | [Count Sequences to K](https://leetcode.com/problems/count-sequences-to-k/) | [Pythagorean Ant](https://projecteuler.net/problem=613)<br>[Special Partitions 2](https://projecteuler.net/problem=614) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 307** | 2026-10-10 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Design Auction System](https://leetcode.com/problems/design-auction-system/) | [Count Sequences to K](https://leetcode.com/problems/count-sequences-to-k/) | [Pythagorean Ant](https://projecteuler.net/problem=613)<br>[Special Partitions 2](https://projecteuler.net/problem=614) |
 | **Day 306** | 2026-10-09 | [Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/) | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Minimize the Maximum Adjacent Element Difference](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/) | [Hallway of Square Steps](https://projecteuler.net/problem=611)<br>[Friend Numbers](https://projecteuler.net/problem=612) |
 | **Day 304** | 2026-10-07 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | [Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs/) | [Marsh Crossing](https://projecteuler.net/problem=607)<br>[Divisor Sums](https://projecteuler.net/problem=608) |
 | **Day 303** | 2026-10-06 | [Sum of Compatible Numbers in Range I](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/) | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | [Number of Ways to Earn Points](https://leetcode.com/problems/number-of-ways-to-earn-points/) | [Pairwise Coin-Tossing Game](https://projecteuler.net/problem=605)<br>[Gozinta Chains II](https://projecteuler.net/problem=606) |
