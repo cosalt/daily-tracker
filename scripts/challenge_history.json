@@ -2398,5 +2398,13 @@
     "medium": "[Design Auction System](https://leetcode.com/problems/design-auction-system/)",
     "hard": "[Count Sequences to K](https://leetcode.com/problems/count-sequences-to-k/)",
     "euler": "[Pythagorean Ant](https://projecteuler.net/problem=613)<br>[Special Partitions 2](https://projecteuler.net/problem=614)"
+  },
+  {
+    "day": 308,
+    "date": "2026-10-11",
+    "easy": "[The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/)",
+    "medium": "[Maximum Points Tourist Can Earn](https://leetcode.com/problems/maximum-points-tourist-can-earn/)",
+    "hard": "[Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/)",
+    "euler": "[The Millionth Number with at Least One Million Prime Factors](https://projecteuler.net/problem=615)<br>[Creative Numbers](https://projecteuler.net/problem=616)"
   }
 ]
