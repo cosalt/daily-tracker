@@ -2406,5 +2406,13 @@
     "medium": "[Maximum Points Tourist Can Earn](https://leetcode.com/problems/maximum-points-tourist-can-earn/)",
     "hard": "[Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/)",
     "euler": "[The Millionth Number with at Least One Million Prime Factors](https://projecteuler.net/problem=615)<br>[Creative Numbers](https://projecteuler.net/problem=616)"
+  },
+  {
+    "day": 309,
+    "date": "2026-10-12",
+    "easy": "[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)",
+    "medium": "[Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)",
+    "hard": "[Minimum Number of Operations to Make Arrays Similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/)",
+    "euler": "[Mirror Power Sequence](https://projecteuler.net/problem=617)<br>[Numbers with a Given Prime Factor Sum](https://projecteuler.net/problem=618)"
   }
 ]
