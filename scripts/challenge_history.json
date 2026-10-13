@@ -2414,5 +2414,13 @@
     "medium": "[Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)",
     "hard": "[Minimum Number of Operations to Make Arrays Similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/)",
     "euler": "[Mirror Power Sequence](https://projecteuler.net/problem=617)<br>[Numbers with a Given Prime Factor Sum](https://projecteuler.net/problem=618)"
+  },
+  {
+    "day": 310,
+    "date": "2026-10-13",
+    "easy": "[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)",
+    "medium": "[Find Maximum Number of Non Intersecting Substrings](https://leetcode.com/problems/find-maximum-number-of-non-intersecting-substrings/)",
+    "hard": "[Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/)",
+    "euler": "[Square Subsets](https://projecteuler.net/problem=619)<br>[Planetary Gears](https://projecteuler.net/problem=620)"
   }
 ]

@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 309 (Started Dec 8, 2025)
+### Daily Challenge - Day 310 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [Minimum Number of Operations to Make Arrays Similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/) | [Mirror Power Sequence](https://projecteuler.net/problem=617)<br>[Numbers with a Given Prime Factor Sum](https://projecteuler.net/problem=618) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Find Maximum Number of Non Intersecting Substrings](https://leetcode.com/problems/find-maximum-number-of-non-intersecting-substrings/) | [Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/) | [Square Subsets](https://projecteuler.net/problem=619)<br>[Planetary Gears](https://projecteuler.net/problem=620) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 310** | 2026-10-13 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Find Maximum Number of Non Intersecting Substrings](https://leetcode.com/problems/find-maximum-number-of-non-intersecting-substrings/) | [Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/) | [Square Subsets](https://projecteuler.net/problem=619)<br>[Planetary Gears](https://projecteuler.net/problem=620) |
 | **Day 309** | 2026-10-12 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [Minimum Number of Operations to Make Arrays Similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/) | [Mirror Power Sequence](https://projecteuler.net/problem=617)<br>[Numbers with a Given Prime Factor Sum](https://projecteuler.net/problem=618) |
 | **Day 308** | 2026-10-11 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | [Maximum Points Tourist Can Earn](https://leetcode.com/problems/maximum-points-tourist-can-earn/) | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/) | [The Millionth Number with at Least One Million Prime Factors](https://projecteuler.net/problem=615)<br>[Creative Numbers](https://projecteuler.net/problem=616) |
 | **Day 307** | 2026-10-10 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Design Auction System](https://leetcode.com/problems/design-auction-system/) | [Count Sequences to K](https://leetcode.com/problems/count-sequences-to-k/) | [Pythagorean Ant](https://projecteuler.net/problem=613)<br>[Special Partitions 2](https://projecteuler.net/problem=614) |
