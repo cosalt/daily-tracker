@@ -2422,5 +2422,13 @@
     "medium": "[Find Maximum Number of Non Intersecting Substrings](https://leetcode.com/problems/find-maximum-number-of-non-intersecting-substrings/)",
     "hard": "[Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/)",
     "euler": "[Square Subsets](https://projecteuler.net/problem=619)<br>[Planetary Gears](https://projecteuler.net/problem=620)"
+  },
+  {
+    "day": 311,
+    "date": "2026-10-14",
+    "easy": "[Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/)",
+    "medium": "[Minimum Operations to Form Subset Sum I](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-i/)",
+    "hard": "[Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/)",
+    "euler": "[Expressing an Integer as the Sum of Triangular Numbers](https://projecteuler.net/problem=621)<br>[Riffle Shuffles](https://projecteuler.net/problem=622)"
   }
 ]

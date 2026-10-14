@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 310 (Started Dec 8, 2025)
+### Daily Challenge - Day 311 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Find Maximum Number of Non Intersecting Substrings](https://leetcode.com/problems/find-maximum-number-of-non-intersecting-substrings/) | [Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/) | [Square Subsets](https://projecteuler.net/problem=619)<br>[Planetary Gears](https://projecteuler.net/problem=620) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [Minimum Operations to Form Subset Sum I](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-i/) | [Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/) | [Expressing an Integer as the Sum of Triangular Numbers](https://projecteuler.net/problem=621)<br>[Riffle Shuffles](https://projecteuler.net/problem=622) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 311** | 2026-10-14 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [Minimum Operations to Form Subset Sum I](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-i/) | [Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/) | [Expressing an Integer as the Sum of Triangular Numbers](https://projecteuler.net/problem=621)<br>[Riffle Shuffles](https://projecteuler.net/problem=622) |
 | **Day 310** | 2026-10-13 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Find Maximum Number of Non Intersecting Substrings](https://leetcode.com/problems/find-maximum-number-of-non-intersecting-substrings/) | [Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/) | [Square Subsets](https://projecteuler.net/problem=619)<br>[Planetary Gears](https://projecteuler.net/problem=620) |
 | **Day 309** | 2026-10-12 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [Minimum Number of Operations to Make Arrays Similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/) | [Mirror Power Sequence](https://projecteuler.net/problem=617)<br>[Numbers with a Given Prime Factor Sum](https://projecteuler.net/problem=618) |
 | **Day 308** | 2026-10-11 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | [Maximum Points Tourist Can Earn](https://leetcode.com/problems/maximum-points-tourist-can-earn/) | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/) | [The Millionth Number with at Least One Million Prime Factors](https://projecteuler.net/problem=615)<br>[Creative Numbers](https://projecteuler.net/problem=616) |
