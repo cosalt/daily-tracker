@@ -2438,5 +2438,13 @@
     "medium": "[Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/)",
     "hard": "[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)",
     "euler": "[Lambda Count](https://projecteuler.net/problem=623)<br>[Two Heads Are Better Than One](https://projecteuler.net/problem=624)"
+  },
+  {
+    "day": 313,
+    "date": "2026-10-16",
+    "easy": "[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)",
+    "medium": "[Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/)",
+    "hard": "[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)",
+    "euler": "[Gcd Sum](https://projecteuler.net/problem=625)<br>[Counting Binary Matrices](https://projecteuler.net/problem=626)"
   }
 ]
