@@ -2446,5 +2446,13 @@
     "medium": "[Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/)",
     "hard": "[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)",
     "euler": "[Gcd Sum](https://projecteuler.net/problem=625)<br>[Counting Binary Matrices](https://projecteuler.net/problem=626)"
+  },
+  {
+    "day": 314,
+    "date": "2026-10-17",
+    "easy": "[Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/)",
+    "medium": "[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)",
+    "hard": "[Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/)",
+    "euler": "[Counting Products](https://projecteuler.net/problem=627)<br>[Open Chess Positions](https://projecteuler.net/problem=628)"
   }
 ]
