@@ -2454,5 +2454,13 @@
     "medium": "[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)",
     "hard": "[Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/)",
     "euler": "[Counting Products](https://projecteuler.net/problem=627)<br>[Open Chess Positions](https://projecteuler.net/problem=628)"
+  },
+  {
+    "day": 315,
+    "date": "2026-10-18",
+    "easy": "[Compute Decimal Representation](https://leetcode.com/problems/compute-decimal-representation/)",
+    "medium": "[Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/)",
+    "hard": "[Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/)",
+    "euler": "[Scatterstone Nim](https://projecteuler.net/problem=629)<br>[Crossed Lines](https://projecteuler.net/problem=630)"
   }
 ]

@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 314 (Started Dec 8, 2025)
+### Daily Challenge - Day 315 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/) | [Counting Products](https://projecteuler.net/problem=627)<br>[Open Chess Positions](https://projecteuler.net/problem=628) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Compute Decimal Representation](https://leetcode.com/problems/compute-decimal-representation/) | [Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/) | [Scatterstone Nim](https://projecteuler.net/problem=629)<br>[Crossed Lines](https://projecteuler.net/problem=630) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 315** | 2026-10-18 | [Compute Decimal Representation](https://leetcode.com/problems/compute-decimal-representation/) | [Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/) | [Scatterstone Nim](https://projecteuler.net/problem=629)<br>[Crossed Lines](https://projecteuler.net/problem=630) |
 | **Day 314** | 2026-10-17 | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/) | [Counting Products](https://projecteuler.net/problem=627)<br>[Open Chess Positions](https://projecteuler.net/problem=628) |
 | **Day 313** | 2026-10-16 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Gcd Sum](https://projecteuler.net/problem=625)<br>[Counting Binary Matrices](https://projecteuler.net/problem=626) |
 | **Day 312** | 2026-10-15 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Lambda Count](https://projecteuler.net/problem=623)<br>[Two Heads Are Better Than One](https://projecteuler.net/problem=624) |
