@@ -2462,5 +2462,13 @@
     "medium": "[Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/)",
     "hard": "[Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/)",
     "euler": "[Scatterstone Nim](https://projecteuler.net/problem=629)<br>[Crossed Lines](https://projecteuler.net/problem=630)"
+  },
+  {
+    "day": 316,
+    "date": "2026-10-19",
+    "easy": "[Find Minimum Log Transportation Cost](https://leetcode.com/problems/find-minimum-log-transportation-cost/)",
+    "medium": "[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)",
+    "hard": "[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)",
+    "euler": "[Constrained Permutations](https://projecteuler.net/problem=631)<br>[Square Prime Factors](https://projecteuler.net/problem=632)"
   }
 ]
