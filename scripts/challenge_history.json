@@ -2470,5 +2470,13 @@
     "medium": "[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)",
     "hard": "[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)",
     "euler": "[Constrained Permutations](https://projecteuler.net/problem=631)<br>[Square Prime Factors](https://projecteuler.net/problem=632)"
+  },
+  {
+    "day": 317,
+    "date": "2026-10-20",
+    "easy": "[Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/)",
+    "medium": "[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)",
+    "hard": "[Maximize Subarray Sum After Removing All Occurrences of One Element](https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/)",
+    "euler": "[Square Prime Factors II](https://projecteuler.net/problem=633)<br>[Numbers of the Form $a^2b^3$](https://projecteuler.net/problem=634)"
   }
 ]
