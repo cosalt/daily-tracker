@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 317 (Started Dec 8, 2025)
+### Daily Challenge - Day 318 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [Maximize Subarray Sum After Removing All Occurrences of One Element](https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/) | [Square Prime Factors II](https://projecteuler.net/problem=633)<br>[Numbers of the Form $a^2b^3$](https://projecteuler.net/problem=634) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Score of a String](https://leetcode.com/problems/score-of-a-string/) | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [Minimum Moves to Pick K Ones](https://leetcode.com/problems/minimum-moves-to-pick-k-ones/) | [Subset Sums](https://projecteuler.net/problem=635)<br>[Restricted Factorisations](https://projecteuler.net/problem=636) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 318** | 2026-10-21 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [Minimum Moves to Pick K Ones](https://leetcode.com/problems/minimum-moves-to-pick-k-ones/) | [Subset Sums](https://projecteuler.net/problem=635)<br>[Restricted Factorisations](https://projecteuler.net/problem=636) |
 | **Day 317** | 2026-10-20 | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [Maximize Subarray Sum After Removing All Occurrences of One Element](https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/) | [Square Prime Factors II](https://projecteuler.net/problem=633)<br>[Numbers of the Form $a^2b^3$](https://projecteuler.net/problem=634) |
 | **Day 316** | 2026-10-19 | [Find Minimum Log Transportation Cost](https://leetcode.com/problems/find-minimum-log-transportation-cost/) | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Constrained Permutations](https://projecteuler.net/problem=631)<br>[Square Prime Factors](https://projecteuler.net/problem=632) |
 | **Day 315** | 2026-10-18 | [Compute Decimal Representation](https://leetcode.com/problems/compute-decimal-representation/) | [Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/) | [Scatterstone Nim](https://projecteuler.net/problem=629)<br>[Crossed Lines](https://projecteuler.net/problem=630) |

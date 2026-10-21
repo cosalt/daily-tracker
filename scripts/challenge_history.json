@@ -2478,5 +2478,13 @@
     "medium": "[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)",
     "hard": "[Maximize Subarray Sum After Removing All Occurrences of One Element](https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/)",
     "euler": "[Square Prime Factors II](https://projecteuler.net/problem=633)<br>[Numbers of the Form $a^2b^3$](https://projecteuler.net/problem=634)"
+  },
+  {
+    "day": 318,
+    "date": "2026-10-21",
+    "easy": "[Score of a String](https://leetcode.com/problems/score-of-a-string/)",
+    "medium": "[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)",
+    "hard": "[Minimum Moves to Pick K Ones](https://leetcode.com/problems/minimum-moves-to-pick-k-ones/)",
+    "euler": "[Subset Sums](https://projecteuler.net/problem=635)<br>[Restricted Factorisations](https://projecteuler.net/problem=636)"
   }
 ]
