@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 318 (Started Dec 8, 2025)
+### Daily Challenge - Day 319 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Score of a String](https://leetcode.com/problems/score-of-a-string/) | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [Minimum Moves to Pick K Ones](https://leetcode.com/problems/minimum-moves-to-pick-k-ones/) | [Subset Sums](https://projecteuler.net/problem=635)<br>[Restricted Factorisations](https://projecteuler.net/problem=636) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | [Flexible Digit Sum](https://projecteuler.net/problem=637)<br>[Weighted Lattice Paths](https://projecteuler.net/problem=638) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 319** | 2026-10-22 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | [Flexible Digit Sum](https://projecteuler.net/problem=637)<br>[Weighted Lattice Paths](https://projecteuler.net/problem=638) |
 | **Day 318** | 2026-10-21 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | [Minimum Moves to Pick K Ones](https://leetcode.com/problems/minimum-moves-to-pick-k-ones/) | [Subset Sums](https://projecteuler.net/problem=635)<br>[Restricted Factorisations](https://projecteuler.net/problem=636) |
 | **Day 317** | 2026-10-20 | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [Maximize Subarray Sum After Removing All Occurrences of One Element](https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/) | [Square Prime Factors II](https://projecteuler.net/problem=633)<br>[Numbers of the Form $a^2b^3$](https://projecteuler.net/problem=634) |
 | **Day 316** | 2026-10-19 | [Find Minimum Log Transportation Cost](https://leetcode.com/problems/find-minimum-log-transportation-cost/) | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Constrained Permutations](https://projecteuler.net/problem=631)<br>[Square Prime Factors](https://projecteuler.net/problem=632) |

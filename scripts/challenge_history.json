@@ -2486,5 +2486,13 @@
     "medium": "[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)",
     "hard": "[Minimum Moves to Pick K Ones](https://leetcode.com/problems/minimum-moves-to-pick-k-ones/)",
     "euler": "[Subset Sums](https://projecteuler.net/problem=635)<br>[Restricted Factorisations](https://projecteuler.net/problem=636)"
+  },
+  {
+    "day": 319,
+    "date": "2026-10-22",
+    "easy": "[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)",
+    "medium": "[Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/)",
+    "hard": "[Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/)",
+    "euler": "[Flexible Digit Sum](https://projecteuler.net/problem=637)<br>[Weighted Lattice Paths](https://projecteuler.net/problem=638)"
   }
 ]
