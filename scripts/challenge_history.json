@@ -2494,5 +2494,13 @@
     "medium": "[Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/)",
     "hard": "[Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/)",
     "euler": "[Flexible Digit Sum](https://projecteuler.net/problem=637)<br>[Weighted Lattice Paths](https://projecteuler.net/problem=638)"
+  },
+  {
+    "day": 320,
+    "date": "2026-10-23",
+    "easy": "[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)",
+    "medium": "[Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum/)",
+    "hard": "[Minimum Space Wasted From Packaging](https://leetcode.com/problems/minimum-space-wasted-from-packaging/)",
+    "euler": "[Summing a Multiplicative Function](https://projecteuler.net/problem=639)<br>[Shut the Box](https://projecteuler.net/problem=640)"
   }
 ]
