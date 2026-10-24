@@ -2502,5 +2502,13 @@
     "medium": "[Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum/)",
     "hard": "[Minimum Space Wasted From Packaging](https://leetcode.com/problems/minimum-space-wasted-from-packaging/)",
     "euler": "[Summing a Multiplicative Function](https://projecteuler.net/problem=639)<br>[Shut the Box](https://projecteuler.net/problem=640)"
+  },
+  {
+    "day": 321,
+    "date": "2026-10-24",
+    "easy": "[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)",
+    "medium": "[Assign Elements to Groups with Constraints](https://leetcode.com/problems/assign-elements-to-groups-with-constraints/)",
+    "hard": "[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)",
+    "euler": "[A Long Row of Dice](https://projecteuler.net/problem=641)<br>[Sum of Largest Prime Factors](https://projecteuler.net/problem=642)"
   }
 ]
