@@ -2510,5 +2510,13 @@
     "medium": "[Assign Elements to Groups with Constraints](https://leetcode.com/problems/assign-elements-to-groups-with-constraints/)",
     "hard": "[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)",
     "euler": "[A Long Row of Dice](https://projecteuler.net/problem=641)<br>[Sum of Largest Prime Factors](https://projecteuler.net/problem=642)"
+  },
+  {
+    "day": 322,
+    "date": "2026-10-25",
+    "easy": "[Sort Integers by Binary Reflection](https://leetcode.com/problems/sort-integers-by-binary-reflection/)",
+    "medium": "[Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/)",
+    "hard": "[Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/)",
+    "euler": "[$2$-Friendly](https://projecteuler.net/problem=643)<br>[Squares on the Line](https://projecteuler.net/problem=644)"
   }
 ]

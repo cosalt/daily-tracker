@@ -7,11 +7,11 @@
 ---
 
 <!-- DAILY_CHALLENGE_START -->
-### Daily Challenge - Day 321 (Started Dec 8, 2025)
+### Daily Challenge - Day 322 (Started Dec 8, 2025)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📐 Project Euler (2/day) | 🚀 NeetCode |
 | :---: | :---: | :---: | :---: | :---: |
-| [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Assign Elements to Groups with Constraints](https://leetcode.com/problems/assign-elements-to-groups-with-constraints/) | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | [A Long Row of Dice](https://projecteuler.net/problem=641)<br>[Sum of Largest Prime Factors](https://projecteuler.net/problem=642) | [NeetCode Practice](https://neetcode.io/practice) |
+| [Sort Integers by Binary Reflection](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | [Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/) | [$2$-Friendly](https://projecteuler.net/problem=643)<br>[Squares on the Line](https://projecteuler.net/problem=644) | [NeetCode Practice](https://neetcode.io/practice) |
 <!-- DAILY_CHALLENGE_END -->
 
 ---
@@ -49,6 +49,7 @@
 
 | Day | Date | Easy | Medium | Hard | Euler |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Day 322** | 2026-10-25 | [Sort Integers by Binary Reflection](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | [Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/) | [$2$-Friendly](https://projecteuler.net/problem=643)<br>[Squares on the Line](https://projecteuler.net/problem=644) |
 | **Day 321** | 2026-10-24 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Assign Elements to Groups with Constraints](https://leetcode.com/problems/assign-elements-to-groups-with-constraints/) | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | [A Long Row of Dice](https://projecteuler.net/problem=641)<br>[Sum of Largest Prime Factors](https://projecteuler.net/problem=642) |
 | **Day 320** | 2026-10-23 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) | [Minimum Space Wasted From Packaging](https://leetcode.com/problems/minimum-space-wasted-from-packaging/) | [Summing a Multiplicative Function](https://projecteuler.net/problem=639)<br>[Shut the Box](https://projecteuler.net/problem=640) |
 | **Day 319** | 2026-10-22 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | [Flexible Digit Sum](https://projecteuler.net/problem=637)<br>[Weighted Lattice Paths](https://projecteuler.net/problem=638) |
